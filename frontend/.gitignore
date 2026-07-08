@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Generated Scraping Data
-public/games.json
+# public/games.json

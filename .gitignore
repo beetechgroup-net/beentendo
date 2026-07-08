@@ -17,5 +17,5 @@ Thumbs.db
 *next_data.json
 games_next_data.json
 
-# Generated Data Dump (to avoid git noise with database modifications)
-frontend/public/games.json
+# Generated Data Dump (commented out to allow committing for GitHub Pages deployment)
+# frontend/public/games.json

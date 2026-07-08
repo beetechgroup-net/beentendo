@@ -1,0 +1,1262 @@
+[ {
+  "id" : 1,
+  "nsuid" : "70010000096640",
+  "name" : "DELTARUNE",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000096640/69a9b5c218fe9b06f7fca6c4a1a9f7344f40ac584997a0abe772bf80281ef999",
+  "prices" : [ {
+    "id" : 1,
+    "regularPrice" : 119.00,
+    "salePrice" : 95.20,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.735247"
+  } ]
+}, {
+  "id" : 2,
+  "nsuid" : "70010000095547",
+  "name" : "Cyberpunk 2077: Ultimate Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000095547/f172668ac499434b33917199f2021f753d42b73862d76d3c93d04a474dade847",
+  "prices" : [ {
+    "id" : 2,
+    "regularPrice" : 339.99,
+    "salePrice" : 142.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.756802"
+  } ]
+}, {
+  "id" : 3,
+  "nsuid" : "70010000094450",
+  "name" : "DELTARUNE",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000094450/69a9b5c218fe9b06f7fca6c4a1a9f7344f40ac584997a0abe772bf80281ef999",
+  "prices" : [ {
+    "id" : 3,
+    "regularPrice" : 119.00,
+    "salePrice" : 95.20,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.761983"
+  } ]
+}, {
+  "id" : 4,
+  "nsuid" : "70010000113876",
+  "name" : "Devil May Cry 5 Devil Hunter Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000113876/77085af7307f826d96206e77052aa1927271397c04281965f7e4f6f2916a6063",
+  "prices" : [ {
+    "id" : 4,
+    "regularPrice" : 199.00,
+    "salePrice" : 149.25,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.766084"
+  } ]
+}, {
+  "id" : 5,
+  "nsuid" : "70010000033131",
+  "name" : "Hades",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000033131/dbc8c55a21688b446a5c57711b726956483a14ef8c5ddb861f897c0595ccb6b5",
+  "prices" : [ {
+    "id" : 5,
+    "regularPrice" : 92.46,
+    "salePrice" : 27.73,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.770214"
+  } ]
+}, {
+  "id" : 6,
+  "nsuid" : "70010000096817",
+  "name" : "The Legend of Zelda™: Breath of the Wild – Nintendo Switch™ 2 Edition ",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000096817/cfe9f8d674be958326d3ba11fc7598a4383e5c5d7809b6239ccac0783aac6cd8",
+  "prices" : [ {
+    "id" : 6,
+    "regularPrice" : 389.90,
+    "salePrice" : 272.93,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.77346"
+  } ]
+}, {
+  "id" : 7,
+  "nsuid" : "70010000095396",
+  "name" : "NBA 2K26",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000095396/a8723e44e8f043ef5d8faa4a05af4107e11c9b496e9caef2a84005f995d65870",
+  "prices" : [ {
+    "id" : 7,
+    "regularPrice" : 299.90,
+    "salePrice" : 44.98,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.777185"
+  } ]
+}, {
+  "id" : 8,
+  "nsuid" : "70010000000025",
+  "name" : "The Legend of Zelda™: Breath of the Wild",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
+  "prices" : [ {
+    "id" : 8,
+    "regularPrice" : 329.90,
+    "salePrice" : 230.93,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.781073"
+  } ]
+}, {
+  "id" : 9,
+  "nsuid" : "70010000105526",
+  "name" : "Hades II – Nintendo Switch™ 2 Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000105526/4ea19bfcd0c389ee5d02bb0c9bbb562802c40b73eba39e1582ac057ea7f73ad4",
+  "prices" : [ {
+    "id" : 9,
+    "regularPrice" : 109.90,
+    "salePrice" : 76.93,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.784576"
+  } ]
+}, {
+  "id" : 10,
+  "nsuid" : "70010000015568",
+  "name" : "Unravel Two",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000015568/e39e17159b7aa3770398e4dc1ebd15eb15377c6cbad55d2256f84e55394436de",
+  "prices" : [ {
+    "id" : 10,
+    "regularPrice" : 109.00,
+    "salePrice" : 32.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.78811"
+  } ]
+}, {
+  "id" : 11,
+  "nsuid" : "70010000043147",
+  "name" : "Persona 5 Royal",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000043147/684bd8b00abcbf6dd122727a27c01a337f667bef825f4f4662efad9854b72fd4",
+  "prices" : [ {
+    "id" : 11,
+    "regularPrice" : 295.00,
+    "salePrice" : 88.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.79112"
+  } ]
+}, {
+  "id" : 12,
+  "nsuid" : "70010000111452",
+  "name" : "DAVE THE DIVER Nintendo Switch 2 Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000111452/e9f85d4cd497fb6a93f9ae2a27e239299fa1e751e53a3357bf35c13fa8d0812c",
+  "prices" : [ {
+    "id" : 12,
+    "regularPrice" : 99.99,
+    "salePrice" : 54.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.794151"
+  } ]
+}, {
+  "id" : 13,
+  "nsuid" : "70010000029352",
+  "name" : "BioShock: The Collection",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000029352/11c0cfa01694d37d55c9eae3705ba0697c2dc6b8f7f98c41ac57b39eb02a32cb",
+  "prices" : [ {
+    "id" : 13,
+    "regularPrice" : 249.95,
+    "salePrice" : 49.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.797665"
+  } ]
+}, {
+  "id" : 14,
+  "nsuid" : "70010000029278",
+  "name" : "Need for Speed™ Hot Pursuit Remastered",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000029278/db1a656b6d00996f978483999ddd9221aa6c5680d6cfae60ccf9566d4e444a5d",
+  "prices" : [ {
+    "id" : 14,
+    "regularPrice" : 199.00,
+    "salePrice" : 39.80,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.800645"
+  } ]
+}, {
+  "id" : 15,
+  "nsuid" : "70010000013514",
+  "name" : "SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000013514/7883a9cb430c498a09d37bfa31d6f57143977919e349ec51a4585b135d755421",
+  "prices" : [ {
+    "id" : 15,
+    "regularPrice" : 99.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.803447"
+  } ]
+}, {
+  "id" : 16,
+  "nsuid" : "70010000033071",
+  "name" : "The Witcher 3: Wild Hunt",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000033071/3f7ee6aa3482b514bd443e116022b038a9728f017916ed37da3f09f731a7d5f2",
+  "prices" : [ {
+    "id" : 16,
+    "regularPrice" : 179.99,
+    "salePrice" : 35.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.806103"
+  } ]
+}, {
+  "id" : 17,
+  "nsuid" : "70010000051034",
+  "name" : "Inscryption",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000051034/5f1d65045ab88c401b8dbfda3f447eb2c2064bf1815ca966a4265c31dfcd9b68",
+  "prices" : [ {
+    "id" : 17,
+    "regularPrice" : 49.99,
+    "salePrice" : 14.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.808762"
+  } ]
+}, {
+  "id" : 18,
+  "nsuid" : "70010000008122",
+  "name" : "DARK SOULS™: REMASTERED",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000008122/453d17f26995df6bd67d698c90ba2fd27157a61875e1a9730545da23474c6aaf",
+  "prices" : [ {
+    "id" : 18,
+    "regularPrice" : 219.90,
+    "salePrice" : 109.95,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.811841"
+  } ]
+}, {
+  "id" : 19,
+  "nsuid" : "70010000060372",
+  "name" : "DAVE THE DIVER",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000060372/e77cbe3c83da8de952bce5bc0f0960092dbc2e08d377f0e082673239322301bb",
+  "prices" : [ {
+    "id" : 19,
+    "regularPrice" : 99.99,
+    "salePrice" : 54.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.815469"
+  } ]
+}, {
+  "id" : 20,
+  "nsuid" : "70010000112715",
+  "name" : "Red Dead Redemption: Edição Nintendo Switch™ 2",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000112715/23a5df3a860a49ea3d47c037362bed20447ea5ac5ff09c8135f6484db8902a4e",
+  "prices" : [ {
+    "id" : 20,
+    "regularPrice" : 249.90,
+    "salePrice" : 124.95,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.818469"
+  } ]
+}, {
+  "id" : 21,
+  "nsuid" : "70010000098957",
+  "name" : "NBA 2K26",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000098957/a8723e44e8f043ef5d8faa4a05af4107e11c9b496e9caef2a84005f995d65870",
+  "prices" : [ {
+    "id" : 21,
+    "regularPrice" : 399.90,
+    "salePrice" : 59.98,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.821109"
+  } ]
+}, {
+  "id" : 22,
+  "nsuid" : "70010000058660",
+  "name" : "Red Dead Redemption",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000058660/38c8a3d94f1c893b007ffbf5d07e6f235b7e66ab951ef00d8ef246168fc31637",
+  "prices" : [ {
+    "id" : 22,
+    "regularPrice" : 299.00,
+    "salePrice" : 149.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.823743"
+  } ]
+}, {
+  "id" : 23,
+  "nsuid" : "70010000098462",
+  "name" : "Plants vs. Zombies™: Replanted",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000098462/b192bd37698dbead21d4b0ff84a8d5f985a804f93ad767a29f9127bbf7aa904d",
+  "prices" : [ {
+    "id" : 23,
+    "regularPrice" : 99.00,
+    "salePrice" : 64.35,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.82605"
+  } ]
+}, {
+  "id" : 24,
+  "nsuid" : "70010000065249",
+  "name" : "Unicorn Overlord",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000065249/151a3fe397cb6279d17a4cc5307e975a24195d96c77b5d0c47dc63703263df2c",
+  "prices" : [ {
+    "id" : 24,
+    "regularPrice" : 299.90,
+    "salePrice" : 89.97,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.828925"
+  } ]
+}, {
+  "id" : 25,
+  "nsuid" : "70010000060675",
+  "name" : "Hades II",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000060675/a9a30b2adb707f5922eb2a845f821c99516a69e023751491b10584ac1352462f",
+  "prices" : [ {
+    "id" : 25,
+    "regularPrice" : 109.90,
+    "salePrice" : 76.93,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.83197"
+  } ]
+}, {
+  "id" : 26,
+  "nsuid" : "70010000097434",
+  "name" : "Split Fiction",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000097434/6de085f1efb6c90b754e383fe810f3cb0e847105bb584c706f4cd3b5c66491f4",
+  "prices" : [ {
+    "id" : 26,
+    "regularPrice" : 249.00,
+    "salePrice" : 161.85,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.834977"
+  } ]
+}, {
+  "id" : 27,
+  "nsuid" : "70010000037980",
+  "name" : "Danganronpa: Trigger Happy Havoc Anniversary Edition",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000037980/6a84ae122ee090fb34e921775ed4c8d3f29fece6ba746c9b557202a62f10b542",
+  "prices" : [ {
+    "id" : 27,
+    "regularPrice" : 76.45,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.83812"
+  } ]
+}, {
+  "id" : 28,
+  "nsuid" : "70010000046941",
+  "name" : "Death's Door",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000046941/1bd971db9b44f6cd0b0293392fb97d33055786bd9db98d8353aed65ff5f192a5",
+  "prices" : [ {
+    "id" : 28,
+    "regularPrice" : 101.95,
+    "salePrice" : 20.39,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.840945"
+  } ]
+}, {
+  "id" : 29,
+  "nsuid" : "70010000117941",
+  "name" : "Whisper of the House",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000117941/958819dac36d1cef1d68bcb9181e00f0ee9e21b88ecf2c252d310429967bc8e9",
+  "prices" : [ {
+    "id" : 29,
+    "regularPrice" : 46.99,
+    "salePrice" : 37.59,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.844216"
+  } ]
+}, {
+  "id" : 30,
+  "nsuid" : "70010000073072",
+  "name" : "Nine Sols",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000073072/ff59ee3c049bdcd8df8e299a63464662880db710c07017a2bc56468a5f3b4424",
+  "prices" : [ {
+    "id" : 30,
+    "regularPrice" : 119.99,
+    "salePrice" : 59.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.84961"
+  } ]
+}, {
+  "id" : 31,
+  "nsuid" : "70010000061050",
+  "name" : "Little Kitty, Big City",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000061050/813e3bd006428f1a6618bf73584b107d262ce6f663428bca0566e0ab49540dd2",
+  "prices" : [ {
+    "id" : 31,
+    "regularPrice" : 92.45,
+    "salePrice" : 55.47,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.852999"
+  } ]
+}, {
+  "id" : 32,
+  "nsuid" : "70010000109038",
+  "name" : "Blue Prince",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000109038/b981f7ef5d2df071e77e83bbe6ded66110931ecdb62571ad2086d5523bf4af06",
+  "prices" : [ {
+    "id" : 32,
+    "regularPrice" : 88.99,
+    "salePrice" : 53.39,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.855316"
+  } ]
+}, {
+  "id" : 33,
+  "nsuid" : "70010000007606",
+  "name" : "Fire Emblem™: Three Houses",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000007606/c499fdc86779ca95e61daed1f94288a245d196360d278138e56d44097d1a3878",
+  "prices" : [ {
+    "id" : 33,
+    "regularPrice" : 329.90,
+    "salePrice" : 230.93,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.867386"
+  } ]
+}, {
+  "id" : 34,
+  "nsuid" : "70010000074087",
+  "name" : "Pizza Tower",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000074087/d1841b9229da6944ce46cd93e719a58bb85242dc0accf9e1a2f1456cad07814a",
+  "prices" : [ {
+    "id" : 34,
+    "regularPrice" : 39.90,
+    "salePrice" : 19.95,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.874511"
+  } ]
+}, {
+  "id" : 35,
+  "nsuid" : "70010000101043",
+  "name" : "Assassin's Creed Shadows",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000101043/27e7c0866bfdf82d63a1486122e2dff215a5604794b7c8311256fb5d60a650b0",
+  "prices" : [ {
+    "id" : 35,
+    "regularPrice" : 299.99,
+    "salePrice" : 179.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.88742"
+  } ]
+}, {
+  "id" : 36,
+  "nsuid" : "70010000098368",
+  "name" : "Plants vs. Zombies™: Replanted",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000098368/b192bd37698dbead21d4b0ff84a8d5f985a804f93ad767a29f9127bbf7aa904d",
+  "prices" : [ {
+    "id" : 36,
+    "regularPrice" : 99.00,
+    "salePrice" : 64.35,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.899795"
+  } ]
+}, {
+  "id" : 37,
+  "nsuid" : "70010000027023",
+  "name" : "Burnout™ Paradise Remastered",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000027023/de4b4864bc8e309a49cc4f5e6fb19874ad1b52186103dd367ac8cb2defc21952",
+  "prices" : [ {
+    "id" : 37,
+    "regularPrice" : 149.00,
+    "salePrice" : 29.80,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.908343"
+  } ]
+}, {
+  "id" : 38,
+  "nsuid" : "70010000027858",
+  "name" : "Plants vs. Zombies™: Batalha por Neighborville Edição Completa",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000027858/7af8c9cdf2122e7ec0b5e20e6b498bc34087a2443caec543af8aa0c2425debcc",
+  "prices" : [ {
+    "id" : 38,
+    "regularPrice" : 199.00,
+    "salePrice" : 43.78,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.918259"
+  } ]
+}, {
+  "id" : 39,
+  "nsuid" : "70010000084531",
+  "name" : "Yu-Gi-Oh! EARLY DAYS COLLECTION",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000084531/69480aaa30f6225a77fe5642130b066df2498b609be6644bcb4c39706480a643",
+  "prices" : [ {
+    "id" : 39,
+    "regularPrice" : 199.95,
+    "salePrice" : 59.98,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.92414"
+  } ]
+}, {
+  "id" : 40,
+  "nsuid" : "70010000012305",
+  "name" : "Diablo III: Eternal Collection",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000012305/9d8f95e20b59b76eab1a74aaefdabbabe6438b6761efc4efa6306dde638987f3",
+  "prices" : [ {
+    "id" : 40,
+    "regularPrice" : 199.00,
+    "salePrice" : 65.67,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.927071"
+  } ]
+}, {
+  "id" : 41,
+  "nsuid" : "70010000013704",
+  "name" : "Civilization VI",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000013704/918c0badde3aeba760e2185f382a2402248a1292322cf540fd8d098eeb292e1e",
+  "prices" : [ {
+    "id" : 41,
+    "regularPrice" : 149.50,
+    "salePrice" : 29.90,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.933248"
+  } ]
+}, {
+  "id" : 42,
+  "nsuid" : "70010000074491",
+  "name" : "Hello Kitty Island Adventure",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000074491/9bc84933536e86209d90a2ce46ddcd5d5a8782156b9d636febd1057f49eae629",
+  "prices" : [ {
+    "id" : 42,
+    "regularPrice" : 147.45,
+    "salePrice" : 88.47,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.940055"
+  } ]
+}, {
+  "id" : 43,
+  "nsuid" : "70010000003622",
+  "name" : "Street Fighter 30th Anniversary Collection",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000003622/e9699e4dc2d99af796a396b18c43bee39ba7742ab3c9aef2b5d6a880714ea528",
+  "prices" : [ {
+    "id" : 43,
+    "regularPrice" : 129.00,
+    "salePrice" : 42.98,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.9475"
+  } ]
+}, {
+  "id" : 44,
+  "nsuid" : "70010000039366",
+  "name" : "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000039366/826f5ddb992697b2fa73c452ebfa661781bad6a37e6447848ace31ae58502d1f",
+  "prices" : [ {
+    "id" : 44,
+    "regularPrice" : 94.99,
+    "salePrice" : 47.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.952012"
+  } ]
+}, {
+  "id" : 45,
+  "nsuid" : "70010000100149",
+  "name" : "Persona 3 Reload",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000100149/b755e5038e7fb59e09abe48fd4db575a346ceea53c4d146d7bb6e32b0fea3c0d",
+  "prices" : [ {
+    "id" : 45,
+    "regularPrice" : 299.90,
+    "salePrice" : 194.93,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.955031"
+  } ]
+}, {
+  "id" : 46,
+  "nsuid" : "70010000016899",
+  "name" : "Saints Row IV®: Re-Elected™",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000016899/bdca4d4a8aace54ec81f3c7f13fab0d20b32a50f9f914452d1046db4c24bd328",
+  "prices" : [ {
+    "id" : 46,
+    "regularPrice" : 99.00,
+    "salePrice" : 14.85,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.958628"
+  } ]
+}, {
+  "id" : 47,
+  "nsuid" : "70010000038880",
+  "name" : "STAR WARS™: The Force Unleashed™",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000038880/f2b316793a2e67e67604b32fe3c6edff51c67c57dd31fc170a9e11b65d58a3d0",
+  "prices" : [ {
+    "id" : 47,
+    "regularPrice" : 113.13,
+    "salePrice" : 45.25,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:13.960968"
+  } ]
+}, {
+  "id" : 48,
+  "nsuid" : "70010000123167",
+  "name" : "Star Fox™",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000123167/2e5ba4d3d7e7861be86325846ed4c9126905f43294612dc57bcc2a060310c6be",
+  "prices" : [ {
+    "id" : 48,
+    "regularPrice" : 279.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.027952"
+  } ]
+}, {
+  "id" : 49,
+  "nsuid" : "70010000116663",
+  "name" : "Tomodachi Life™: Living the Dream",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000116663/7517e82d74bf3712637c5607e97e365f2779335fad56211cdcac1307e4556b6c",
+  "prices" : [ {
+    "id" : 49,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.034025"
+  } ]
+}, {
+  "id" : 50,
+  "nsuid" : "70010000091347",
+  "name" : "EA SPORTS FC™ 26",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091347/d5e04f3596fafe241e21c45c5e414cbb4ba696016d2e164a5307cbfa5fbc7a35",
+  "prices" : [ {
+    "id" : 50,
+    "regularPrice" : 299.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.038446"
+  } ]
+}, {
+  "id" : 51,
+  "nsuid" : "70010000122818",
+  "name" : "Rhythm Heaven™ Groove",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000122818/fc765bd3d264aeb5404aa4c29b96ea26a45ba943d79d46a1e398a641c6da7998",
+  "prices" : [ {
+    "id" : 51,
+    "regularPrice" : 219.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.043227"
+  } ]
+}, {
+  "id" : 52,
+  "nsuid" : "70010000000964",
+  "name" : "Minecraft",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
+  "prices" : [ {
+    "id" : 52,
+    "regularPrice" : 99.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.07219"
+  } ]
+}, {
+  "id" : 53,
+  "nsuid" : "70010000118613",
+  "name" : "(Inglês) Pokémon FireRed Version",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000118613/86f3c6d4e129d185cbbc441169856733dea45ff231446a4edf5fec4624041849",
+  "prices" : [ {
+    "id" : 53,
+    "regularPrice" : 109.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.0808"
+  } ]
+}, {
+  "id" : 54,
+  "nsuid" : "70010000098845",
+  "name" : "EA SPORTS FC™ 26",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000098845/d5e04f3596fafe241e21c45c5e414cbb4ba696016d2e164a5307cbfa5fbc7a35",
+  "prices" : [ {
+    "id" : 54,
+    "regularPrice" : 349.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.086167"
+  } ]
+}, {
+  "id" : 55,
+  "nsuid" : "70010000014724",
+  "name" : "Hogwarts Legacy",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000014724/72ce0a17215521a167c3da579db4cc48a2f7a52eacc81ad985ba20fd6817fdc2",
+  "prices" : [ {
+    "id" : 55,
+    "regularPrice" : 299.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.090781"
+  } ]
+}, {
+  "id" : 56,
+  "nsuid" : "70010000012332",
+  "name" : "Super Smash Bros.™ Ultimate",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9",
+  "prices" : [ {
+    "id" : 56,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.094998"
+  } ]
+}, {
+  "id" : 57,
+  "nsuid" : "70010000029237",
+  "name" : "Overcooked! All You Can Eat",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000029237/16af19f777a4f7f935fa0d18ed49f5c32b3571b8a94e8c3af0987e9211526e7e",
+  "prices" : [ {
+    "id" : 57,
+    "regularPrice" : 214.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.097408"
+  } ]
+}, {
+  "id" : 58,
+  "nsuid" : "70010000001801",
+  "name" : "Stardew Valley",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000001801/d1650c06a965a971e78113c74a6f48d934b6a43b878b293ea9ed2a64bc6cf024",
+  "prices" : [ {
+    "id" : 58,
+    "regularPrice" : 24.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.099698"
+  } ]
+}, {
+  "id" : 59,
+  "nsuid" : "70010000107421",
+  "name" : "Pokémon™ Pokopia",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000107421/ccb2d70f7ad6878b78d366898a0f0baf94a2d3350b76725c88b591453a797502",
+  "prices" : [ {
+    "id" : 59,
+    "regularPrice" : 389.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.104628"
+  } ]
+}, {
+  "id" : 60,
+  "nsuid" : "70010000049931",
+  "name" : "Nintendo Switch™ Sports",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000049931/282ce6a96d5855d8b46aa9316314969f731a26ef9c7b2bc1e5aebe62dcf2ece2",
+  "prices" : [ {
+    "id" : 60,
+    "regularPrice" : 219.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.106631"
+  } ]
+}, {
+  "id" : 61,
+  "nsuid" : "70010000084608",
+  "name" : "Super Mario Party™ Jamboree",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000084608/ba0572bf9d840b03bf9958809943fb3c76c3adfd6d8f2704b0f1b766f8aa4027",
+  "prices" : [ {
+    "id" : 61,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.110681"
+  } ]
+}, {
+  "id" : 62,
+  "nsuid" : "70010000000153",
+  "name" : "Mario Kart™ 8 Deluxe",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453",
+  "prices" : [ {
+    "id" : 62,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.115689"
+  } ]
+}, {
+  "id" : 63,
+  "nsuid" : "70010000025461",
+  "name" : "LEGO® Marvel™ Super Heroes",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000025461/8a87b6c21c03139337dccc2b7b89c15278c52997e65bdd088e52ba7006d0e3de",
+  "prices" : [ {
+    "id" : 63,
+    "regularPrice" : 199.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.120398"
+  } ]
+}, {
+  "id" : 64,
+  "nsuid" : "70010000016124",
+  "name" : "Dead by Daylight",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000016124/fe28c7ebca96e110b3dd09bfe34d11c8ac72577e25c55a435d56c34dc59aa00d",
+  "prices" : [ {
+    "id" : 64,
+    "regularPrice" : 104.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.122535"
+  } ]
+}, {
+  "id" : 65,
+  "nsuid" : "70010000018041",
+  "name" : "LEGO® Star Wars™: A Saga Skywalker",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000018041/e52844f237f452c187db5daec14c3300f45d7be100c1dcff88c7188c8b9b48a9",
+  "prices" : [ {
+    "id" : 65,
+    "regularPrice" : 229.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.124559"
+  } ]
+}, {
+  "id" : 66,
+  "nsuid" : "70010000118618",
+  "name" : "(Inglês) Pokémon LeafGreen Version",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000118618/af2c94d85c4b3bc671d0a88d3c0ea4b1eb96a8b5d45c758ceea10e29a0ffda44",
+  "prices" : [ {
+    "id" : 66,
+    "regularPrice" : 109.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.126465"
+  } ]
+}, {
+  "id" : 67,
+  "nsuid" : "70010000095431",
+  "name" : "Mario Kart™ World",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000095431/1bba0e9570d208bf3b3e0435f79791e2e997c0f7450a61faff8c3b37c2d24d0f",
+  "prices" : [ {
+    "id" : 67,
+    "regularPrice" : 439.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.128572"
+  } ]
+}, {
+  "id" : 68,
+  "nsuid" : "70010000013536",
+  "name" : "LEGO® Harry Potter™ Collection",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000013536/16692d987f2984b4b32b81859e1448f3e3abfcf1d8d644c73b74c8921ef32975",
+  "prices" : [ {
+    "id" : 68,
+    "regularPrice" : 149.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.130903"
+  } ]
+}, {
+  "id" : 69,
+  "nsuid" : "70010000036098",
+  "name" : "Among Us",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000036098/758ab0b61205081da2466386940752c70e0e5ea43bd39e8b9b13eaa455c69b7e",
+  "prices" : [ {
+    "id" : 69,
+    "regularPrice" : 18.50,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.14904"
+  } ]
+}, {
+  "id" : 70,
+  "nsuid" : "70010000047973",
+  "name" : "Cult of the Lamb",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000047973/f4bf3b2748a6571b0f0c62369b733a8386347abdb158fb985f9ffdf36a5567a6",
+  "prices" : [ {
+    "id" : 70,
+    "regularPrice" : 73.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.151676"
+  } ]
+}, {
+  "id" : 71,
+  "nsuid" : "70010000116884",
+  "name" : "The Adventures of Elliot: The Millennium Tales",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000116884/585f6d8f18cbeb7a7e12aa90061cebc80b18a34cdbc860ba005cb6ff7999a72c",
+  "prices" : [ {
+    "id" : 71,
+    "regularPrice" : 339.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.154053"
+  } ]
+}, {
+  "id" : 72,
+  "nsuid" : "70010000095417",
+  "name" : "Hogwarts Legacy",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000095417/1474ec0ae203ee7a392f89ad9cf9d630b7f2d13b1300c65d27e435a607c0bda5",
+  "prices" : [ {
+    "id" : 72,
+    "regularPrice" : 299.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.15606"
+  } ]
+}, {
+  "id" : 73,
+  "nsuid" : "70010000053757",
+  "name" : "Mortal Kombat™ 1",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000053757/82dc03395aaad04fe6112d41a1a716b8398852687ff919dd2fa36f81d75ac0b2",
+  "prices" : [ {
+    "id" : 73,
+    "regularPrice" : 199.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.166263"
+  } ]
+}, {
+  "id" : 74,
+  "nsuid" : "70010000011921",
+  "name" : "Nickelodeon Kart Racers",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000011921/6ecc808557c3b7c31d6f2a59899f951682a24965de17ad04190337d1337b52b1",
+  "prices" : [ {
+    "id" : 74,
+    "regularPrice" : 152.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.168418"
+  } ]
+}, {
+  "id" : 75,
+  "nsuid" : "70010000011526",
+  "name" : "Hyper Light Drifter - Special Edition ",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000011526/c2021d1e2ab87ddbe6afc0fc0585306ad2da144f7cbea49507e4615eb3c17492",
+  "prices" : [ {
+    "id" : 75,
+    "regularPrice" : 105.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.173572"
+  } ]
+}, {
+  "id" : 76,
+  "nsuid" : "70010000094234",
+  "name" : "Pokémon™ Legends: Z-A",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000094234/357e68d5f1e168a213f3b2db2dda7da9e0ba2c0f0900360cc72c3f90649f7091",
+  "prices" : [ {
+    "id" : 76,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.175642"
+  } ]
+}, {
+  "id" : 77,
+  "nsuid" : "70010000080994",
+  "name" : "Wobbly Life",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080994/7f5a7381a2e98af0b75a86cace8b9ef152eccafb04a0c43b8826c24be3ff96d2",
+  "prices" : [ {
+    "id" : 77,
+    "regularPrice" : 79.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.181652"
+  } ]
+}, {
+  "id" : 78,
+  "nsuid" : "70010000036188",
+  "name" : "THE GAME OF LIFE 2",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000036188/8103468c52c257a40350b1b6fc2b4daa6067a0037d41b59f5a31849ade651e37",
+  "prices" : [ {
+    "id" : 78,
+    "regularPrice" : 152.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.183809"
+  } ]
+}, {
+  "id" : 79,
+  "nsuid" : "70010000020489",
+  "name" : "LEGO® Jurassic World",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000020489/0f8d556547095642a87bf0c638e2eeda78081047656a9ca14ab496ccf7b227b1",
+  "prices" : [ {
+    "id" : 79,
+    "regularPrice" : 199.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.187568"
+  } ]
+}, {
+  "id" : 80,
+  "nsuid" : "70010000021379",
+  "name" : "Golf With Your Friends",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000021379/dab4e4046e86353dc6a34fc66e6c16c5007850414abfbd5e1f95c53553da739e",
+  "prices" : [ {
+    "id" : 80,
+    "regularPrice" : 79.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.189441"
+  } ]
+}, {
+  "id" : 81,
+  "nsuid" : "70010000119859",
+  "name" : "Yoshi™ and the Mysterious Book",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000119859/38365bbf7b9057db9d299c7e213c3f0e671f9f0dba7129e5a59e69b2fddaecab",
+  "prices" : [ {
+    "id" : 81,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.191389"
+  } ]
+}, {
+  "id" : 82,
+  "nsuid" : "70010000096809",
+  "name" : "Donkey Kong™ Bananza",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000096809/c103f1be80b02409d0ebd7b1411bad3f7a5d7cadea6974af2158fbf04e0a3410",
+  "prices" : [ {
+    "id" : 82,
+    "regularPrice" : 389.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.196144"
+  } ]
+}, {
+  "id" : 83,
+  "nsuid" : "70010000016330",
+  "name" : "Cuphead",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000016330/d94d2186ef03c930392253c83c84af0c73b7e57cd902a526b09b4155a25930fe",
+  "prices" : [ {
+    "id" : 83,
+    "regularPrice" : 49.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.20228"
+  } ]
+}, {
+  "id" : 84,
+  "nsuid" : "70010000085047",
+  "name" : "ESCAPE - BACKROOMS HORROR",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000085047/d6be1e38a1ad6068721cfae653697656573b299a3b50ec48fa8589ffe9f8862f",
+  "prices" : [ {
+    "id" : 84,
+    "regularPrice" : 29.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.206539"
+  } ]
+}, {
+  "id" : 85,
+  "nsuid" : "70010000079714",
+  "name" : "Date Everything!",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079714/febdd1e1299f3ef6ce3668fefa7d77b0ee8cb019c41b4f4e32bb36c76f603c1d",
+  "prices" : [ {
+    "id" : 85,
+    "regularPrice" : 149.50,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.209947"
+  } ]
+}, {
+  "id" : 86,
+  "nsuid" : "70010000127971",
+  "name" : "Mina the Hollower - Nintendo Switch 2 Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000127971/d5e8a7b8bfe50e523e188e5f0d19c96a24b24945f54662e1dfd249da283b13e1",
+  "prices" : [ {
+    "id" : 86,
+    "regularPrice" : 59.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.212152"
+  } ]
+}, {
+  "id" : 87,
+  "nsuid" : "70010000027619",
+  "name" : "Animal Crossing™: New Horizons",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
+  "prices" : [ {
+    "id" : 87,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.215859"
+  } ]
+}, {
+  "id" : 88,
+  "nsuid" : "70010000003208",
+  "name" : "Hollow Knight",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51",
+  "prices" : [ {
+    "id" : 88,
+    "regularPrice" : 27.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.218055"
+  } ]
+}, {
+  "id" : 89,
+  "nsuid" : "70010000053725",
+  "name" : "The Oregon Trail",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000053725/f313f04b4ee74a87622906b1b423e2f8eab05e748f06321bd917f303bfaf1fdd",
+  "prices" : [ {
+    "id" : 89,
+    "regularPrice" : 144.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.225559"
+  } ]
+}, {
+  "id" : 90,
+  "nsuid" : "70010000068688",
+  "name" : "Super Mario Bros.™ Wonder",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000068688/1b2766c7a82e706d1465b6e138b1d96d4de7bd7cd7f52831ea149c9afb072250",
+  "prices" : [ {
+    "id" : 90,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.229468"
+  } ]
+}, {
+  "id" : 91,
+  "nsuid" : "70010000105384",
+  "name" : "Stardew Valley: Nintendo Switch 2 Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000105384/c3794d9f79b298f6d8bc106a0cb20fc64f86a39a7659151a76053ea892b61730",
+  "prices" : [ {
+    "id" : 91,
+    "regularPrice" : 24.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.233365"
+  } ]
+}, {
+  "id" : 92,
+  "nsuid" : "70010000108238",
+  "name" : "Sonic Frontiers – Edição Definitiva",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000108238/fac34531ef37ddb8652dbfdf6c718dc5eacc0e4869dc52cad9ab12c0433e2735",
+  "prices" : [ {
+    "id" : 92,
+    "regularPrice" : 250.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.237715"
+  } ]
+}, {
+  "id" : 93,
+  "nsuid" : "70010000114847",
+  "name" : "Poppy Playtime: Capítulo 5",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000114847/e1ad1ff7df5b8e19eb7d93434fd0b2b003eadca051dfaf58ed003d8fee3f0efc",
+  "prices" : [ {
+    "id" : 93,
+    "regularPrice" : 133.50,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.241841"
+  } ]
+}, {
+  "id" : 94,
+  "nsuid" : "70010000009921",
+  "name" : "Undertale",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000009921/44bea8c565db26c0c470a6325a47c9ea031633945cb91e4b5e1b1a39b01a2cdb",
+  "prices" : [ {
+    "id" : 94,
+    "regularPrice" : 79.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.24865"
+  } ]
+}, {
+  "id" : 95,
+  "nsuid" : "70010000039945",
+  "name" : "Pokémon™ Legends: Arceus",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000039945/dcb496d7cf954c7eb51ab2e5d0c27918fb7f055e50f4e902135bd4a70a44b491",
+  "prices" : [ {
+    "id" : 95,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.259027"
+  } ]
+}, {
+  "id" : 96,
+  "nsuid" : "70010000001130",
+  "name" : "Super Mario Odyssey™",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+  "prices" : [ {
+    "id" : 96,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.269028"
+  } ]
+}, {
+  "id" : 97,
+  "nsuid" : "70010000100722",
+  "name" : "Rise of the Tomb Raider: 20 Year Celebration",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000100722/7adb400c4b24c42a07447d034d4b1481d73ff6b25ac96a6c9a1727f21af11795",
+  "prices" : [ {
+    "id" : 97,
+    "regularPrice" : 129.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.271147"
+  } ]
+} ]
