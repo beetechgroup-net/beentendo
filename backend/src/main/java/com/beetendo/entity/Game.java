@@ -1,4 +1,4 @@
-package com.bintendo.entity;
+package com.beetendo.entity;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import jakarta.persistence.Column;

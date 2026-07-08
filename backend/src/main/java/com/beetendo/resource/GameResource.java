@@ -1,6 +1,6 @@
-package com.bintendo.resource;
+package com.beetendo.resource;
 
-import com.bintendo.entity.Game;
+import com.beetendo.entity.Game;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
 import jakarta.ws.rs.Produces;

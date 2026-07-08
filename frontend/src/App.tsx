@@ -71,7 +71,7 @@ function App() {
           <div className="header-logo-group">
             <span className="logo-icon">🎮</span>
             <div>
-              <h1 className="app-main-title">Bintendo Prices</h1>
+              <h1 className="app-main-title">Beetendo Prices</h1>
               <p className="app-subtitle">Acompanhamento e histórico de preços dos mais vendidos</p>
             </div>
           </div>

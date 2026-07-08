@@ -1,7 +1,7 @@
-package com.bintendo.service;
+package com.beetendo.service;
 
-import com.bintendo.entity.Game;
-import com.bintendo.entity.PriceRecord;
+import com.beetendo.entity.Game;
+import com.beetendo.entity.PriceRecord;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;

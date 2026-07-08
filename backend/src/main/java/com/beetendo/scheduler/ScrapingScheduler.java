@@ -1,6 +1,6 @@
-package com.bintendo.scheduler;
+package com.beetendo.scheduler;
 
-import com.bintendo.service.ScrapingService;
+import com.beetendo.service.ScrapingService;
 import io.quarkus.runtime.StartupEvent;
 import io.quarkus.scheduler.Scheduled;
 import jakarta.enterprise.context.ApplicationScoped;
