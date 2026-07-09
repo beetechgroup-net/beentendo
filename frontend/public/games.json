@@ -23,6 +23,12 @@
     "salePrice" : 142.00,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.756802"
+  }, {
+    "id" : 101,
+    "regularPrice" : 339.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.753969"
   } ]
 }, {
   "id" : 3,
@@ -75,6 +81,12 @@
     "salePrice" : 272.93,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.77346"
+  }, {
+    "id" : 102,
+    "regularPrice" : 389.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.79329"
   } ]
 }, {
   "id" : 7,
@@ -88,6 +100,12 @@
     "salePrice" : 44.98,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.777185"
+  }, {
+    "id" : 103,
+    "regularPrice" : 299.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.802483"
   } ]
 }, {
   "id" : 8,
@@ -101,6 +119,12 @@
     "salePrice" : 230.93,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.781073"
+  }, {
+    "id" : 104,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.811533"
   } ]
 }, {
   "id" : 9,
@@ -127,6 +151,12 @@
     "salePrice" : 32.70,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.78811"
+  }, {
+    "id" : 105,
+    "regularPrice" : 109.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.834438"
   } ]
 }, {
   "id" : 11,
@@ -140,6 +170,12 @@
     "salePrice" : 88.50,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.79112"
+  }, {
+    "id" : 106,
+    "regularPrice" : 295.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.842618"
   } ]
 }, {
   "id" : 12,
@@ -153,6 +189,12 @@
     "salePrice" : 54.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.794151"
+  }, {
+    "id" : 107,
+    "regularPrice" : 99.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.849551"
   } ]
 }, {
   "id" : 13,
@@ -166,6 +208,12 @@
     "salePrice" : 49.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.797665"
+  }, {
+    "id" : 108,
+    "regularPrice" : 249.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.869388"
   } ]
 }, {
   "id" : 14,
@@ -179,6 +227,12 @@
     "salePrice" : 39.80,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.800645"
+  }, {
+    "id" : 109,
+    "regularPrice" : 199.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.874033"
   } ]
 }, {
   "id" : 15,
@@ -192,6 +246,12 @@
     "salePrice" : 11.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.803447"
+  }, {
+    "id" : 110,
+    "regularPrice" : 99.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.878017"
   } ]
 }, {
   "id" : 16,
@@ -205,6 +265,12 @@
     "salePrice" : 35.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.806103"
+  }, {
+    "id" : 111,
+    "regularPrice" : 179.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.882557"
   } ]
 }, {
   "id" : 17,
@@ -218,6 +284,12 @@
     "salePrice" : 14.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.808762"
+  }, {
+    "id" : 112,
+    "regularPrice" : 49.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.886249"
   } ]
 }, {
   "id" : 18,
@@ -231,6 +303,12 @@
     "salePrice" : 109.95,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.811841"
+  }, {
+    "id" : 113,
+    "regularPrice" : 219.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.88979"
   } ]
 }, {
   "id" : 19,
@@ -244,6 +322,12 @@
     "salePrice" : 54.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.815469"
+  }, {
+    "id" : 114,
+    "regularPrice" : 99.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.892837"
   } ]
 }, {
   "id" : 20,
@@ -257,6 +341,12 @@
     "salePrice" : 124.95,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.818469"
+  }, {
+    "id" : 115,
+    "regularPrice" : 249.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.905637"
   } ]
 }, {
   "id" : 21,
@@ -270,6 +360,12 @@
     "salePrice" : 59.98,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.821109"
+  }, {
+    "id" : 116,
+    "regularPrice" : 399.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.908988"
   } ]
 }, {
   "id" : 22,
@@ -283,6 +379,12 @@
     "salePrice" : 149.50,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.823743"
+  }, {
+    "id" : 117,
+    "regularPrice" : 299.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.911916"
   } ]
 }, {
   "id" : 23,
@@ -296,6 +398,12 @@
     "salePrice" : 64.35,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.82605"
+  }, {
+    "id" : 118,
+    "regularPrice" : 99.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.915365"
   } ]
 }, {
   "id" : 24,
@@ -309,6 +417,12 @@
     "salePrice" : 89.97,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.828925"
+  }, {
+    "id" : 119,
+    "regularPrice" : 299.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.922472"
   } ]
 }, {
   "id" : 25,
@@ -335,6 +449,12 @@
     "salePrice" : 161.85,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.834977"
+  }, {
+    "id" : 120,
+    "regularPrice" : 249.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.931098"
   } ]
 }, {
   "id" : 27,
@@ -348,6 +468,12 @@
     "salePrice" : 11.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.83812"
+  }, {
+    "id" : 121,
+    "regularPrice" : 76.45,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.934143"
   } ]
 }, {
   "id" : 28,
@@ -361,6 +487,12 @@
     "salePrice" : 20.39,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.840945"
+  }, {
+    "id" : 122,
+    "regularPrice" : 101.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.940079"
   } ]
 }, {
   "id" : 29,
@@ -387,6 +519,12 @@
     "salePrice" : 59.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.84961"
+  }, {
+    "id" : 123,
+    "regularPrice" : 119.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.959392"
   } ]
 }, {
   "id" : 31,
@@ -400,6 +538,12 @@
     "salePrice" : 55.47,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.852999"
+  }, {
+    "id" : 124,
+    "regularPrice" : 92.45,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.962237"
   } ]
 }, {
   "id" : 32,
@@ -413,6 +557,12 @@
     "salePrice" : 53.39,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.855316"
+  }, {
+    "id" : 125,
+    "regularPrice" : 88.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.966468"
   } ]
 }, {
   "id" : 33,
@@ -426,6 +576,12 @@
     "salePrice" : 230.93,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.867386"
+  }, {
+    "id" : 126,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.970692"
   } ]
 }, {
   "id" : 34,
@@ -439,6 +595,12 @@
     "salePrice" : 19.95,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.874511"
+  }, {
+    "id" : 127,
+    "regularPrice" : 39.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.976436"
   } ]
 }, {
   "id" : 35,
@@ -452,6 +614,12 @@
     "salePrice" : 179.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.88742"
+  }, {
+    "id" : 128,
+    "regularPrice" : 299.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.982212"
   } ]
 }, {
   "id" : 36,
@@ -465,6 +633,12 @@
     "salePrice" : 64.35,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.899795"
+  }, {
+    "id" : 129,
+    "regularPrice" : 99.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.985349"
   } ]
 }, {
   "id" : 37,
@@ -478,6 +652,12 @@
     "salePrice" : 29.80,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.908343"
+  }, {
+    "id" : 130,
+    "regularPrice" : 149.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.988005"
   } ]
 }, {
   "id" : 38,
@@ -491,6 +671,12 @@
     "salePrice" : 43.78,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.918259"
+  }, {
+    "id" : 131,
+    "regularPrice" : 199.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.992619"
   } ]
 }, {
   "id" : 39,
@@ -504,6 +690,12 @@
     "salePrice" : 59.98,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.92414"
+  }, {
+    "id" : 132,
+    "regularPrice" : 199.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:10.997275"
   } ]
 }, {
   "id" : 40,
@@ -517,6 +709,12 @@
     "salePrice" : 65.67,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.927071"
+  }, {
+    "id" : 133,
+    "regularPrice" : 199.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:11.002765"
   } ]
 }, {
   "id" : 41,
@@ -530,6 +728,12 @@
     "salePrice" : 29.90,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.933248"
+  }, {
+    "id" : 134,
+    "regularPrice" : 149.50,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:11.007524"
   } ]
 }, {
   "id" : 42,
@@ -543,6 +747,12 @@
     "salePrice" : 88.47,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.940055"
+  }, {
+    "id" : 135,
+    "regularPrice" : 147.45,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:11.012816"
   } ]
 }, {
   "id" : 43,
@@ -569,6 +779,12 @@
     "salePrice" : 47.50,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.952012"
+  }, {
+    "id" : 136,
+    "regularPrice" : 94.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:11.019986"
   } ]
 }, {
   "id" : 45,
@@ -582,6 +798,12 @@
     "salePrice" : 194.93,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.955031"
+  }, {
+    "id" : 137,
+    "regularPrice" : 299.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:11.022644"
   } ]
 }, {
   "id" : 46,
@@ -595,6 +817,12 @@
     "salePrice" : 14.85,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.958628"
+  }, {
+    "id" : 138,
+    "regularPrice" : 99.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:11.026945"
   } ]
 }, {
   "id" : 47,
@@ -608,6 +836,12 @@
     "salePrice" : 45.25,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.960968"
+  }, {
+    "id" : 139,
+    "regularPrice" : 113.13,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T11:25:11.033176"
   } ]
 }, {
   "id" : 48,
@@ -1039,19 +1273,6 @@
     "recordedAt" : "2026-07-08T10:22:14.189441"
   } ]
 }, {
-  "id" : 81,
-  "nsuid" : "70010000119859",
-  "name" : "Yoshi™ and the Mysterious Book",
-  "platform" : "switch 2",
-  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000119859/38365bbf7b9057db9d299c7e213c3f0e671f9f0dba7129e5a59e69b2fddaecab",
-  "prices" : [ {
-    "id" : 81,
-    "regularPrice" : 329.90,
-    "salePrice" : null,
-    "currency" : "BRL",
-    "recordedAt" : "2026-07-08T10:22:14.191389"
-  } ]
-}, {
   "id" : 82,
   "nsuid" : "70010000096809",
   "name" : "Donkey Kong™ Bananza",
@@ -1258,5 +1479,18 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:14.271147"
+  } ]
+}, {
+  "id" : 81,
+  "nsuid" : "70010000119859",
+  "name" : "Yoshi™ and the Mysterious Book",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000119859/d0003240b42025831091dc83ebf59654a31c5ab1513a460122349787f08db007",
+  "prices" : [ {
+    "id" : 81,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-08T10:22:14.191389"
   } ]
 } ]
