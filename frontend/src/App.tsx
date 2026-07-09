@@ -4,7 +4,7 @@ import { GameCard } from './components/GameCard';
 import { GameModal } from './components/GameModal';
 
 const DATA_SOURCE = import.meta.env.VITE_DATA_SOURCE || 'json';
-const API_URL = DATA_SOURCE === 'json' ? '/games.json' : 'http://localhost:8080/games';
+const API_URL = DATA_SOURCE === 'json' ? './games.json' : 'http://localhost:8080/games';
 
 function App() {
   const [games, setGames] = useState<Game[]>([]);
