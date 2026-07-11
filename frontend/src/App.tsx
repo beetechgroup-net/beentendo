@@ -13,7 +13,9 @@ function App() {
   
   // Filtros
   const [searchTerm, setSearchTerm] = useState<string>('');
-  const [platformFilter, setPlatformFilter] = useState<'all' | 'switch' | 'switch 2'>('all');
+  const [selectedPlatforms, setSelectedPlatforms] = useState<string[]>([]);
+  const [onlyPromo, setOnlyPromo] = useState<boolean>(false);
+  const [showMobileFilters, setShowMobileFilters] = useState<boolean>(false);
   
   // Controle de Modal
   const [selectedGame, setSelectedGame] = useState<Game | null>(null);
@@ -39,15 +41,37 @@ function App() {
     }
   };
 
+  const togglePlatform = (platform: string) => {
+    setSelectedPlatforms(prev =>
+      prev.includes(platform)
+        ? prev.filter(p => p !== platform)
+        : [...prev, platform]
+    );
+  };
+
+  const clearAllFilters = () => {
+    setSearchTerm('');
+    setSelectedPlatforms([]);
+    setOnlyPromo(false);
+  };
+
   // Filtragem dos jogos
   const filteredGames = games.filter(game => {
     const matchesSearch = game.name.toLowerCase().includes(searchTerm.toLowerCase());
     
-    const matchesPlatform = platformFilter === 'all' || 
-      (platformFilter === 'switch' && game.platform.toLowerCase() === 'switch') ||
-      (platformFilter === 'switch 2' && game.platform.toLowerCase() === 'switch 2');
-      
-    return matchesSearch && matchesPlatform;
+    const isSwitch2 = game.platform.toLowerCase().includes('switch 2') || game.platform.toLowerCase().includes('switch™ 2');
+    const platformKey = isSwitch2 ? 'switch 2' : 'switch';
+    
+    const matchesPlatform = selectedPlatforms.length === 0 || selectedPlatforms.includes(platformKey);
+    
+    const latestPrice = game.prices && game.prices.length > 0
+      ? game.prices[game.prices.length - 1]
+      : null;
+    const isPromo = latestPrice ? latestPrice.salePrice !== null : false;
+    
+    const matchesPromo = !onlyPromo || isPromo;
+    
+    return matchesSearch && matchesPlatform && matchesPromo;
   });
 
   // Estatísticas Rápidas
@@ -88,68 +112,125 @@ function App() {
           </div>
         </header>
 
-        {/* Barra de Filtros e Busca */}
-        <div className="filters-container">
-          <div className="search-wrapper">
-            <span className="search-icon">🔍</span>
-            <input 
-              type="text" 
-              placeholder="Buscar jogo pelo nome..." 
-              value={searchTerm}
-              onChange={e => setSearchTerm(e.target.value)}
-              className="search-input"
-            />
-          </div>
+        {/* Layout Principal em duas colunas */}
+        <div className="main-layout">
+          {/* Botão de Toggle Filtros no Mobile */}
+          <button 
+            className="mobile-filters-toggle-btn"
+            onClick={() => setShowMobileFilters(!showMobileFilters)}
+          >
+            <span>🔍 Filtrar e Buscar</span>
+            <span>{showMobileFilters ? '▲ Ocultar' : '▼ Mostrar'}</span>
+          </button>
 
-          <div className="platform-filters">
-            <button 
-              className={`filter-btn ${platformFilter === 'all' ? 'active' : ''}`}
-              onClick={() => setPlatformFilter('all')}
-            >
-              Todos
-            </button>
-            <button 
-              className={`filter-btn ${platformFilter === 'switch' ? 'active' : ''}`}
-              onClick={() => setPlatformFilter('switch')}
-            >
-              Nintendo Switch
-            </button>
-            <button 
-              className={`filter-btn ${platformFilter === 'switch 2' ? 'active' : ''}`}
-              onClick={() => setPlatformFilter('switch 2')}
-            >
-              Switch 2
-            </button>
-          </div>
+          {/* Barra Lateral de Filtros */}
+          <aside className={`filters-sidebar ${showMobileFilters ? 'mobile-open' : ''}`}>
+            {/* Grupo de Busca */}
+            <div className="filter-group">
+              <h3 className="filter-group-title">Buscar</h3>
+              <div className="search-wrapper">
+                <span className="search-icon">🔍</span>
+                <input 
+                  type="text" 
+                  placeholder="Nome do jogo..." 
+                  value={searchTerm}
+                  onChange={e => setSearchTerm(e.target.value)}
+                  className="search-input"
+                />
+              </div>
+            </div>
+
+            {/* Grupo de Plataformas */}
+            <div className="filter-group">
+              <h3 className="filter-group-title">Plataformas</h3>
+              <div className="filter-options">
+                <label className="filter-checkbox-label">
+                  <input 
+                    type="checkbox" 
+                    checked={selectedPlatforms.includes('switch')}
+                    onChange={() => togglePlatform('switch')}
+                  />
+                  <span className="custom-checkbox"></span>
+                  <span>Nintendo Switch</span>
+                </label>
+
+                <label className="filter-checkbox-label switch2-checkbox">
+                  <input 
+                    type="checkbox" 
+                    checked={selectedPlatforms.includes('switch 2')}
+                    onChange={() => togglePlatform('switch 2')}
+                  />
+                  <span className="custom-checkbox"></span>
+                  <span>Switch 2</span>
+                </label>
+              </div>
+            </div>
+
+            {/* Grupo de Promoções */}
+            <div className="filter-group">
+              <h3 className="filter-group-title">Ofertas</h3>
+              <div className="filter-options">
+                <label className="filter-checkbox-label promo-checkbox">
+                  <input 
+                    type="checkbox" 
+                    checked={onlyPromo}
+                    onChange={() => setOnlyPromo(!onlyPromo)}
+                  />
+                  <span className="custom-checkbox"></span>
+                  <span className="text-promo">🔥 Em Promoção</span>
+                </label>
+              </div>
+            </div>
+
+            {/* Resumo de resultados e Limpar Filtros */}
+            <div className="sidebar-footer">
+              <div className="results-count">
+                {filteredGames.length} {filteredGames.length === 1 ? 'jogo encontrado' : 'jogos encontrados'}
+              </div>
+              
+              {(searchTerm || selectedPlatforms.length > 0 || onlyPromo) && (
+                <button className="clear-filters-btn" onClick={clearAllFilters}>
+                  🗑️ Limpar Filtros
+                </button>
+              )}
+            </div>
+          </aside>
+
+          {/* Área Principal de Exibição */}
+          <section className="main-content">
+            {loading ? (
+              <div className="loading-state">
+                <div className="spinner"></div>
+                <p>Carregando os jogos da eShop...</p>
+              </div>
+            ) : error ? (
+              <div className="error-state">
+                <span className="error-icon">⚠️</span>
+                <p className="error-message">{error}</p>
+                <button onClick={fetchGames} className="retry-btn">Tentar Novamente</button>
+              </div>
+            ) : filteredGames.length === 0 ? (
+              <div className="empty-state">
+                <p>Nenhum jogo encontrado para os filtros selecionados.</p>
+                {(searchTerm || selectedPlatforms.length > 0 || onlyPromo) && (
+                  <button className="retry-btn" style={{ marginTop: '15px' }} onClick={clearAllFilters}>
+                    Limpar Filtros
+                  </button>
+                )}
+              </div>
+            ) : (
+              <main className="games-grid">
+                {filteredGames.map(game => (
+                  <GameCard 
+                    key={game.id} 
+                    game={game} 
+                    onClick={() => setSelectedGame(game)} 
+                  />
+                ))}
+              </main>
+            )}
+          </section>
         </div>
-
-        {/* Container Principal de Listagem */}
-        {loading ? (
-          <div className="loading-state">
-            <div className="spinner"></div>
-            <p>Carregando os jogos da eShop...</p>
-          </div>
-        ) : error ? (
-          <div className="error-state">
-            <span className="error-icon">⚠️</span>
-            <p className="error-message">{error}</p>
-            <button onClick={fetchGames} className="retry-btn">Tentar Novamente</button>
-          </div>
-        ) : filteredGames.length === 0 ? (
-          <div className="empty-state">
-            <p>Nenhum jogo encontrado para os filtros selecionados.</p>
-          </div>
-        ) : (
-          <main className="games-grid">
-            {filteredGames.map(game => (
-              <GameCard 
-                key={game.id} 
-                game={game} 
-                onClick={() => setSelectedGame(game)} 
-              />
-            ))}
-          </main>
-        )}
 
         {/* Modal de Detalhes */}
         {selectedGame && (
