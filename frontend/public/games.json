@@ -10,6 +10,12 @@
     "salePrice" : 95.20,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.735247"
+  }, {
+    "id" : 173,
+    "regularPrice" : 119.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-11T05:55:16.315414"
   } ]
 }, {
   "id" : 2,
@@ -42,6 +48,12 @@
     "salePrice" : 95.20,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.761983"
+  }, {
+    "id" : 172,
+    "regularPrice" : 119.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-11T05:55:16.302309"
   } ]
 }, {
   "id" : 4,
@@ -68,6 +80,12 @@
     "salePrice" : 27.73,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.770214"
+  }, {
+    "id" : 165,
+    "regularPrice" : 92.46,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-10T05:25:14.121435"
   } ]
 }, {
   "id" : 6,
@@ -138,6 +156,12 @@
     "salePrice" : 76.93,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.784576"
+  }, {
+    "id" : 166,
+    "regularPrice" : 109.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-10T05:25:14.137387"
   } ]
 }, {
   "id" : 10,
@@ -436,6 +460,12 @@
     "salePrice" : 76.93,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:13.83197"
+  }, {
+    "id" : 167,
+    "regularPrice" : 109.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-10T05:25:14.160202"
   } ]
 }, {
   "id" : 26,
@@ -1492,5 +1522,382 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:14.191389"
+  } ]
+}, {
+  "id" : 101,
+  "nsuid" : "70010000101698",
+  "name" : "FINAL FANTASY VII REMAKE INTERGRADE",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000101698/833214b25828c4b093c4abde2564f399991438c9498594b3d88f3fc54dad4d75",
+  "prices" : [ {
+    "id" : 140,
+    "regularPrice" : 229.90,
+    "salePrice" : 80.46,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.738085"
+  } ]
+}, {
+  "id" : 102,
+  "nsuid" : "70010000126913",
+  "name" : "Moonlight Peaks – Nintendo Switch™ 2 Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000126913/2d0a6339cf019f1180a359f2df07b2bc333dc15c22533e08a4e240fe4ae26445",
+  "prices" : [ {
+    "id" : 141,
+    "regularPrice" : 159.99,
+    "salePrice" : 135.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.755423"
+  } ]
+}, {
+  "id" : 103,
+  "nsuid" : "70010000112477",
+  "name" : "FINAL FANTASY VII REBIRTH",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000112477/99d3f9086b7b97984916c93456752d6981d56dcab942421cf71cd45836a62b72",
+  "prices" : [ {
+    "id" : 142,
+    "regularPrice" : 284.90,
+    "salePrice" : 170.94,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.75796"
+  } ]
+}, {
+  "id" : 104,
+  "nsuid" : "70010000109827",
+  "name" : "Moonlight Peaks",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000109827/18c9068204a57040e8abe30f628b759e76d6cff23439729c11f2063e84a9bf8e",
+  "prices" : [ {
+    "id" : 143,
+    "regularPrice" : 139.99,
+    "salePrice" : 118.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.763089"
+  } ]
+}, {
+  "id" : 105,
+  "nsuid" : "70010000010582",
+  "name" : "FINAL FANTASY IX",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000010582/55386ada9d124145f6112072d63958dc69982870a06e02cdef735abbfdba36e7",
+  "prices" : [ {
+    "id" : 144,
+    "regularPrice" : 87.50,
+    "salePrice" : 26.25,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.768618"
+  } ]
+}, {
+  "id" : 106,
+  "nsuid" : "70010000045182",
+  "name" : "NieR:Automata The End of YoRHa Edition",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000045182/74fb568c43f9c43895db89d4ebb2b510894de7141b066b953aebda427a46af87",
+  "prices" : [ {
+    "id" : 145,
+    "regularPrice" : 149.90,
+    "salePrice" : 59.96,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.770312"
+  } ]
+}, {
+  "id" : 107,
+  "nsuid" : "70010000000883",
+  "name" : "Overcooked Special Edition",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000000883/d93da9db84311380d2db949c1c618af1a0563cb992329b1d1adaa2a85ea0fe32",
+  "prices" : [ {
+    "id" : 146,
+    "regularPrice" : 49.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.771844"
+  } ]
+}, {
+  "id" : 108,
+  "nsuid" : "70010000015154",
+  "name" : "Mortal Kombat 11 ",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000015154/3d45a55169bcdeccb5fc315d6c0fe7d8f2733a8545e744f1d28b3d68a69083d3",
+  "prices" : [ {
+    "id" : 147,
+    "regularPrice" : 199.99,
+    "salePrice" : 39.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.773046"
+  } ]
+}, {
+  "id" : 109,
+  "nsuid" : "70010000013197",
+  "name" : "FINAL FANTASY VII",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000013197/24b0a5eb3cb807082cac29c409969b18426b74b87d172029373cfcff1feda755",
+  "prices" : [ {
+    "id" : 148,
+    "regularPrice" : 66.50,
+    "salePrice" : 26.60,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.774169"
+  } ]
+}, {
+  "id" : 110,
+  "nsuid" : "70010000100754",
+  "name" : "FINAL FANTASY TACTICS - The Ivalice Chronicles Nintendo Switch™ 2 Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000100754/a79ce10127b30deb1b647f11aa85333fee47cb1237bc1b23c8a3a4ef3b1aef1a",
+  "prices" : [ {
+    "id" : 149,
+    "regularPrice" : 249.50,
+    "salePrice" : 149.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.777074"
+  } ]
+}, {
+  "id" : 111,
+  "nsuid" : "70010000001618",
+  "name" : "Octopath Traveler™ ",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000001618/17b1bccde39bf55b302e5f9c0d69791f418bbd896243811ca3d129c5eab6426d",
+  "prices" : [ {
+    "id" : 150,
+    "regularPrice" : 299.00,
+    "salePrice" : 89.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.778148"
+  } ]
+}, {
+  "id" : 112,
+  "nsuid" : "70010000001532",
+  "name" : "LEGO® NINJAGO® O Filme: Video Game",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000001532/9610a0645f0a25ff11a6aacc95ec529986387abaa6c8cb1597e3a812675556b8",
+  "prices" : [ {
+    "id" : 151,
+    "regularPrice" : 249.99,
+    "salePrice" : 12.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.779162"
+  } ]
+}, {
+  "id" : 113,
+  "nsuid" : "70010000009746",
+  "name" : "FINAL FANTASY XII THE ZODIAC AGE",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000009746/5bcb8b7802294acb31bc57de2d50a34c1e7a3bd10d8d00f931aa297e20948196",
+  "prices" : [ {
+    "id" : 152,
+    "regularPrice" : 229.90,
+    "salePrice" : 68.97,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.780706"
+  } ]
+}, {
+  "id" : 114,
+  "nsuid" : "70010000007661",
+  "name" : "LEGO® DC Super-Vilões",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000007661/85e5262d17f3da11883c8ff510cc168b84b75fdca2cb2a7c3ee6b32c18590af2",
+  "prices" : [ {
+    "id" : 153,
+    "regularPrice" : 299.99,
+    "salePrice" : 29.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.781703"
+  } ]
+}, {
+  "id" : 115,
+  "nsuid" : "70010000019037",
+  "name" : "FINAL FANTASY VIII Remastered",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000019037/1f609577d7c4f00a85b762bb56fcec55f3ebba9b0ca77292ec11626f3d804dc2",
+  "prices" : [ {
+    "id" : 154,
+    "regularPrice" : 83.50,
+    "salePrice" : 33.40,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.782906"
+  } ]
+}, {
+  "id" : 116,
+  "nsuid" : "70010000058128",
+  "name" : "OCTOPATH TRAVELER II",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000058128/1e6e0b547a00e768e9c67263fedd6c34be54521169b7eb597892767bc72113b4",
+  "prices" : [ {
+    "id" : 155,
+    "regularPrice" : 299.90,
+    "salePrice" : 119.96,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:04.783935"
+  } ]
+}, {
+  "id" : 117,
+  "nsuid" : "70010000069639",
+  "name" : "NEW MONOPOLY®",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000069639/8248e2edec2e8c106a26cb174fd4ae108207cf21ffd6012704f60ef5540cb79c",
+  "prices" : [ {
+    "id" : 156,
+    "regularPrice" : 149.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:09.693085"
+  } ]
+}, {
+  "id" : 118,
+  "nsuid" : "70010000068827",
+  "name" : "Grounded",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000068827/cf0ab0f20e7f588ba732a072e34f1ef86cd5430880badf7dd134c7d547bf2d44",
+  "prices" : [ {
+    "id" : 157,
+    "regularPrice" : 199.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:09.695907"
+  } ]
+}, {
+  "id" : 119,
+  "nsuid" : "70010000069430",
+  "name" : "SONIC SUPERSTARS",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000069430/20a06bf1886558538728f46bf4b3bae2875e7d371d3b0d2b3bbf6ea2302f7668",
+  "prices" : [ {
+    "id" : 158,
+    "regularPrice" : 289.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:09.699578"
+  } ]
+}, {
+  "id" : 120,
+  "nsuid" : "70010000014006",
+  "name" : "GRIS",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000014006/bc4e849ea0ca47cffd0437b56ee9a80fbaf917d49d867f8bbf93e7106e46c1a3",
+  "prices" : [ {
+    "id" : 159,
+    "regularPrice" : 86.65,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:09.702849"
+  } ]
+}, {
+  "id" : 121,
+  "nsuid" : "70010000003311",
+  "name" : "NARUTO SHIPPUDEN: Ultimate Ninja Storm Trilogy",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000003311/b91da4c53a0235fda339eb2511f9099cd20de6d3e23eec8fa81c6bfa9dbf12ba",
+  "prices" : [ {
+    "id" : 160,
+    "regularPrice" : 199.50,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:09.705552"
+  } ]
+}, {
+  "id" : 122,
+  "nsuid" : "70010000002090",
+  "name" : "Crash Bandicoot™ N. Sane Trilogy",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000002090/ecfc64f339579b17ed8d12d5bdb4acd0cad2811cb2ff7dd0a02ce7e512c2d26a",
+  "prices" : [ {
+    "id" : 161,
+    "regularPrice" : 199.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:09.70841"
+  } ]
+}, {
+  "id" : 123,
+  "nsuid" : "70010000001702",
+  "name" : "Terraria",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000001702/dac3a26570b5ca1ddf703bf0add7cc7c527f71a2b56521baf69e20c7a573c610",
+  "prices" : [ {
+    "id" : 162,
+    "regularPrice" : 149.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:09.711202"
+  } ]
+}, {
+  "id" : 124,
+  "nsuid" : "70010000021921",
+  "name" : "Boomerang Fu",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000021921/93718cd185fc1736665b72d3dfdf111e69ba3e6c8c69989471c6e7e11c90f3f4",
+  "prices" : [ {
+    "id" : 163,
+    "regularPrice" : 76.45,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:09.713106"
+  } ]
+}, {
+  "id" : 125,
+  "nsuid" : "70010000038997",
+  "name" : "Bob Esponja: Cozinha Cascuda",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000038997/d952ebdfc0b3f22271e6bcc7a4a03dc00c81cff7296df3e4e5225dd2e6b4861f",
+  "prices" : [ {
+    "id" : 164,
+    "regularPrice" : 76.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-09T23:25:09.714573"
+  } ]
+}, {
+  "id" : 126,
+  "nsuid" : "70010000045911",
+  "name" : "Batman: Arkham City",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000045911/bc90570730494cfa1ee0ab09820ac4669818b61afb6aaa26def9f4600e2706ea",
+  "prices" : [ {
+    "id" : 168,
+    "regularPrice" : 129.99,
+    "salePrice" : 51.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-10T23:29:22.403329"
+  } ]
+}, {
+  "id" : 127,
+  "nsuid" : "70010000002381",
+  "name" : "LEGO® Os Incríveis",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000002381/527fda2c549f1b5912b581860a6cb7fbb170cff9c480935e45df67f1251adc3b",
+  "prices" : [ {
+    "id" : 169,
+    "regularPrice" : 299.99,
+    "salePrice" : 29.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-10T23:29:22.437254"
+  } ]
+}, {
+  "id" : 128,
+  "nsuid" : "70010000111119",
+  "name" : "Digimon Story Time Stranger",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000111119/225c7b045cc768ed3d62344ef745952291e01af45386c94257031d01b7dfb0a2",
+  "prices" : [ {
+    "id" : 170,
+    "regularPrice" : 339.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-10T23:29:27.382325"
+  } ]
+}, {
+  "id" : 129,
+  "nsuid" : "70010000112254",
+  "name" : "Granblue Fantasy: Relink - Endless Ragnarok (Standard Edition)",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000112254/1c1771cbb51b84e0bf68544d8e628acacd8994514d295d4962de5e22cc1a429f",
+  "prices" : [ {
+    "id" : 171,
+    "regularPrice" : 269.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-10T23:29:27.394283"
   } ]
 } ]

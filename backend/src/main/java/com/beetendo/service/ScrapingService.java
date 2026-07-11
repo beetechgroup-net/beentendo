@@ -4,8 +4,6 @@ import com.beetendo.entity.Game;
 import com.beetendo.entity.PriceRecord;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.fasterxml.jackson.databind.node.ObjectNode;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import org.jboss.logging.Logger;
@@ -14,10 +12,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 import java.math.BigDecimal;
-import java.net.URI;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
 import java.time.LocalDateTime;
 import java.util.*;
 
@@ -28,28 +22,11 @@ public class ScrapingService {
     private static final String BEST_SELLERS_URL = "https://www.nintendo.com/pt-br/store/sales-and-deals/best-sellers/";
     private static final String GAMES_BEST_SELLERS_URL = "https://www.nintendo.com/pt-br/store/games/best-sellers/";
     
-    // Price API Config
-    private static final String PRICE_API_URL_TEMPLATE = "https://api.ec.nintendo.com/v1/price?country=BR&lang=pt&ids=%s";
-
     @Inject
     ObjectMapper objectMapper;
 
     @org.eclipse.microprofile.config.inject.ConfigProperty(name = "scraping.dump.path", defaultValue = "../frontend/public/games.json")
     String dumpPath;
-
-    private static class GameMetadata {
-        String nsuid;
-        String name;
-        String platform;
-        String coverImage;
-
-        GameMetadata(String nsuid, String name, String platform, String coverImage) {
-            this.nsuid = nsuid;
-            this.name = name;
-            this.platform = platform;
-            this.coverImage = coverImage;
-        }
-    }
 
     public void runScraping() {
         LOG.info("Iniciando rotina de scraping...");
@@ -60,10 +37,7 @@ public class ScrapingService {
         // 2. Scraping do catálogo de Mais Vendidos Geral via HTML/__NEXT_DATA__
         scrapeBestSellersPage(GAMES_BEST_SELLERS_URL, "Mais Vendidos Geral");
 
-        // 3. Scraping do catálogo geral via Solr + API de Preços
-        // scrapeCatalog();
-
-        // 4. Exporta banco de dados para JSON para consumo pelo frontend
+        // 3. Exporta banco de dados para JSON para consumo pelo frontend
         exportDatabaseToJson();
     }
 
@@ -114,25 +88,6 @@ public class ScrapingService {
 
         } catch (Exception e) {
             LOG.errorf("Erro geral no scraping de %s: %s", sourceLabel, e.getMessage(), e);
-        }
-    }
-
-    private void processHitIntoMap(JsonNode hit, Map<String, GameMetadata> metadataMap) {
-        String nsuid = hit.has("nsuid") ? hit.get("nsuid").asText() : null;
-        String title = hit.has("title") ? hit.get("title").asText() : null;
-        
-        if (nsuid != null && !nsuid.trim().isEmpty() && title != null && !title.trim().isEmpty()) {
-            String platformLabel = hit.has("platform") ? hit.get("platform").asText() : "Nintendo Switch";
-            String platform = platformLabel.toLowerCase().contains("switch 2") || platformLabel.toLowerCase().contains("switch™ 2") 
-                    ? "switch 2" 
-                    : "switch";
-
-            String coverImage = null;
-            if (hit.has("horizontalHeaderImage")) {
-                coverImage = hit.get("horizontalHeaderImage").asText();
-            }
-
-            metadataMap.put(nsuid, new GameMetadata(nsuid, title, platform, coverImage));
         }
     }
 
