@@ -1470,6 +1470,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-08T10:22:14.24865"
+  }, {
+    "id" : 203,
+    "regularPrice" : 79.00,
+    "salePrice" : 52.14,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.733268"
   } ]
 }, {
   "id" : 95,
@@ -1899,5 +1905,226 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-10T23:29:27.394283"
+  } ]
+}, {
+  "id" : 151,
+  "nsuid" : "70010000005804",
+  "name" : "INSIDE",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000005804/d0a1b4fa8c16aebc0283c329c42804b0a6dabc6622cfeb956f2eddb3059576bd",
+  "prices" : [ {
+    "id" : 201,
+    "regularPrice" : 72.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.702189"
+  } ]
+}, {
+  "id" : 152,
+  "nsuid" : "70010000016301",
+  "name" : "Castle Crashers Remastered",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000016301/1664a22b13e4fa07a3b8b89126e8f63848c6031d568a00769d1d7b312c695a63",
+  "prices" : [ {
+    "id" : 202,
+    "regularPrice" : 76.45,
+    "salePrice" : 38.22,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.726853"
+  } ]
+}, {
+  "id" : 153,
+  "nsuid" : "70010000120332",
+  "name" : "Cozy Grove: Camp Spirit",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000120332/ccddcb09de7e49da0ac6e7c7e5293abd5f372dc6a9a1e82a152808fd12be530f",
+  "prices" : [ {
+    "id" : 204,
+    "regularPrice" : 79.99,
+    "salePrice" : 71.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.749736"
+  } ]
+}, {
+  "id" : 154,
+  "nsuid" : "70010000001075",
+  "name" : "LEGO® Worlds",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000001075/a7e64c9231ad5c164192c97f0c0fb2662ea716ea55872f180cd98ee3ec50f849",
+  "prices" : [ {
+    "id" : 205,
+    "regularPrice" : 149.99,
+    "salePrice" : 14.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.755724"
+  } ]
+}, {
+  "id" : 155,
+  "nsuid" : "70010000005802",
+  "name" : "LIMBO ",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000005802/19a3297c0c77743d3e2fc30b137d6c652608bc6b2c1cccf1aef48836e96a685e",
+  "prices" : [ {
+    "id" : 206,
+    "regularPrice" : 36.45,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.759187"
+  } ]
+}, {
+  "id" : 156,
+  "nsuid" : "70010000039731",
+  "name" : "THE HOUSE OF THE DEAD: Remake",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000039731/bfdd699c39aee0cb4d0f784a589aceaaf27dbedc851ccc4777404ead4538c75f",
+  "prices" : [ {
+    "id" : 207,
+    "regularPrice" : 119.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.761975"
+  } ]
+}, {
+  "id" : 157,
+  "nsuid" : "70010000000730",
+  "name" : "LEGO® Marvel Super Heroes 2",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000000730/e6ead60cf5c00779d99b032be8c1088d31a937c45617d57e4e0ee944ded63df5",
+  "prices" : [ {
+    "id" : 208,
+    "regularPrice" : 149.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.764985"
+  } ]
+}, {
+  "id" : 158,
+  "nsuid" : "70010000032722",
+  "name" : "Dying Light: Definitive Edition",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000032722/65d250af4879add6222b7b874d53122af6f769b0e402729759444b46b216b944",
+  "prices" : [ {
+    "id" : 209,
+    "regularPrice" : 249.00,
+    "salePrice" : 49.80,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.767561"
+  } ]
+}, {
+  "id" : 159,
+  "nsuid" : "70010000106034",
+  "name" : "Trails in the Sky 1st Chapter: Nintendo Switch™ 2 Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000106034/19d6caf3b23ba6cc0a23a57ffb3d7451305d997a243aeb9a8825098003aee815",
+  "prices" : [ {
+    "id" : 210,
+    "regularPrice" : 304.90,
+    "salePrice" : 152.45,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.770752"
+  } ]
+}, {
+  "id" : 160,
+  "nsuid" : "70010000035763",
+  "name" : "Nickelodeon All-Star Brawl",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000035763/27409c3c9775e324b5cffc7c693abb8b5a7ac34ea5f031bf706603e94674ccd7",
+  "prices" : [ {
+    "id" : 211,
+    "regularPrice" : 249.99,
+    "salePrice" : 24.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.773485"
+  } ]
+}, {
+  "id" : 161,
+  "nsuid" : "70010000127855",
+  "name" : "Make It Cozy!",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000127855/88338b39753cb0feefbaa0081a78342669162dfdf70d8859bc568796bcdf8515",
+  "prices" : [ {
+    "id" : 212,
+    "regularPrice" : 77.85,
+    "salePrice" : 16.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.776083"
+  } ]
+}, {
+  "id" : 162,
+  "nsuid" : "70010000029410",
+  "name" : "Life is Strange 2",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000029410/52be3f7eb93e5b9f00ab2a0bf048cb73c30d000b20b06560ef5a60a9cbd6aae7",
+  "prices" : [ {
+    "id" : 213,
+    "regularPrice" : 98.00,
+    "salePrice" : 19.60,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.779054"
+  } ]
+}, {
+  "id" : 163,
+  "nsuid" : "70010000045916",
+  "name" : "Batman: Arkham Knight",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000045916/8374aebdcdd8668f5dd4ee82c005beaa473b280bf77f9677d948ff0f24a864d3",
+  "prices" : [ {
+    "id" : 214,
+    "regularPrice" : 129.99,
+    "salePrice" : 51.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.781723"
+  } ]
+}, {
+  "id" : 164,
+  "nsuid" : "70010000036802",
+  "name" : "Tactics Ogre: Reborn",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000036802/dd2696f7dd75d2dec2c7eab61bdeac301f8f65149a7ad53659200a759a3b9f9b",
+  "prices" : [ {
+    "id" : 215,
+    "regularPrice" : 249.50,
+    "salePrice" : 74.85,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.784202"
+  } ]
+}, {
+  "id" : 165,
+  "nsuid" : "70010000073403",
+  "name" : "Planet of Lana",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000073403/4eaa572745cc6d277eb623e3fd440a46b4e3e585c9022b24d3df3c196f85b451",
+  "prices" : [ {
+    "id" : 216,
+    "regularPrice" : 74.95,
+    "salePrice" : 22.48,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:48.787319"
+  } ]
+}, {
+  "id" : 166,
+  "nsuid" : "70010000020840",
+  "name" : "Hollow Knight: Silksong",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000020840/60eebc8f7133f685eddbffbe43c8da617ba0a5d699f2008f9c31c6119d1792af",
+  "prices" : [ {
+    "id" : 217,
+    "regularPrice" : 59.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:54.055324"
+  } ]
+}, {
+  "id" : 167,
+  "nsuid" : "70010000034439",
+  "name" : "Super Mario™ 3D World + Bowser’s Fury",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
+  "prices" : [ {
+    "id" : 218,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-13T08:21:54.057676"
   } ]
 } ]
