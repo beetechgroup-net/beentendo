@@ -1554,6 +1554,12 @@
     "salePrice" : 135.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-09T23:25:04.755423"
+  }, {
+    "id" : 260,
+    "regularPrice" : 159.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:04.606619"
   } ]
 }, {
   "id" : 103,
@@ -1580,6 +1586,12 @@
     "salePrice" : 118.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-09T23:25:04.763089"
+  }, {
+    "id" : 261,
+    "regularPrice" : 139.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:04.656848"
   } ]
 }, {
   "id" : 105,
@@ -2126,5 +2138,213 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-13T08:21:54.057676"
+  } ]
+}, {
+  "id" : 201,
+  "nsuid" : "70010000027424",
+  "name" : "Hunting Simulator 2",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000027424/070b4d0f922ab2dc547c7daf1adf6e4e6d71c17c18d04be831aeb6bc9ed23f59",
+  "prices" : [ {
+    "id" : 251,
+    "regularPrice" : 229.90,
+    "salePrice" : 22.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:00.219901"
+  } ]
+}, {
+  "id" : 202,
+  "nsuid" : "70010000043027",
+  "name" : "Nickelodeon Kart Racers 3: Slime Speedway",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000043027/dd0b47aed50207d7be8681be221c2bd8099393e01d44ac7cb0a9b692bdeac2ee",
+  "prices" : [ {
+    "id" : 252,
+    "regularPrice" : 249.99,
+    "salePrice" : 24.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:00.500971"
+  } ]
+}, {
+  "id" : 203,
+  "nsuid" : "70010000045904",
+  "name" : "Batman: Arkham Asylum",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000045904/8ef8f6a6208734566a44dc1418f632dc5136cce77e6b63f8524722335f98dae8",
+  "prices" : [ {
+    "id" : 253,
+    "regularPrice" : 129.99,
+    "salePrice" : 51.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:00.511543"
+  } ]
+}, {
+  "id" : 204,
+  "nsuid" : "70010000051361",
+  "name" : "A Little to the Left",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000051361/256bd3ebd32d472158a53f95206f55f566f1253dc472f3dc3967be31214816d8",
+  "prices" : [ {
+    "id" : 254,
+    "regularPrice" : 92.45,
+    "salePrice" : 36.98,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:00.567396"
+  } ]
+}, {
+  "id" : 205,
+  "nsuid" : "70010000058316",
+  "name" : "Bluey: o video game",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000058316/bae5438f967653ddcce16bc8160986450bbd346b94aaf2bd1b2ba2b34ecd3569",
+  "prices" : [ {
+    "id" : 255,
+    "regularPrice" : 154.99,
+    "salePrice" : 92.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:00.636623"
+  } ]
+}, {
+  "id" : 206,
+  "nsuid" : "70010000032650",
+  "name" : "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000032650/718759a53a0b804d4fb16080d210a44ea18a8bca3277bc3472a3b988f1a382ef",
+  "prices" : [ {
+    "id" : 256,
+    "regularPrice" : 104.90,
+    "salePrice" : 41.96,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:00.670969"
+  } ]
+}, {
+  "id" : 207,
+  "nsuid" : "70010000063645",
+  "name" : "PlateUp!",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000063645/651e137aa38f63f4e973d5881586a88fd9ee67b6410a7257428cba597e8b69ad",
+  "prices" : [ {
+    "id" : 257,
+    "regularPrice" : 59.99,
+    "salePrice" : 17.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:00.69251"
+  } ]
+}, {
+  "id" : 208,
+  "nsuid" : "70010000048000",
+  "name" : "CRISIS CORE –FINAL FANTASY VII– REUNION",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000048000/ffc18f055655638ef75df2716fadd93be2825f56efcdac0e72997ca8304c7410",
+  "prices" : [ {
+    "id" : 258,
+    "regularPrice" : 249.50,
+    "salePrice" : 99.80,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:00.70304"
+  } ]
+}, {
+  "id" : 209,
+  "nsuid" : "70010000091122",
+  "name" : "Dead Estate",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091122/f69fcd9c79c3238297406e23c8a4536fe36ac66c0989835c95aa04d67439e0d1",
+  "prices" : [ {
+    "id" : 259,
+    "regularPrice" : 17.99,
+    "salePrice" : 14.39,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:00.715117"
+  } ]
+}, {
+  "id" : 210,
+  "nsuid" : "70010000110953",
+  "name" : "Digimon Story Time Stranger",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000110953/225c7b045cc768ed3d62344ef745952291e01af45386c94257031d01b7dfb0a2",
+  "prices" : [ {
+    "id" : 262,
+    "regularPrice" : 339.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:05.17509"
+  } ]
+}, {
+  "id" : 211,
+  "nsuid" : "70010000096080",
+  "name" : "Backyard Baseball '97",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000096080/c7973e8f2f5bb6e137e7dd50e873ec6c4331a942164cd4438462fb8f4ce58fdd",
+  "prices" : [ {
+    "id" : 263,
+    "regularPrice" : 32.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:05.198189"
+  } ]
+}, {
+  "id" : 212,
+  "nsuid" : "70010000003432",
+  "name" : "Arcade Archives VS. SUPER MARIO BROS.",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000003432/7f1c647eef54f9ea832d956f6579cc47a437f32673ef6b02551b5b065008ece3",
+  "prices" : [ {
+    "id" : 264,
+    "regularPrice" : 42.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:05.213366"
+  } ]
+}, {
+  "id" : 213,
+  "nsuid" : "70010000006411",
+  "name" : "New Super Mario Bros.™ U Deluxe",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000006411/73d58198e35bf94be752cf3d9ba0b44dea877cab1487e2cc1b7eeb02157f066f",
+  "prices" : [ {
+    "id" : 265,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:05.237157"
+  } ]
+}, {
+  "id" : 214,
+  "nsuid" : "70010000042934",
+  "name" : "Mario Party™ Superstars",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304",
+  "prices" : [ {
+    "id" : 266,
+    "regularPrice" : 329.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:05.253821"
+  } ]
+}, {
+  "id" : 215,
+  "nsuid" : "70010000029055",
+  "name" : "WRC 9 The Official Game",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000029055/b2ff89f1246ca0af7fa1ad926d35af7c7f020ee889cc4e43380833988f464879",
+  "prices" : [ {
+    "id" : 267,
+    "regularPrice" : 169.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:05.265282"
+  } ]
+}, {
+  "id" : 216,
+  "nsuid" : "70010000099365",
+  "name" : "Pokémon™ Legends: Z-A – Nintendo Switch™ 2 Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000099365/80e1e26cdb1dd973909009e8c5bd457b01c9a57236ba6161d5e158f1357526f9",
+  "prices" : [ {
+    "id" : 268,
+    "regularPrice" : 389.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-15T18:55:05.276806"
   } ]
 } ]
