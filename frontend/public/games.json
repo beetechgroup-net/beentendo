@@ -2060,6 +2060,12 @@
     "salePrice" : 16.50,
     "currency" : "BRL",
     "recordedAt" : "2026-07-13T08:21:48.776083"
+  }, {
+    "id" : 303,
+    "regularPrice" : 77.85,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-16T09:56:49.545334"
   } ]
 }, {
   "id" : 162,
@@ -2346,5 +2352,70 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-15T18:55:05.276806"
+  } ]
+}, {
+  "id" : 251,
+  "nsuid" : "70010000041461",
+  "name" : "TOEM",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000041461/949b03cb83695ee5d2c70611ff204c3b8627fd585f9f29781a3355c6e0925a7e",
+  "prices" : [ {
+    "id" : 301,
+    "regularPrice" : 101.95,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-16T09:56:48.911313"
+  } ]
+}, {
+  "id" : 252,
+  "nsuid" : "70010000044922",
+  "name" : "Disco Elysium - The Final Cut",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000044922/df5237749af09dda942147e22f49a0118b98fa7b5081cf53b31e1bd6530e7a23",
+  "prices" : [ {
+    "id" : 302,
+    "regularPrice" : 203.95,
+    "salePrice" : 61.18,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-16T09:56:48.944768"
+  } ]
+}, {
+  "id" : 253,
+  "nsuid" : "70010000103978",
+  "name" : "Denshattack!",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000103978/511255af56eb4fff904465d7faf42f999ad9ab452e537dfb0c0e51c77fa134ad",
+  "prices" : [ {
+    "id" : 304,
+    "regularPrice" : 59.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-16T09:56:49.627493"
+  } ]
+}, {
+  "id" : 254,
+  "nsuid" : "70010000099518",
+  "name" : "Tiny Bookshop",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000099518/f7fb536d516d9a90da81cbc1f418296a3a761f559e54d3ed67f655c7777906d4",
+  "prices" : [ {
+    "id" : 305,
+    "regularPrice" : 59.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-16T09:56:49.671858"
+  } ]
+}, {
+  "id" : 255,
+  "nsuid" : "70010000103193",
+  "name" : "The Elder Scrolls V: Skyrim Anniversary Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000103193/d9fa0e5b90ecb609a8f571e1f33bc58be9a0aa889157a0cb4ec414929b568340",
+  "prices" : [ {
+    "id" : 306,
+    "regularPrice" : 299.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-16T09:56:49.716088"
   } ]
 } ]
