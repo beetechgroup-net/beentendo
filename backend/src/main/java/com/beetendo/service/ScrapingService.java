@@ -19,9 +19,10 @@ import java.util.*;
 public class ScrapingService {
 
     private static final Logger LOG = Logger.getLogger(ScrapingService.class);
+    private static final String DEALS_URL = "https://www.nintendo.com/pt-br/store/sales-and-deals/#sort=df&show=1";
     private static final String BEST_SELLERS_URL = "https://www.nintendo.com/pt-br/store/sales-and-deals/best-sellers/";
     private static final String GAMES_BEST_SELLERS_URL = "https://www.nintendo.com/pt-br/store/games/best-sellers/";
-    
+    private static final String ALL_GAMES_URL = "https://u3b6gr4ua3-dsn.algolia.net/1/indexes/store_game_pt_br/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser";
     @Inject
     ObjectMapper objectMapper;
 
@@ -31,68 +32,101 @@ public class ScrapingService {
     public void runScraping() {
         LOG.info("Iniciando rotina de scraping...");
 
-        // 1. Scraping dos Best Sellers em promoção via HTML/__NEXT_DATA__
-        scrapeBestSellersPage(BEST_SELLERS_URL, "Promoções (Best Sellers)");
+        // Scraping de todas as promoções via Algolia API (limite de 50 páginas)
+        scrapeFromAlgolia("topLevelFilters:Promoções", "Promoções", 50);
+        scrapeFromAlgolia("", "Todos", 50);
 
-        // 2. Scraping do catálogo de Mais Vendidos Geral via HTML/__NEXT_DATA__
-        scrapeBestSellersPage(GAMES_BEST_SELLERS_URL, "Mais Vendidos Geral");
-
-        // 3. Exporta banco de dados para JSON para consumo pelo frontend
+        // Exporta banco de dados para JSON para consumo pelo frontend
         exportDatabaseToJson();
     }
 
-    private void scrapeBestSellersPage(String url, String sourceLabel) {
-        LOG.infof("Iniciando scraping da página %s (%s)...", sourceLabel, url);
-        try {
-            Document doc = Jsoup.connect(url)
-                    .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36")
-                    .timeout(30000)
-                    .get();
+    private void scrapeFromAlgolia(String filters, String sourceLabel, Integer pageLimit) {
+        LOG.infof("Iniciando scraping via Algolia para %s com filtros '%s'...", sourceLabel, filters);
 
-            Element nextDataScript = doc.getElementById("__NEXT_DATA__");
-            if (nextDataScript == null) {
-                LOG.errorf("Não foi possível encontrar a tag <script id=\"__NEXT_DATA__\"> no HTML da página %s.", sourceLabel);
-                return;
-            }
+        int currentPage = 0; // Algolia é 0-indexed para páginas
+        int maxPages = pageLimit != null ? pageLimit : 50;
+        Set<String> processedNsuids = new HashSet<>();
 
-            String jsonText = nextDataScript.html();
-            JsonNode rootNode = objectMapper.readTree(jsonText);
+        while (currentPage < maxPages) {
+            LOG.infof("Buscando página Algolia %d (0-indexed) para %s...", currentPage, sourceLabel);
+            
+            try {
+                // Monta o payload JSON da requisição
+                Map<String, Object> payloadMap = new HashMap<>();
+                payloadMap.put("filters", filters);
+                payloadMap.put("hitsPerPage", 100);
+                payloadMap.put("analytics", true);
+                payloadMap.put("facetingAfterDistinct", true);
+                payloadMap.put("clickAnalytics", true);
+                payloadMap.put("highlightPreTag", "^*^^");
+                payloadMap.put("highlightPostTag", "^*");
+                payloadMap.put("attributesToHighlight", Collections.singletonList("description"));
+                payloadMap.put("facets", Collections.singletonList("*"));
+                payloadMap.put("maxValuesPerFacet", 100);
+                payloadMap.put("page", currentPage);
 
-            JsonNode merchandisedGrid = rootNode.at("/props/pageProps/page/content/merchandisedGrid");
-            if (merchandisedGrid.isMissingNode() || !merchandisedGrid.isArray()) {
-                LOG.warnf("O nó 'merchandisedGrid' não foi encontrado ou não é uma lista no JSON da página %s.", sourceLabel);
-                return;
-            }
+                String payloadJson = objectMapper.writeValueAsString(payloadMap);
 
-            LOG.infof("Encontrados %d itens no merchandisedGrid de %s. Processando...", merchandisedGrid.size(), sourceLabel);
-            int processedCount = 0;
-            Set<String> processedNsuids = new HashSet<>();
+                // Realiza a requisição POST para o Algolia usando Jsoup
+                String responseBody = Jsoup.connect(ALL_GAMES_URL)
+                        .method(org.jsoup.Connection.Method.POST)
+                        .header("Content-Type", "application/json")
+                        .header("X-Algolia-API-Key", "a29c6927638bfd8cee23993e51e721c9")
+                        .header("X-Algolia-Application-Id", "U3B6GR4UA3")
+                        .requestBody(payloadJson)
+                        .ignoreContentType(true)
+                        .timeout(30000)
+                        .execute()
+                        .body();
 
-            for (JsonNode item : merchandisedGrid) {
-                String nsuid = item.has("nsuid") ? item.get("nsuid").asText() : null;
-                if (nsuid != null && !nsuid.trim().isEmpty()) {
-                    if (processedNsuids.contains(nsuid)) {
-                        continue;
+                JsonNode rootNode = objectMapper.readTree(responseBody);
+                JsonNode hits = rootNode.get("hits");
+                
+                if (hits == null || !hits.isArray() || hits.size() == 0) {
+                    LOG.infof("Nenhum jogo retornado na página %d. Finalizando busca.", currentPage);
+                    break;
+                }
+
+                LOG.infof("Página %d: Encontrados %d itens no Algolia para %s.", currentPage + 1, hits.size(), sourceLabel);
+
+                int processedCount = 0;
+                for (JsonNode item : hits) {
+                    String nsuid = item.has("nsuid") ? item.get("nsuid").asText() : null;
+                    if (nsuid != null && !nsuid.trim().isEmpty()) {
+                        if (processedNsuids.contains(nsuid)) {
+                            continue;
+                        }
+                        processedNsuids.add(nsuid);
                     }
-                    processedNsuids.add(nsuid);
+
+                    try {
+                        io.quarkus.narayana.jta.QuarkusTransaction.requiringNew().run(() -> processGameItemFromJson(item));
+                        processedCount++;
+                    } catch (Exception e) {
+                        String gameName = item.has("title") ? item.get("title").asText() : (item.has("name") ? item.get("name").asText() : "Desconhecido");
+                        LOG.errorf("Erro ao processar item de Algolia %s: %s. Detalhes: %s", sourceLabel, gameName, e.getMessage(), e);
+                    }
                 }
 
-                try {
-                    io.quarkus.narayana.jta.QuarkusTransaction.requiringNew().run(() -> processGameItemFromJson(item));
-                    processedCount++;
-                } catch (Exception e) {
-                    LOG.errorf("Erro ao processar item de %s: %s. Detalhes: %s", sourceLabel, item.get("name"), e.getMessage(), e);
-                }
+                LOG.infof("Página %d finalizada. Novos itens processados nesta página: %d", currentPage + 1, processedCount);
+
+                currentPage++;
+            } catch (Exception e) {
+                LOG.errorf("Erro na busca da página %d do Algolia para %s: %s", currentPage, sourceLabel, e.getMessage(), e);
+                break;
             }
-            LOG.infof("Scraping de %s finalizado. Itens processados: %d", sourceLabel, processedCount);
-
-        } catch (Exception e) {
-            LOG.errorf("Erro geral no scraping de %s: %s", sourceLabel, e.getMessage(), e);
         }
+        LOG.infof("Scraping via Algolia de %s finalizado. Total de itens únicos processados: %d", sourceLabel, processedNsuids.size());
     }
 
     private void processGameItemFromJson(JsonNode item) {
-        String name = item.has("name") ? item.get("name").asText() : null;
+        String name = null;
+        if (item.hasNonNull("title")) {
+            name = item.get("title").asText();
+        } else if (item.hasNonNull("name")) {
+            name = item.get("name").asText();
+        }
+
         if (name == null || name.trim().isEmpty()) {
             return;
         }
@@ -115,20 +149,54 @@ public class ScrapingService {
 
         String coverImage = null;
         JsonNode imgNode = item.get("productImage");
-        if (imgNode != null && imgNode.has("publicId")) {
-            coverImage = "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/" + imgNode.get("publicId").asText();
+        if (imgNode != null) {
+            if (imgNode.isTextual()) {
+                coverImage = "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/" + imgNode.asText();
+            } else if (imgNode.isObject() && imgNode.has("publicId")) {
+                coverImage = "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/" + imgNode.get("publicId").asText();
+            }
         }
 
         BigDecimal regularPrice = BigDecimal.ZERO;
         BigDecimal salePrice = null;
-        JsonNode pricesNode = item.get("prices");
-        if (pricesNode != null) {
-            if (pricesNode.has("regularPrice")) {
-                regularPrice = new BigDecimal(pricesNode.get("regularPrice").asText());
+
+        // 1. Tenta ler do formato Algolia ("price")
+        JsonNode priceNode = item.get("price");
+        if (priceNode != null && priceNode.isObject()) {
+            if (priceNode.hasNonNull("regPrice")) {
+                regularPrice = new BigDecimal(priceNode.get("regPrice").asText());
             }
-            if (pricesNode.has("discounted") && pricesNode.get("discounted").asBoolean()) {
-                if (pricesNode.has("finalPrice")) {
-                    salePrice = new BigDecimal(pricesNode.get("finalPrice").asText());
+            if (priceNode.has("discounted") && priceNode.get("discounted").asBoolean()) {
+                if (priceNode.hasNonNull("finalPrice")) {
+                    salePrice = new BigDecimal(priceNode.get("finalPrice").asText());
+                } else if (priceNode.hasNonNull("salePrice")) {
+                    salePrice = new BigDecimal(priceNode.get("salePrice").asText());
+                }
+            }
+        } else {
+            // 2. Tenta do formato NextProps/JSoup ("prices")
+            JsonNode pricesNode = item.get("prices");
+            if (pricesNode != null) {
+                if (pricesNode.hasNonNull("regularPrice")) {
+                    regularPrice = new BigDecimal(pricesNode.get("regularPrice").asText());
+                }
+                if (pricesNode.has("discounted") && pricesNode.get("discounted").asBoolean()) {
+                    if (pricesNode.hasNonNull("finalPrice")) {
+                        salePrice = new BigDecimal(pricesNode.get("finalPrice").asText());
+                    }
+                }
+            }
+        }
+
+        // 3. Fallback para eshopDetails caso regularPrice continue zero
+        if (regularPrice.compareTo(BigDecimal.ZERO) == 0) {
+            JsonNode eshopDetails = item.get("eshopDetails");
+            if (eshopDetails != null && eshopDetails.isObject()) {
+                if (eshopDetails.hasNonNull("regularPrice")) {
+                    regularPrice = new BigDecimal(eshopDetails.get("regularPrice").asText());
+                }
+                if (eshopDetails.hasNonNull("discountPrice")) {
+                    salePrice = new BigDecimal(eshopDetails.get("discountPrice").asText());
                 }
             }
         }
