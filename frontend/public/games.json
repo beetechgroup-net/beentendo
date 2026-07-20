@@ -3359,6 +3359,12 @@
     "salePrice" : 78.36,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.424911"
+  }, {
+    "id" : 2559,
+    "regularPrice" : 97.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.483671"
   } ]
 }, {
   "id" : 386,
@@ -3671,6 +3677,12 @@
     "salePrice" : 89.10,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.730883"
+  }, {
+    "id" : 2560,
+    "regularPrice" : 99.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.860779"
   } ]
 }, {
   "id" : 410,
@@ -3931,6 +3943,12 @@
     "salePrice" : 15.74,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.921627"
+  }, {
+    "id" : 2561,
+    "regularPrice" : 41.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.921996"
   } ]
 }, {
   "id" : 430,
@@ -3957,6 +3975,12 @@
     "salePrice" : 14.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.929476"
+  }, {
+    "id" : 2562,
+    "regularPrice" : 39.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.92724"
   } ]
 }, {
   "id" : 432,
@@ -3996,6 +4020,12 @@
     "salePrice" : 14.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.939382"
+  }, {
+    "id" : 2563,
+    "regularPrice" : 19.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.944664"
   } ]
 }, {
   "id" : 435,
@@ -4009,6 +4039,12 @@
     "salePrice" : 14.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.942979"
+  }, {
+    "id" : 2564,
+    "regularPrice" : 19.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.946255"
   } ]
 }, {
   "id" : 436,
@@ -4022,6 +4058,12 @@
     "salePrice" : 14.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.947467"
+  }, {
+    "id" : 2565,
+    "regularPrice" : 19.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.947489"
   } ]
 }, {
   "id" : 437,
@@ -4048,6 +4090,12 @@
     "salePrice" : 14.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.959247"
+  }, {
+    "id" : 2566,
+    "regularPrice" : 19.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.953058"
   } ]
 }, {
   "id" : 439,
@@ -4074,6 +4122,12 @@
     "salePrice" : 12.49,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.965086"
+  }, {
+    "id" : 2567,
+    "regularPrice" : 24.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:49.239747"
   } ]
 }, {
   "id" : 441,
@@ -4152,6 +4206,12 @@
     "salePrice" : 13.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.981303"
+  }, {
+    "id" : 2568,
+    "regularPrice" : 19.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:49.288689"
   } ]
 }, {
   "id" : 447,
@@ -4165,6 +4225,12 @@
     "salePrice" : 11.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.983183"
+  }, {
+    "id" : 2569,
+    "regularPrice" : 101.55,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:49.296417"
   } ]
 }, {
   "id" : 448,
@@ -4204,6 +4270,12 @@
     "salePrice" : 24.79,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:19.990575"
+  }, {
+    "id" : 2570,
+    "regularPrice" : 30.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:49.305603"
   } ]
 }, {
   "id" : 451,
@@ -4308,6 +4380,12 @@
     "salePrice" : 64.00,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:20.050104"
+  }, {
+    "id" : 2571,
+    "regularPrice" : 80.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:49.336389"
   } ]
 }, {
   "id" : 459,
@@ -4347,6 +4425,12 @@
     "salePrice" : 44.05,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:20.060448"
+  }, {
+    "id" : 2572,
+    "regularPrice" : 48.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:49.751456"
   } ]
 }, {
   "id" : 462,
@@ -4360,6 +4444,12 @@
     "salePrice" : 11.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:20.062006"
+  }, {
+    "id" : 2573,
+    "regularPrice" : 14.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:49.834483"
   } ]
 }, {
   "id" : 463,
@@ -4581,6 +4671,12 @@
     "salePrice" : 14.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:20.543028"
+  }, {
+    "id" : 2574,
+    "regularPrice" : 29.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:50.543235"
   } ]
 }, {
   "id" : 480,
@@ -4607,6 +4703,12 @@
     "salePrice" : 14.99,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:20.54799"
+  }, {
+    "id" : 2575,
+    "regularPrice" : 49.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:50.54798"
   } ]
 }, {
   "id" : 482,
@@ -4802,6 +4904,12 @@
     "salePrice" : 19.20,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:01:20.588987"
+  }, {
+    "id" : 2576,
+    "regularPrice" : 24.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:50.861592"
   } ]
 }, {
   "id" : 497,
@@ -19206,6 +19314,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:28.80209"
+  }, {
+    "id" : 2259,
+    "regularPrice" : 25.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.745813"
   } ]
 }, {
   "id" : 1614,
@@ -19258,6 +19372,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:28.813541"
+  }, {
+    "id" : 2261,
+    "regularPrice" : 29.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.755579"
   } ]
 }, {
   "id" : 1618,
@@ -19271,6 +19391,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:28.817178"
+  }, {
+    "id" : 2262,
+    "regularPrice" : 79.99,
+    "salePrice" : 39.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.764214"
   } ]
 }, {
   "id" : 1619,
@@ -19284,6 +19410,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:28.819498"
+  }, {
+    "id" : 2263,
+    "regularPrice" : 31.99,
+    "salePrice" : 25.59,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.769578"
   } ]
 }, {
   "id" : 1620,
@@ -19297,6 +19429,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:28.825146"
+  }, {
+    "id" : 2264,
+    "regularPrice" : 41.99,
+    "salePrice" : 15.74,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.774553"
   } ]
 }, {
   "id" : 1621,
@@ -19531,6 +19669,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:28.88454"
+  }, {
+    "id" : 2271,
+    "regularPrice" : 46.99,
+    "salePrice" : 39.94,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.90532"
   } ]
 }, {
   "id" : 1639,
@@ -20181,6 +20325,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:29.352626"
+  }, {
+    "id" : 2272,
+    "regularPrice" : 35.95,
+    "salePrice" : 25.16,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.227814"
   } ]
 }, {
   "id" : 1689,
@@ -20220,6 +20370,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:29.360596"
+  }, {
+    "id" : 2273,
+    "regularPrice" : 53.95,
+    "salePrice" : 37.76,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.246219"
   } ]
 }, {
   "id" : 1692,
@@ -21104,6 +21260,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:30.065502"
+  }, {
+    "id" : 2274,
+    "regularPrice" : 29.95,
+    "salePrice" : 20.96,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.290434"
   } ]
 }, {
   "id" : 1760,
@@ -21364,6 +21526,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:30.088852"
+  }, {
+    "id" : 2275,
+    "regularPrice" : 49.00,
+    "salePrice" : 34.30,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.295675"
   } ]
 }, {
   "id" : 1780,
@@ -21871,6 +22039,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:30.639758"
+  }, {
+    "id" : 2276,
+    "regularPrice" : 53.49,
+    "salePrice" : 42.79,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.301866"
   } ]
 }, {
   "id" : 1819,
@@ -21936,6 +22110,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:30.652765"
+  }, {
+    "id" : 2277,
+    "regularPrice" : 29.00,
+    "salePrice" : 20.30,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.307919"
   } ]
 }, {
   "id" : 1824,
@@ -22911,6 +23091,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:30.754692"
+  }, {
+    "id" : 2278,
+    "regularPrice" : 39.99,
+    "salePrice" : 14.96,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.320421"
   } ]
 }, {
   "id" : 1899,
@@ -22989,6 +23175,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.190946"
+  }, {
+    "id" : 2279,
+    "regularPrice" : 25.99,
+    "salePrice" : 15.59,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.325079"
   } ]
 }, {
   "id" : 1905,
@@ -23015,6 +23207,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.196191"
+  }, {
+    "id" : 2280,
+    "regularPrice" : 49.99,
+    "salePrice" : 14.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.329905"
   } ]
 }, {
   "id" : 1907,
@@ -23067,6 +23265,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.2125"
+  }, {
+    "id" : 2281,
+    "regularPrice" : 39.99,
+    "salePrice" : 19.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.34118"
   } ]
 }, {
   "id" : 1911,
@@ -23080,6 +23284,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.214976"
+  }, {
+    "id" : 2282,
+    "regularPrice" : 39.99,
+    "salePrice" : 19.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.346394"
   } ]
 }, {
   "id" : 1912,
@@ -23119,6 +23329,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.223319"
+  }, {
+    "id" : 2283,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.353291"
   } ]
 }, {
   "id" : 1915,
@@ -23197,6 +23413,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.238757"
+  }, {
+    "id" : 2284,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.358594"
   } ]
 }, {
   "id" : 1921,
@@ -23418,6 +23640,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.285363"
+  }, {
+    "id" : 2285,
+    "regularPrice" : 39.95,
+    "salePrice" : 27.96,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.366048"
   } ]
 }, {
   "id" : 1938,
@@ -23470,6 +23698,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.297621"
+  }, {
+    "id" : 2286,
+    "regularPrice" : 40.55,
+    "salePrice" : 28.38,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.375441"
   } ]
 }, {
   "id" : 1942,
@@ -23483,6 +23717,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.304022"
+  }, {
+    "id" : 2287,
+    "regularPrice" : 33.95,
+    "salePrice" : 23.76,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.385085"
   } ]
 }, {
   "id" : 1943,
@@ -23756,6 +23996,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.350463"
+  }, {
+    "id" : 2288,
+    "regularPrice" : 39.99,
+    "salePrice" : 19.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.399782"
   } ]
 }, {
   "id" : 1964,
@@ -23808,6 +24054,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.355757"
+  }, {
+    "id" : 2289,
+    "regularPrice" : 34.99,
+    "salePrice" : 17.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.406393"
   } ]
 }, {
   "id" : 1968,
@@ -23821,6 +24073,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.35738"
+  }, {
+    "id" : 2290,
+    "regularPrice" : 39.99,
+    "salePrice" : 19.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.40986"
   } ]
 }, {
   "id" : 1969,
@@ -23860,6 +24118,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.36199"
+  }, {
+    "id" : 2291,
+    "regularPrice" : 92.00,
+    "salePrice" : 69.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.415961"
   } ]
 }, {
   "id" : 1972,
@@ -23912,6 +24176,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.365962"
+  }, {
+    "id" : 2292,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.420521"
   } ]
 }, {
   "id" : 1976,
@@ -24120,6 +24390,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.912356"
+  }, {
+    "id" : 2293,
+    "regularPrice" : 48.95,
+    "salePrice" : 36.71,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.424555"
   } ]
 }, {
   "id" : 1992,
@@ -24133,6 +24409,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.914794"
+  }, {
+    "id" : 2294,
+    "regularPrice" : 99.99,
+    "salePrice" : 74.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.42879"
   } ]
 }, {
   "id" : 1993,
@@ -24562,6 +24844,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.986462"
+  }, {
+    "id" : 2295,
+    "regularPrice" : 35.00,
+    "salePrice" : 17.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.441122"
   } ]
 }, {
   "id" : 2026,
@@ -24679,6 +24967,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:31.998162"
+  }, {
+    "id" : 2296,
+    "regularPrice" : 39.00,
+    "salePrice" : 19.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.448224"
   } ]
 }, {
   "id" : 2035,
@@ -24757,6 +25051,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:32.003267"
+  }, {
+    "id" : 2297,
+    "regularPrice" : 15.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.452789"
   } ]
 }, {
   "id" : 2041,
@@ -25277,6 +25577,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:32.442348"
+  }, {
+    "id" : 2298,
+    "regularPrice" : 25.99,
+    "salePrice" : 12.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.481784"
   } ]
 }, {
   "id" : 2081,
@@ -25329,6 +25635,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:32.478349"
+  }, {
+    "id" : 2299,
+    "regularPrice" : 53.26,
+    "salePrice" : 37.28,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.487191"
   } ]
 }, {
   "id" : 2085,
@@ -25914,6 +26226,12 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:32.569293"
+  }, {
+    "id" : 2300,
+    "regularPrice" : 25.99,
+    "salePrice" : 12.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.495475"
   } ]
 }, {
   "id" : 2130,
@@ -26291,5 +26609,3554 @@
     "salePrice" : null,
     "currency" : "BRL",
     "recordedAt" : "2026-07-16T15:16:32.592265"
+  } ]
+}, {
+  "id" : 2201,
+  "nsuid" : "70010000126411",
+  "name" : "Grizzy and the Lemmings - Crazy Party",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000126411/da0568b77de45a09bfe2a0aa52d8473b39765c7f900739589f13baaa96a3f334",
+  "prices" : [ {
+    "id" : 2251,
+    "regularPrice" : 199.00,
+    "salePrice" : 149.25,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.647059"
+  } ]
+}, {
+  "id" : 2202,
+  "nsuid" : "70010000126336",
+  "name" : "Neko Odyssey",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000126336/170a5d5ebd78c492ff05c09fba8ee3997f7eb7a1c8a248763c3c3f90ec5e4b9e",
+  "prices" : [ {
+    "id" : 2252,
+    "regularPrice" : 59.99,
+    "salePrice" : 47.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.66955"
+  } ]
+}, {
+  "id" : 2203,
+  "nsuid" : "70010000130729",
+  "name" : "The Chilling Moment You Realize It: Creepy Meaning Psychological Test",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000130729/1b16108f205f5156fa6a53b0b732a494eaf442386a59fa4d829e858e10698945",
+  "prices" : [ {
+    "id" : 2253,
+    "regularPrice" : 19.99,
+    "salePrice" : 14.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.700351"
+  } ]
+}, {
+  "id" : 2204,
+  "nsuid" : "70010000129979",
+  "name" : "Learn Through Riddles! Masterpieces of the World",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000129979/538a173873884117806e5f1855266f1d0d1d583725a6317c8c0315784323b81b",
+  "prices" : [ {
+    "id" : 2254,
+    "regularPrice" : 19.99,
+    "salePrice" : 14.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.704405"
+  } ]
+}, {
+  "id" : 2205,
+  "nsuid" : "70010000129870",
+  "name" : "Chilling Urban Legends",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000129870/ba4153669707616fb0e4cbd0c5466696fae754310fe232722fe97f3adc607185",
+  "prices" : [ {
+    "id" : 2255,
+    "regularPrice" : 19.99,
+    "salePrice" : 14.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.708193"
+  } ]
+}, {
+  "id" : 2206,
+  "nsuid" : "70010000105937",
+  "name" : "Square Brain Puzzle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000105937/3727fd0fc20da8d1675758a7227ba2267982f4ed0424dd2595837205d7daf0b6",
+  "prices" : [ {
+    "id" : 2256,
+    "regularPrice" : 59.99,
+    "salePrice" : 44.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.727135"
+  } ]
+}, {
+  "id" : 2207,
+  "nsuid" : "70010000099755",
+  "name" : "Zumba - Marble Jungle Adventure",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000099755/05e055d8000fb76156ce746f923ee95b897d028ead935571722738ba1456b5aa",
+  "prices" : [ {
+    "id" : 2257,
+    "regularPrice" : 25.00,
+    "salePrice" : 12.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.733199"
+  } ]
+}, {
+  "id" : 2208,
+  "nsuid" : "70010000131958",
+  "name" : "Klondike Classic",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000131958/39a07bd076f015b4f302c1180b9a1057e9b795afc6d4dea0f633390685eb9c5a",
+  "prices" : [ {
+    "id" : 2258,
+    "regularPrice" : 25.90,
+    "salePrice" : 12.95,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.737585"
+  } ]
+}, {
+  "id" : 2209,
+  "nsuid" : "70070000037025",
+  "name" : "Games for Boys Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000037025/ca6617a63e9ff8880a3e6043554931e0e644fc00059477e94e16b38229103843",
+  "prices" : [ {
+    "id" : 2260,
+    "regularPrice" : 101.50,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.750329"
+  } ]
+}, {
+  "id" : 2210,
+  "nsuid" : "70070000038424",
+  "name" : "Dreamscapes: The Full Journey",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000038424/d75f3672137d091b2e267ed3de651c50ce3c1a8b060024691085e8995f317bc1",
+  "prices" : [ {
+    "id" : 2265,
+    "regularPrice" : 115.99,
+    "salePrice" : 57.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.778754"
+  } ]
+}, {
+  "id" : 2211,
+  "nsuid" : "70070000036745",
+  "name" : "Escape Room Marathon",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000036745/a79c688994ff3f3383a69a8e58b0f428ee614255d77aa86904f47b5eea490e8f",
+  "prices" : [ {
+    "id" : 2266,
+    "regularPrice" : 299.00,
+    "salePrice" : 179.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.782075"
+  } ]
+}, {
+  "id" : 2212,
+  "nsuid" : "70070000036744",
+  "name" : "Ancient and Arcane - Escape Room Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000036744/2c7a9a258149e03f7c7df81ab54f8804ff6984b1611efa5e3aabc7066a91a8c7",
+  "prices" : [ {
+    "id" : 2267,
+    "regularPrice" : 199.00,
+    "salePrice" : 119.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.787059"
+  } ]
+}, {
+  "id" : 2213,
+  "nsuid" : "70070000036743",
+  "name" : "Castles and Manors - Escape Room Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000036743/5ef4a442d968aedfeb117477940ec562b37a01a3a7fc45f637c043ac497f88e1",
+  "prices" : [ {
+    "id" : 2268,
+    "regularPrice" : 98.00,
+    "salePrice" : 68.60,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.790522"
+  } ]
+}, {
+  "id" : 2214,
+  "nsuid" : "70010000128380",
+  "name" : " Decollate Decoration",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000128380/fbf21f8401fed0b6c42aa55a1d25354bf98d7b24a2f09af9ca8e9013f5b5b8b3",
+  "prices" : [ {
+    "id" : 2269,
+    "regularPrice" : 53.95,
+    "salePrice" : 37.76,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.814206"
+  } ]
+}, {
+  "id" : 2215,
+  "nsuid" : "70010000126649",
+  "name" : "XENOTILT: HOSTILE PINBALL ACTION",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000126649/83823a680eb771b1a098d3b220f2300223ee99831c2246b30ca3fdcc61b20bc4",
+  "prices" : [ {
+    "id" : 2270,
+    "regularPrice" : 37.99,
+    "salePrice" : 30.39,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:42.82309"
+  } ]
+}, {
+  "id" : 2216,
+  "nsuid" : "70010000123008",
+  "name" : "AquaDream",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000123008/d158332948e33def5480f56a2ab527727d1a5c7e2546a70f17ec69b3a4bc780b",
+  "prices" : [ {
+    "id" : 2301,
+    "regularPrice" : 25.99,
+    "salePrice" : 12.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.509055"
+  } ]
+}, {
+  "id" : 2217,
+  "nsuid" : "70010000121480",
+  "name" : "Make it! Gyoza",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000121480/2e058b6953118222e4b5d110b32f8e47815fcea1b058e8ce113228ddfdb432e4",
+  "prices" : [ {
+    "id" : 2302,
+    "regularPrice" : 38.04,
+    "salePrice" : 26.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.768868"
+  } ]
+}, {
+  "id" : 2218,
+  "nsuid" : "70010000061698",
+  "name" : "Gecko Gods",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000061698/fb6b68bd48834868634ac869d0b7e40e723c88b0d8598bc9e2297bfa78109949",
+  "prices" : [ {
+    "id" : 2303,
+    "regularPrice" : 80.00,
+    "salePrice" : 64.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.77853"
+  } ]
+}, {
+  "id" : 2219,
+  "nsuid" : "70010000104638",
+  "name" : "BEFORE I GO",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104638/8604f8a92d32308103072de2a947f840e5c20cf4e25a5aa05c9d288f192b3075",
+  "prices" : [ {
+    "id" : 2304,
+    "regularPrice" : 59.99,
+    "salePrice" : 41.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.792055"
+  } ]
+}, {
+  "id" : 2220,
+  "nsuid" : "70010000122717",
+  "name" : "National Adult General Knowledge Selection Test",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000122717/2d3bb8010848e3190d479f0ed62b55ddf2d1382a48462770c0f8dd6d5045bb97",
+  "prices" : [ {
+    "id" : 2305,
+    "regularPrice" : 44.99,
+    "salePrice" : 26.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.81075"
+  } ]
+}, {
+  "id" : 2221,
+  "nsuid" : "70010000122538",
+  "name" : "Cat Doctor: For Loyal Servants",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000122538/624e61c806251834a9581f6c618051b4679bae9cf1ba856c01d18dea3c871a93",
+  "prices" : [ {
+    "id" : 2306,
+    "regularPrice" : 44.99,
+    "salePrice" : 26.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.81543"
+  } ]
+}, {
+  "id" : 2222,
+  "nsuid" : "70010000122199",
+  "name" : "Gentle Classical Music Course for Grown-Ups",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000122199/9f129caaa748f83931117d2c24c01dbddf0108568a93738497ef2ea8e02f7716",
+  "prices" : [ {
+    "id" : 2307,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.820092"
+  } ]
+}, {
+  "id" : 2223,
+  "nsuid" : "70010000122187",
+  "name" : "Which Era Is This? World History Era Guess Quiz",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000122187/b5e8c5a25c5d8d9305e4cbf51f8529044a29a40a979885ca17df085d89bf5885",
+  "prices" : [ {
+    "id" : 2308,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.823379"
+  } ]
+}, {
+  "id" : 2224,
+  "nsuid" : "70010000122056",
+  "name" : "Science Literacy Check for Adults",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000122056/71eac6bdb38e33481031d2a609b7ab9565c3ab9e46814ef947dc5bfa01e2a985",
+  "prices" : [ {
+    "id" : 2309,
+    "regularPrice" : 44.99,
+    "salePrice" : 26.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.827954"
+  } ]
+}, {
+  "id" : 2225,
+  "nsuid" : "70010000121759",
+  "name" : "You’d Be Surprised!? Everyday English Vocabulary Fill-in-the-Blank Quiz",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000121759/5bb92ec144aa0fa180fca19c88a16d4329b0acdfba5781b57066a940a20dcaf1",
+  "prices" : [ {
+    "id" : 2310,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.830858"
+  } ]
+}, {
+  "id" : 2226,
+  "nsuid" : "70010000121339",
+  "name" : "Which Era Is This? Japanese History Era Guess Quiz",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000121339/7c12a19c3fb6a1f6e06caf157672a2fd4d862e1ae4e408629be675320e261671",
+  "prices" : [ {
+    "id" : 2311,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.8345"
+  } ]
+}, {
+  "id" : 2227,
+  "nsuid" : "70010000121189",
+  "name" : "Geo Brain Boost! World Map Silhouette Quiz",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000121189/c3399f56e71222f934a35d2b76af244ffe1c4d02fe0bda21fb979d414851b2d8",
+  "prices" : [ {
+    "id" : 2312,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.840106"
+  } ]
+}, {
+  "id" : 2228,
+  "nsuid" : "70010000119969",
+  "name" : "Japanese Basics HIRAGANA Fill-in Quiz",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000119969/641495080fe0d9d4b6a6a606171332588e1ba6d0272726fba0ad6a10540ae6cf",
+  "prices" : [ {
+    "id" : 2313,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.854377"
+  } ]
+}, {
+  "id" : 2229,
+  "nsuid" : "70010000116980",
+  "name" : "Garden Work Simulator 2026",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000116980/95bba8b0d73910f30c81c0dd6b54cdf0103408da77d42c2b9987e564dcc6e189",
+  "prices" : [ {
+    "id" : 2314,
+    "regularPrice" : 59.00,
+    "salePrice" : 17.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.868131"
+  } ]
+}, {
+  "id" : 2230,
+  "nsuid" : "70010000106909",
+  "name" : "Ariana and the Elder Codex",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000106909/dd36e88930d266503b93a20d1b92bf809f3784e0042217ec4bb8a2b24cce1258",
+  "prices" : [ {
+    "id" : 2315,
+    "regularPrice" : 164.99,
+    "salePrice" : 82.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.888761"
+  } ]
+}, {
+  "id" : 2231,
+  "nsuid" : "70010000120739",
+  "name" : "Kuky Adventure",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000120739/5e31dd7a699bc44946da6192e8263651a928578934fb9bf60423a1f047ecea25",
+  "prices" : [ {
+    "id" : 2316,
+    "regularPrice" : 26.99,
+    "salePrice" : 13.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.892987"
+  } ]
+}, {
+  "id" : 2232,
+  "nsuid" : "70010000120490",
+  "name" : "Speed Boom: Last Delivery",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000120490/ae261b1c764377f567a6527a9a719c6392623b13756b4855f92f9f1e59182cbe",
+  "prices" : [ {
+    "id" : 2317,
+    "regularPrice" : 49.00,
+    "salePrice" : 14.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.89968"
+  } ]
+}, {
+  "id" : 2233,
+  "nsuid" : "70010000117619",
+  "name" : "Escape From Duck",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000117619/8a343e7e28aceacb16fe2dec8d32d17f6db0325b363e7f6c6d8b8209143e5e41",
+  "prices" : [ {
+    "id" : 2318,
+    "regularPrice" : 39.99,
+    "salePrice" : 17.11,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.908213"
+  } ]
+}, {
+  "id" : 2234,
+  "nsuid" : "70010000117686",
+  "name" : "Rail Rescue: Puzzle Lines",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000117686/6d64ba1cb90a376221a091686da02b3d9b4117f0de6d5075ff9831e9ac8897ff",
+  "prices" : [ {
+    "id" : 2319,
+    "regularPrice" : 40.00,
+    "salePrice" : 15.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.910431"
+  } ]
+}, {
+  "id" : 2235,
+  "nsuid" : "70010000115270",
+  "name" : "Noire Police Detective: Gangster Drama Simulator",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000115270/e46651a3f723859e3ce891aca8f31bf49f58d9a2ad1e38b15cb1795706403b16",
+  "prices" : [ {
+    "id" : 2320,
+    "regularPrice" : 69.99,
+    "salePrice" : 16.11,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.911851"
+  } ]
+}, {
+  "id" : 2236,
+  "nsuid" : "70010000118422",
+  "name" : "Deep Combat",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000118422/16499857c44141bd02a88a23e12be3cd1d342f15b3fafd14669a46b529fbaf68",
+  "prices" : [ {
+    "id" : 2321,
+    "regularPrice" : 26.99,
+    "salePrice" : 13.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.914419"
+  } ]
+}, {
+  "id" : 2237,
+  "nsuid" : "70010000107820",
+  "name" : "Ratcheteer DX",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000107820/499953c817e7e4713e380f00997cf76edc027462269526d581fedcb1a6b2c3a9",
+  "prices" : [ {
+    "id" : 2322,
+    "regularPrice" : 47.49,
+    "salePrice" : 35.61,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.919128"
+  } ]
+}, {
+  "id" : 2238,
+  "nsuid" : "70010000110352",
+  "name" : "Tiny Garden",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000110352/529895176447c0f8545b05f9bf819c2b920fb1161dbbd05f81a1914088dea595",
+  "prices" : [ {
+    "id" : 2323,
+    "regularPrice" : 46.99,
+    "salePrice" : 32.89,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.929747"
+  } ]
+}, {
+  "id" : 2239,
+  "nsuid" : "70010000118111",
+  "name" : "Carrot Smash",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000118111/a6901fec55b16b798f36f31e69793be5f47c455bed524cb6afd04517a9ee7b59",
+  "prices" : [ {
+    "id" : 2324,
+    "regularPrice" : 26.60,
+    "salePrice" : 13.30,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.936545"
+  } ]
+}, {
+  "id" : 2240,
+  "nsuid" : "70010000115948",
+  "name" : "Cleaner Simulator 2026",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000115948/5ced0cbc7f6c7d33f53e68aa4ac25b8ace98a2d46021d3cf599054ce58fb9bec",
+  "prices" : [ {
+    "id" : 2325,
+    "regularPrice" : 59.00,
+    "salePrice" : 17.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.940933"
+  } ]
+}, {
+  "id" : 2241,
+  "nsuid" : "70010000118117",
+  "name" : "Calyssa",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000118117/86f86a93ab1cc577f53cd36b571400e73aa077d3f9305ec5e4a56c58746887de",
+  "prices" : [ {
+    "id" : 2326,
+    "regularPrice" : 26.60,
+    "salePrice" : 13.30,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.942306"
+  } ]
+}, {
+  "id" : 2242,
+  "nsuid" : "70010000113214",
+  "name" : "Build A Queen",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000113214/3d19c725dd3d4a0cbc87a2f0ee7b20f4ec164c0c2824a7163de7be8754557b6f",
+  "prices" : [ {
+    "id" : 2327,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.947953"
+  } ]
+}, {
+  "id" : 2243,
+  "nsuid" : "70010000115331",
+  "name" : "Lumberjack Simulator - Made in Alaska 2026",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000115331/fb558c60593e7d32a517b9d50bea6ffd9610e2d4e11adcf53715eb9bb7c1b50e",
+  "prices" : [ {
+    "id" : 2328,
+    "regularPrice" : 45.00,
+    "salePrice" : 13.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.950273"
+  } ]
+}, {
+  "id" : 2244,
+  "nsuid" : "70010000111028",
+  "name" : "Trigodpats",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000111028/74e9d71d5852f0dab8d974043bce178550fcd0953f85902d1f9f39f74f6a63f1",
+  "prices" : [ {
+    "id" : 2329,
+    "regularPrice" : 49.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:43.955236"
+  } ]
+}, {
+  "id" : 2245,
+  "nsuid" : "70070000032732",
+  "name" : "Bus Driving Simulator 24 City Roads & Farmer Simulator Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000032732/cbda55b06023f16180d75e69325c5a714ccffec1f11453f70cb8d51123222054",
+  "prices" : [ {
+    "id" : 2330,
+    "regularPrice" : 99.00,
+    "salePrice" : 19.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.192272"
+  } ]
+}, {
+  "id" : 2246,
+  "nsuid" : "70010000114853",
+  "name" : "Hidden Cats in Christmas",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000114853/f454bb9971647163388ce0786dd235ad9be442a3bbb6395064fc82f73aec9599",
+  "prices" : [ {
+    "id" : 2331,
+    "regularPrice" : 19.00,
+    "salePrice" : 13.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.202948"
+  } ]
+}, {
+  "id" : 2247,
+  "nsuid" : "70010000107473",
+  "name" : "Magic Rune Stone",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000107473/4bfa87977d6a12f78f943101e3fdcd188ede261633b213a3d884d776d6257ffb",
+  "prices" : [ {
+    "id" : 2332,
+    "regularPrice" : 59.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.206766"
+  } ]
+}, {
+  "id" : 2248,
+  "nsuid" : "70010000097365",
+  "name" : "Card Quest",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097365/564543aa617f0d3292fb141f3885212780d8e7b99a0d0b0e609731441b6d0ab8",
+  "prices" : [ {
+    "id" : 2333,
+    "regularPrice" : 52.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.232597"
+  } ]
+}, {
+  "id" : 2249,
+  "nsuid" : "70010000115198",
+  "name" : "Horizon Drift Unlimited 2026",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000115198/a444677e971a4b283f49868b097cf6237bc5d8d3afbee95c102d8d2d973c7ea2",
+  "prices" : [ {
+    "id" : 2334,
+    "regularPrice" : 80.50,
+    "salePrice" : 24.15,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.23759"
+  } ]
+}, {
+  "id" : 2250,
+  "nsuid" : "70010000116091",
+  "name" : "Forester Simulator 2026: Mushroom Hunting",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000116091/7c582bede6ce11b0847270fcec2bd5a6f1236c36b9736add25b6c0b7c0d8f6d5",
+  "prices" : [ {
+    "id" : 2335,
+    "regularPrice" : 45.00,
+    "salePrice" : 13.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.241182"
+  } ]
+}, {
+  "id" : 2251,
+  "nsuid" : "70010000113803",
+  "name" : "Make it! Kushikatsu",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000113803/19f206ef1a5de3113c8cf5588556efde7e83d771ec44c1c793323e3e932b7c71",
+  "prices" : [ {
+    "id" : 2336,
+    "regularPrice" : 38.04,
+    "salePrice" : 26.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.2497"
+  } ]
+}, {
+  "id" : 2252,
+  "nsuid" : "70010000098594",
+  "name" : "Magicbook AutoBattler",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000098594/eb4508dfa495deea9d3139ef26c224036e7366006a347379f1161edd5e16ba0d",
+  "prices" : [ {
+    "id" : 2337,
+    "regularPrice" : 52.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.260261"
+  } ]
+}, {
+  "id" : 2253,
+  "nsuid" : "70010000110260",
+  "name" : "City Bus Simulator",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000110260/f350340765c586da32d989e91936a1682026047d1c68886606c5c3e6aa106620",
+  "prices" : [ {
+    "id" : 2338,
+    "regularPrice" : 52.99,
+    "salePrice" : 15.89,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.263406"
+  } ]
+}, {
+  "id" : 2254,
+  "nsuid" : "70010000116093",
+  "name" : "Mine Breaker Simulator 2026",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000116093/e8b01f2e124cd11eb047b52e1f29a3bdfa8e481cafc3068b4cb2a258209f7ddc",
+  "prices" : [ {
+    "id" : 2339,
+    "regularPrice" : 45.00,
+    "salePrice" : 13.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.266851"
+  } ]
+}, {
+  "id" : 2255,
+  "nsuid" : "70010000114714",
+  "name" : "Dinosaur Bones Digging Simulator 2026",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000114714/38507cf3ae6eef998e580d46767affab925c649ccf6a3bfa184b9d9a04730dd1",
+  "prices" : [ {
+    "id" : 2340,
+    "regularPrice" : 59.00,
+    "salePrice" : 17.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.268781"
+  } ]
+}, {
+  "id" : 2256,
+  "nsuid" : "70070000032388",
+  "name" : "Call of Glory - Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000032388/5d63c0dc267cc9d5bcb12b5b0d500782d18d9dc2b2e9f1810c83eea3ec3097bc",
+  "prices" : [ {
+    "id" : 2341,
+    "regularPrice" : 69.99,
+    "salePrice" : 26.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.271496"
+  } ]
+}, {
+  "id" : 2257,
+  "nsuid" : "70010000109882",
+  "name" : "Stray of Lostcat",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000109882/d3642323b40be1e22147a8f39671a828d4a67b5a5169a20755962a160bdd7db7",
+  "prices" : [ {
+    "id" : 2342,
+    "regularPrice" : 59.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.287491"
+  } ]
+}, {
+  "id" : 2258,
+  "nsuid" : "70010000106463",
+  "name" : "Sugoroku New Year's Party",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000106463/09ad60c7f1ccbf4183fbae5150fab3b5b286a19bfd2dddfdd1383f0f2c1fb92b",
+  "prices" : [ {
+    "id" : 2343,
+    "regularPrice" : 65.22,
+    "salePrice" : 45.65,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.298799"
+  } ]
+}, {
+  "id" : 2259,
+  "nsuid" : "70010000106181",
+  "name" : "Firefighting Rescue Simulator",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000106181/ddd2ca96f5e6a7e272fd40c83db41b6f2be6781f8e52c110829bd5d6c9806f9a",
+  "prices" : [ {
+    "id" : 2344,
+    "regularPrice" : 69.99,
+    "salePrice" : 16.11,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.300386"
+  } ]
+}, {
+  "id" : 2260,
+  "nsuid" : "70010000111261",
+  "name" : "Hypercar Racing",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000111261/fea7480a7bba3d6e0025fc247c49da6be25bbe9e7cdbacbe8b6b77dd9f5404aa",
+  "prices" : [ {
+    "id" : 2345,
+    "regularPrice" : 54.99,
+    "salePrice" : 19.24,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.303914"
+  } ]
+}, {
+  "id" : 2261,
+  "nsuid" : "70010000111776",
+  "name" : "Unholy Adventure: Mystery",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000111776/f80d11d19787e661c950d9955114af62f34a3099a60a1d3b734bf1b163575aef",
+  "prices" : [ {
+    "id" : 2346,
+    "regularPrice" : 31.88,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.306473"
+  } ]
+}, {
+  "id" : 2262,
+  "nsuid" : "70010000111736",
+  "name" : "Sneaky All-Nighter 2",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000111736/a934c3c34ad525ffe596280b41374c98980db6787c0af6621e15e053b95dbcf5",
+  "prices" : [ {
+    "id" : 2347,
+    "regularPrice" : 27.17,
+    "salePrice" : 19.01,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.307523"
+  } ]
+}, {
+  "id" : 2263,
+  "nsuid" : "70010000111298",
+  "name" : "Digging And Selling: Simulator 2025",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000111298/9bde0e0808e6ae5dca9b7e2ffdbb6b64a1916b816ccbccaf4a750f989d5d1b25",
+  "prices" : [ {
+    "id" : 2348,
+    "regularPrice" : 59.00,
+    "salePrice" : 17.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.308493"
+  } ]
+}, {
+  "id" : 2264,
+  "nsuid" : "70010000111493",
+  "name" : "Dive Expedition",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000111493/03c99e9cce45b2ea1796dfb12bcda53d597f0637582764885710227ecb601ed4",
+  "prices" : [ {
+    "id" : 2349,
+    "regularPrice" : 40.00,
+    "salePrice" : 15.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.309489"
+  } ]
+}, {
+  "id" : 2265,
+  "nsuid" : "70010000109948",
+  "name" : "Raptor Evolution",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000109948/bdf31ca896e47c475964a5a99ce89aa21dd2929751722145cc7cf72685f4d36b",
+  "prices" : [ {
+    "id" : 2350,
+    "regularPrice" : 30.00,
+    "salePrice" : 12.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.310448"
+  } ]
+}, {
+  "id" : 2266,
+  "nsuid" : "70010000105312",
+  "name" : "Fight For America",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000105312/abbc41fc0bcf3082142d17c79b02fe09ad5c21893e0dce56065b00f9bb70a644",
+  "prices" : [ {
+    "id" : 2351,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.311667"
+  } ]
+}, {
+  "id" : 2267,
+  "nsuid" : "70010000107533",
+  "name" : "Slide! Throw! Snow Party",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000107533/40b1f06cd8978ee9d167a4877f9ec6af413ff3e18d00693eae5abadbe0acfb0c",
+  "prices" : [ {
+    "id" : 2352,
+    "regularPrice" : 48.91,
+    "salePrice" : 34.23,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.317501"
+  } ]
+}, {
+  "id" : 2268,
+  "nsuid" : "70010000104722",
+  "name" : "Dungeons and Ducklings",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104722/3bc793804ebf1d8a35152b4259161cff6cb5f01bb69fa9a9d90ccdca0048a496",
+  "prices" : [ {
+    "id" : 2353,
+    "regularPrice" : 25.00,
+    "salePrice" : 12.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.321088"
+  } ]
+}, {
+  "id" : 2269,
+  "nsuid" : "70010000112667",
+  "name" : "There's No Differences: Santa",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000112667/0ce6914e8db198476c7113e143f535c194301a6e4ff7cb91e6f6e508106f4f36",
+  "prices" : [ {
+    "id" : 2354,
+    "regularPrice" : 42.00,
+    "salePrice" : 21.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.324322"
+  } ]
+}, {
+  "id" : 2270,
+  "nsuid" : "70010000106248",
+  "name" : "American Car Parking Simulator 2025",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000106248/d002b7f6ff21f85cfc603efcea72a4508cad0bd3db29dc0b698fa1e655ea48cc",
+  "prices" : [ {
+    "id" : 2355,
+    "regularPrice" : 59.00,
+    "salePrice" : 17.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.330315"
+  } ]
+}, {
+  "id" : 2271,
+  "nsuid" : "70010000091405",
+  "name" : "Bee Simulator: The Hive",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091405/3c8bb849b223c9fc7a39731efeebce7922ffeb10854e83afcff877bd611ac779",
+  "prices" : [ {
+    "id" : 2356,
+    "regularPrice" : 134.99,
+    "salePrice" : 70.19,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.337095"
+  } ]
+}, {
+  "id" : 2272,
+  "nsuid" : "70010000111083",
+  "name" : "Red Cape Knight",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000111083/44d9244b7760566ec8d491925dc80da8f169e08813ed77f7036ea950a85e67ab",
+  "prices" : [ {
+    "id" : 2357,
+    "regularPrice" : 27.00,
+    "salePrice" : 13.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.339051"
+  } ]
+}, {
+  "id" : 2273,
+  "nsuid" : "70010000106718",
+  "name" : "Bake it! Pizza Master",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000106718/8f9f86d1034a572f0d6acd07c175a859332f6c6e8ec64b54afb2df2cdc7dc449",
+  "prices" : [ {
+    "id" : 2358,
+    "regularPrice" : 38.04,
+    "salePrice" : 26.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.340063"
+  } ]
+}, {
+  "id" : 2274,
+  "nsuid" : "70010000100895",
+  "name" : "Doki Monsters : Quest",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000100895/4cb62825d5153bd20da29ff4e81099da915f6fb12bfd9a4979ff45e5e79cbdf2",
+  "prices" : [ {
+    "id" : 2359,
+    "regularPrice" : 69.50,
+    "salePrice" : 21.25,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.34127"
+  } ]
+}, {
+  "id" : 2275,
+  "nsuid" : "70010000102517",
+  "name" : "Gensou -Yumegokochi- Illusion -Dreamlike-",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000102517/c9cc16b4a550c366ba26dfc6dc81b47aa6b836f5c183670892bcfe1b5bfc63b6",
+  "prices" : [ {
+    "id" : 2360,
+    "regularPrice" : 54.34,
+    "salePrice" : 27.17,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.346712"
+  } ]
+}, {
+  "id" : 2276,
+  "nsuid" : "70010000104510",
+  "name" : "Bob The Brick Breaker",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104510/c8abb88e03f6026ca54017c4a0eab9e1c9326a51ee380c9ddd2949dd97c04427",
+  "prices" : [ {
+    "id" : 2361,
+    "regularPrice" : 37.99,
+    "salePrice" : 18.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.64363"
+  } ]
+}, {
+  "id" : 2277,
+  "nsuid" : "70010000103935",
+  "name" : "Smack it! PUNCH CHAMPION",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000103935/d97a126876d0f5c0fa7f41082fefdea6fa65990b36bd0849bde1bbe47a2ee472",
+  "prices" : [ {
+    "id" : 2362,
+    "regularPrice" : 27.17,
+    "salePrice" : 19.01,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.669415"
+  } ]
+}, {
+  "id" : 2278,
+  "nsuid" : "70010000110096",
+  "name" : "Train Your Focus and Observation Skills: THE Spot-the-Difference Challenge",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000110096/bfe5f9cb73febb508382d730e2bc72dc33c926b16c8645cb71c01c931c165b38",
+  "prices" : [ {
+    "id" : 2363,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.680627"
+  } ]
+}, {
+  "id" : 2279,
+  "nsuid" : "70010000109880",
+  "name" : "Open Sesame - Alibaba Dash",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000109880/06dd19d56317611739edf35605e4d231b991008a5bee3b8b68cdcab17fd2ac25",
+  "prices" : [ {
+    "id" : 2364,
+    "regularPrice" : 14.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.682684"
+  } ]
+}, {
+  "id" : 2280,
+  "nsuid" : "70010000107241",
+  "name" : "Brain Workout! Spinning Animal Puzzle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000107241/c9c42f7ffc8b11ebf0ebdb7a9650ee178a5489fdc45e9d7d8110cadbe3aa3243",
+  "prices" : [ {
+    "id" : 2365,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.684477"
+  } ]
+}, {
+  "id" : 2281,
+  "nsuid" : "70010000104473",
+  "name" : "Make it! Yakiimo",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104473/ddd626509f3c28646495d4808f57bd1f88e50a7b4512e01e28765f4e0ff2797e",
+  "prices" : [ {
+    "id" : 2366,
+    "regularPrice" : 25.09,
+    "salePrice" : 17.56,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.697138"
+  } ]
+}, {
+  "id" : 2282,
+  "nsuid" : "70010000104709",
+  "name" : "CANDYLAND: Sweet Survival",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104709/8f036e9244bae24525302fc67a86d049050077980ccc1e8f696863adaacc32d9",
+  "prices" : [ {
+    "id" : 2367,
+    "regularPrice" : 37.99,
+    "salePrice" : 16.22,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.704113"
+  } ]
+}, {
+  "id" : 2283,
+  "nsuid" : "70010000104610",
+  "name" : "Mannequin Mayhem - Physics Ragdoll Shooter",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104610/470d29acdfe73e650f89b287496cf9f472016d0d1ee091a6412de4e4659b2605",
+  "prices" : [ {
+    "id" : 2368,
+    "regularPrice" : 36.99,
+    "salePrice" : 15.82,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.70571"
+  } ]
+}, {
+  "id" : 2284,
+  "nsuid" : "70010000095654",
+  "name" : "Fast & Furious: Arcade Edition",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000095654/66d76ed07ced8f20689f3ea7fa176cfd67be9b47936707b18925f77cb52dea53",
+  "prices" : [ {
+    "id" : 2369,
+    "regularPrice" : 49.00,
+    "salePrice" : 24.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.707616"
+  } ]
+}, {
+  "id" : 2285,
+  "nsuid" : "70010000088942",
+  "name" : "Hot Wheels Let's Race™: Ultimate Speed",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088942/606aa46ace1ac93c5a6795d30e9c92efbb3ed11dfc0575c91ebf108a54c9b63e",
+  "prices" : [ {
+    "id" : 2370,
+    "regularPrice" : 237.00,
+    "salePrice" : 94.80,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.709785"
+  } ]
+}, {
+  "id" : 2286,
+  "nsuid" : "70010000105913",
+  "name" : "Beam Car Crash: Drive Simulator 2025",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000105913/acc92b920fa4db21465ac33c15bbd7dc3772034e8080b4e858d0b11e5a8da789",
+  "prices" : [ {
+    "id" : 2371,
+    "regularPrice" : 59.99,
+    "salePrice" : 17.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.714555"
+  } ]
+}, {
+  "id" : 2287,
+  "nsuid" : "70010000101789",
+  "name" : "Gnomdom",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000101789/86f6c8d6f52a10c2f181bfb9fe45a1c3c194a185257b4ce3db7d99a5b23fe120",
+  "prices" : [ {
+    "id" : 2372,
+    "regularPrice" : 15.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.7182"
+  } ]
+}, {
+  "id" : 2288,
+  "nsuid" : "70010000100137",
+  "name" : "Gruniożerca Trilogy",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000100137/b8689fdd8acc3c53a08bd3ba464ae04e043e3ae9b963da64316d55c7b7825193",
+  "prices" : [ {
+    "id" : 2373,
+    "regularPrice" : 44.00,
+    "salePrice" : 13.20,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.720571"
+  } ]
+}, {
+  "id" : 2289,
+  "nsuid" : "70010000104517",
+  "name" : "OFC - Ultimate Fighting Club",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104517/b58a688aa26e3ef05eef49e90c8643dd231cd7d8ee1c1f10430bfb10ecd6c9b1",
+  "prices" : [ {
+    "id" : 2374,
+    "regularPrice" : 52.99,
+    "salePrice" : 15.89,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.726687"
+  } ]
+}, {
+  "id" : 2290,
+  "nsuid" : "70010000105044",
+  "name" : "Treasure Drop",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000105044/67fb8dbcd031796a3fb9ac2b09fb51e50bc648817e3168c9c84f44a3f2cbab54",
+  "prices" : [ {
+    "id" : 2375,
+    "regularPrice" : 15.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.729036"
+  } ]
+}, {
+  "id" : 2291,
+  "nsuid" : "70010000093748",
+  "name" : "Evo Pop",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000093748/873507f90c5a6cf8cdb7e9c9db0e68ead99136da683570e4302d19aba2a20e37",
+  "prices" : [ {
+    "id" : 2376,
+    "regularPrice" : 30.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.738927"
+  } ]
+}, {
+  "id" : 2292,
+  "nsuid" : "70010000105732",
+  "name" : "Cross Pix 4",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000105732/8fcbaeaca9c46df3c37fb59c9f207100672619194488c769caf3d093543ec097",
+  "prices" : [ {
+    "id" : 2377,
+    "regularPrice" : 14.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.744187"
+  } ]
+}, {
+  "id" : 2293,
+  "nsuid" : "70010000105728",
+  "name" : "Snow Aces League",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000105728/e402aed195b133f45b051bde09699236ff087a7d0fc5f1a164c4d37569177339",
+  "prices" : [ {
+    "id" : 2378,
+    "regularPrice" : 39.99,
+    "salePrice" : 29.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.749945"
+  } ]
+}, {
+  "id" : 2294,
+  "nsuid" : "70010000099412",
+  "name" : "Sherlock Spot DX",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000099412/7672bca783799755698285dc41a40e50189d5b975e4913619c01dd848c8e8063",
+  "prices" : [ {
+    "id" : 2379,
+    "regularPrice" : 14.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:44.757734"
+  } ]
+}, {
+  "id" : 2295,
+  "nsuid" : "70010000091281",
+  "name" : "Goosebumps: Terror in Little Creek",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091281/59e7b76c19430e84d39f734fc5b2794e5d29dd1a976a2a9b2bd64efff9a9a0f0",
+  "prices" : [ {
+    "id" : 2380,
+    "regularPrice" : 237.00,
+    "salePrice" : 94.80,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.071545"
+  } ]
+}, {
+  "id" : 2296,
+  "nsuid" : "70010000102557",
+  "name" : "Cross Pix",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000102557/e826dbdf8f0cf650db038e410469cda4e9876d658f68b5fb9eaace07d613544f",
+  "prices" : [ {
+    "id" : 2381,
+    "regularPrice" : 14.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.076753"
+  } ]
+}, {
+  "id" : 2297,
+  "nsuid" : "70010000083926",
+  "name" : "Herdling",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083926/84a01d075a7d4c6ab462c193593e57e43d22eb7ebdb0f23cb18e7e5c75071c9c",
+  "prices" : [ {
+    "id" : 2382,
+    "regularPrice" : 90.99,
+    "salePrice" : 54.59,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.080033"
+  } ]
+}, {
+  "id" : 2298,
+  "nsuid" : "70010000099258",
+  "name" : "Bubble Wizard IV Saga",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000099258/e3107cfe1dad8b87388b9c909c6b2b0df4bfc3c3ebad3430ed48f2210e1be688",
+  "prices" : [ {
+    "id" : 2383,
+    "regularPrice" : 22.99,
+    "salePrice" : 17.24,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.085911"
+  } ]
+}, {
+  "id" : 2299,
+  "nsuid" : "70010000097963",
+  "name" : "Magibrick",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097963/d449bcd9a0105bcbf768d243c74c3c88080952effb01d14e4a8351250f8f27f9",
+  "prices" : [ {
+    "id" : 2384,
+    "regularPrice" : 26.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.087838"
+  } ]
+}, {
+  "id" : 2300,
+  "nsuid" : "70010000101016",
+  "name" : "A Dream About Parking Lots",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000101016/91bb57f8ea2847f5d21784aca659228ba500407cdacbbe5a072383261fa6e43c",
+  "prices" : [ {
+    "id" : 2385,
+    "regularPrice" : 29.99,
+    "salePrice" : 14.09,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.092389"
+  } ]
+}, {
+  "id" : 2301,
+  "nsuid" : "70010000095977",
+  "name" : "PATAS & BIGODES",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000095977/08ef1f55bbcc0a4d0ec8239ef15a1d8bf0ea866629615dfc70ce14c64d2a0aaa",
+  "prices" : [ {
+    "id" : 2386,
+    "regularPrice" : 26.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.096349"
+  } ]
+}, {
+  "id" : 2302,
+  "nsuid" : "70010000072122",
+  "name" : "Time Flies",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000072122/aa5eb97ff9b1fcb15d87d9ec8e4317ebdb5a9ed1fc5e8e51f79b6cc07bf06ecf",
+  "prices" : [ {
+    "id" : 2387,
+    "regularPrice" : 55.00,
+    "salePrice" : 35.75,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.097814"
+  } ]
+}, {
+  "id" : 2303,
+  "nsuid" : "70010000101679",
+  "name" : "Picture Treasure Hunt",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000101679/72415a1ddeb14085a5ccd1160d0d61489dcdc2f1d4673e9f80d8361dc34734ac",
+  "prices" : [ {
+    "id" : 2388,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.100241"
+  } ]
+}, {
+  "id" : 2304,
+  "nsuid" : "70010000085900",
+  "name" : "Strike Mission",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000085900/73e6edd1a63d676f5187dee7c947696fddd0d1f4c0008c1b8d77546ebbb3b4ef",
+  "prices" : [ {
+    "id" : 2389,
+    "regularPrice" : 35.00,
+    "salePrice" : 17.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.104891"
+  } ]
+}, {
+  "id" : 2305,
+  "nsuid" : "70070000028902",
+  "name" : "CAR SIMULATOR BUNDLE (CAR WASH, CAR HEIST, CAR DETAILING)",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000028902/5e69e745e0ef7ed89f206b2f9a53bccf249d2170efa089722842dfbcff9709d8",
+  "prices" : [ {
+    "id" : 2390,
+    "regularPrice" : 109.99,
+    "salePrice" : 16.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.107494"
+  } ]
+}, {
+  "id" : 2306,
+  "nsuid" : "70010000092290",
+  "name" : "Ball Blast",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092290/9613b8d81e8b66f01d4c7fa0d5b3f6c619504bca7a5d7258d6d2f42a5f780d7c",
+  "prices" : [ {
+    "id" : 2391,
+    "regularPrice" : 30.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.109221"
+  } ]
+}, {
+  "id" : 2307,
+  "nsuid" : "70010000100953",
+  "name" : "Peek a Fish!",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000100953/c90bef6b624afd467b4f2479c5e6856a677a892499c5e86fcd592759f967a196",
+  "prices" : [ {
+    "id" : 2392,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.111447"
+  } ]
+}, {
+  "id" : 2308,
+  "nsuid" : "70010000099690",
+  "name" : "Maze: Path of Light",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000099690/84e02557279ba4a9f476f12c24b3d55a2f625b25fecf89c0de5a91d9e2fad1ac",
+  "prices" : [ {
+    "id" : 2393,
+    "regularPrice" : 40.00,
+    "salePrice" : 12.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.116959"
+  } ]
+}, {
+  "id" : 2309,
+  "nsuid" : "70070000028507",
+  "name" : "ISLANDERS: New Shores - Island Hopping Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000028507/9d0ec6115388a0aea49de5bdc04ba06d929d0c25eb655b52c65de6c8a00a8dba",
+  "prices" : [ {
+    "id" : 2394,
+    "regularPrice" : 72.50,
+    "salePrice" : 47.12,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.124157"
+  } ]
+}, {
+  "id" : 2310,
+  "nsuid" : "70010000098223",
+  "name" : "Pet Show",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000098223/911136502e7081da08cede2111743fa3f60338938972e8e28e5addbdd381abff",
+  "prices" : [ {
+    "id" : 2395,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.129437"
+  } ]
+}, {
+  "id" : 2311,
+  "nsuid" : "70010000098702",
+  "name" : "Super Sucker",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000098702/e0f4ccaa75ab28ef07f44fe18805156a79e1e582048b8054b89f394eaac95dd9",
+  "prices" : [ {
+    "id" : 2396,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.146044"
+  } ]
+}, {
+  "id" : 2312,
+  "nsuid" : "70010000099894",
+  "name" : "A Bibelot: Y-Break",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000099894/5037f95c3bfd2138ddf45353d77a3c3a32ab534a37e7a68bdfd30dcbc9511346",
+  "prices" : [ {
+    "id" : 2397,
+    "regularPrice" : 28.00,
+    "salePrice" : 14.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.154291"
+  } ]
+}, {
+  "id" : 2313,
+  "nsuid" : "70010000097746",
+  "name" : "Zombies Overloaded",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097746/a545ef822ce096d9d7b4ce74a6e62b18935509925b49cd12bb750b0c931c8190",
+  "prices" : [ {
+    "id" : 2398,
+    "regularPrice" : 39.99,
+    "salePrice" : 19.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.15591"
+  } ]
+}, {
+  "id" : 2314,
+  "nsuid" : "70010000096645",
+  "name" : "Block Party DX!",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000096645/29f9dae88b3ab181d7b2e913e534fca11aa6a79c7e34b032ae4d8b1232fb30ee",
+  "prices" : [ {
+    "id" : 2399,
+    "regularPrice" : 14.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.156971"
+  } ]
+}, {
+  "id" : 2315,
+  "nsuid" : "70010000096395",
+  "name" : "SUSHI vs BURGER Race",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000096395/5b2e7e24782594d435530cfdfb143504a10624ad014552e658ea59f3bce27649",
+  "prices" : [ {
+    "id" : 2400,
+    "regularPrice" : 44.78,
+    "salePrice" : 31.34,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.158897"
+  } ]
+}, {
+  "id" : 2316,
+  "nsuid" : "70010000066979",
+  "name" : "Klaus Lee - Thunderballs",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000066979/5473cf2ba7420c70ce8ecd1cb731fee98119412a1e0ba1c8362f9999474dde73",
+  "prices" : [ {
+    "id" : 2401,
+    "regularPrice" : 76.00,
+    "salePrice" : 15.20,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.159878"
+  } ]
+}, {
+  "id" : 2317,
+  "nsuid" : "70070000028759",
+  "name" : "Flight Attendant & Ultimate Rock & Space Cleaner & Cash Guardian Simulator & Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000028759/de5bf08842ef6297d78cace076da8f31647d1f3b6142c6f548c5d50d255d2a6b",
+  "prices" : [ {
+    "id" : 2402,
+    "regularPrice" : 169.99,
+    "salePrice" : 28.30,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.166658"
+  } ]
+}, {
+  "id" : 2318,
+  "nsuid" : "70010000098673",
+  "name" : "Cat Cosmic Puzzle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000098673/0692a853d6c33371ecd998e0f7762364d01d5413c4776897df6e4542bbb688bf",
+  "prices" : [ {
+    "id" : 2403,
+    "regularPrice" : 33.90,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.169282"
+  } ]
+}, {
+  "id" : 2319,
+  "nsuid" : "70010000098329",
+  "name" : "Death Kid",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000098329/59382221dc888c49e03764b93441ef14d981e0ac8570c4e1e29c2e36bd987213",
+  "prices" : [ {
+    "id" : 2404,
+    "regularPrice" : 49.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.170116"
+  } ]
+}, {
+  "id" : 2320,
+  "nsuid" : "70010000097355",
+  "name" : "Make it! Sushi",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097355/9a4295ba7916b17afab906a7e8283fb0a87d729a7825b7efc88869ce1fd23576",
+  "prices" : [ {
+    "id" : 2405,
+    "regularPrice" : 31.00,
+    "salePrice" : 21.70,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.171069"
+  } ]
+}, {
+  "id" : 2321,
+  "nsuid" : "70010000095503",
+  "name" : "Puff Up",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000095503/339cbdf471af932507f74dee24e2bf2e74943d4963d2438b80cff711a43a21f8",
+  "prices" : [ {
+    "id" : 2406,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.172703"
+  } ]
+}, {
+  "id" : 2322,
+  "nsuid" : "70010000098201",
+  "name" : "Find It! Brain Training Challenge",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000098201/7e373a52853bc47ead891d7b0b05317f97992e83c5b5ea8b2f226e04b8ace328",
+  "prices" : [ {
+    "id" : 2407,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.176363"
+  } ]
+}, {
+  "id" : 2323,
+  "nsuid" : "70010000097464",
+  "name" : "Play & Learn Kids’ Mini-Game Collection",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097464/21f3a7aa588da1bb4d381637fb7f02b377bf160876bedce71c7c19f76beb1fd4",
+  "prices" : [ {
+    "id" : 2408,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.177228"
+  } ]
+}, {
+  "id" : 2324,
+  "nsuid" : "70010000097655",
+  "name" : "Road to Olympus",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097655/ec0b88136704a6fb3551d9cf95821eec99205557b2dcdc8d5091a7a991c136e7",
+  "prices" : [ {
+    "id" : 2409,
+    "regularPrice" : 45.43,
+    "salePrice" : 13.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.415448"
+  } ]
+}, {
+  "id" : 2325,
+  "nsuid" : "70010000090807",
+  "name" : "Cattle Country",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000090807/67dd4d8ad30c9784f8f1300dd9e3a85491c4a1a2863d60eb8372c9c0cdbd5203",
+  "prices" : [ {
+    "id" : 2410,
+    "regularPrice" : 74.99,
+    "salePrice" : 52.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.420643"
+  } ]
+}, {
+  "id" : 2326,
+  "nsuid" : "70010000097038",
+  "name" : "A Bibelot: Tiret sur Will",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097038/7504a19b54adc8b3ac9bb09d71a4c0b9bb5d56baa8522149051c880c9616ec42",
+  "prices" : [ {
+    "id" : 2411,
+    "regularPrice" : 28.32,
+    "salePrice" : 14.16,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.429598"
+  } ]
+}, {
+  "id" : 2327,
+  "nsuid" : "70010000087394",
+  "name" : "Monster Train 2",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000087394/f3a4c8a7b241848ee36f0a403daea6844d1808da1f28657f2c37b187436d5894",
+  "prices" : [ {
+    "id" : 2412,
+    "regularPrice" : 73.99,
+    "salePrice" : 51.79,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.433029"
+  } ]
+}, {
+  "id" : 2328,
+  "nsuid" : "70010000097650",
+  "name" : "Digger Simulator: Gold Rush",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097650/34bfee28f8707fd6183b21ed6c088dc80108e5b26b365cfe5cbef27be5e92353",
+  "prices" : [ {
+    "id" : 2413,
+    "regularPrice" : 45.43,
+    "salePrice" : 13.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.441201"
+  } ]
+}, {
+  "id" : 2329,
+  "nsuid" : "70010000094256",
+  "name" : "Hidden Kittens: Kingdom of Cats",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000094256/78ebe425414cb3b9fdf735d5d569d22b35d2bf631187ddd5347849b19edf3d02",
+  "prices" : [ {
+    "id" : 2414,
+    "regularPrice" : 16.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.448335"
+  } ]
+}, {
+  "id" : 2330,
+  "nsuid" : "70010000094750",
+  "name" : "Undivine",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000094750/a966a5dccd31709228191176c308d01f910880bed3e8aff4923772f4f8161506",
+  "prices" : [ {
+    "id" : 2415,
+    "regularPrice" : 52.99,
+    "salePrice" : 26.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.458632"
+  } ]
+}, {
+  "id" : 2331,
+  "nsuid" : "70010000086482",
+  "name" : "Dunk Dunk",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086482/dc6902ccf325e016f5da39bae1eceaa422a56f1e1a2d97fdb313a4b8d5106e0a",
+  "prices" : [ {
+    "id" : 2416,
+    "regularPrice" : 34.99,
+    "salePrice" : 24.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.461018"
+  } ]
+}, {
+  "id" : 2332,
+  "nsuid" : "70010000095586",
+  "name" : "Hotel Business Simulator",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000095586/416149bd5550e18c6ed2ed316f16a54dc29a1b56548a9e17bb595cca0b2ccbb7",
+  "prices" : [ {
+    "id" : 2417,
+    "regularPrice" : 59.99,
+    "salePrice" : 17.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.462717"
+  } ]
+}, {
+  "id" : 2333,
+  "nsuid" : "70010000093409",
+  "name" : "Reel it! Fishing",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000093409/8c87694dccfd9776cb4cc51c742b66a1763a809c6932b34785fb7bd7506d1d94",
+  "prices" : [ {
+    "id" : 2418,
+    "regularPrice" : 37.28,
+    "salePrice" : 26.09,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.471007"
+  } ]
+}, {
+  "id" : 2334,
+  "nsuid" : "70010000096504",
+  "name" : "Euro Car Parking Simulator 2025",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000096504/4e559c4c7fb2a3a6cb588bd1b18e60709d310b374bd3ade80055f3473202b547",
+  "prices" : [ {
+    "id" : 2419,
+    "regularPrice" : 45.43,
+    "salePrice" : 13.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.474887"
+  } ]
+}, {
+  "id" : 2335,
+  "nsuid" : "70010000096270",
+  "name" : "Monster Survivors",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000096270/2d424e97e6bf4657410c3f11a09469e8dad86baa7495a95d4dee19274ee07adc",
+  "prices" : [ {
+    "id" : 2420,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.477036"
+  } ]
+}, {
+  "id" : 2336,
+  "nsuid" : "70010000096634",
+  "name" : "Brain Teaser! Spin & Build Castle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000096634/76a08fcd9931824e94247e82e7322ed44d4ace50a3bfd172cbbf0486d75e3d0d",
+  "prices" : [ {
+    "id" : 2421,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.481718"
+  } ]
+}, {
+  "id" : 2337,
+  "nsuid" : "70010000096325",
+  "name" : "Aha! Spot the Change Brain Teaser",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000096325/02607254dbbdfb6ce5dfa2c8907d44d32757b10f6637a9535697cc173aca0c5d",
+  "prices" : [ {
+    "id" : 2422,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.483668"
+  } ]
+}, {
+  "id" : 2338,
+  "nsuid" : "70010000096122",
+  "name" : "Where’s That Person?",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000096122/20975e1db4ceaf25e086efe74ed314d0e8ea1a44683a8eb8a5f22b0b6df2224a",
+  "prices" : [ {
+    "id" : 2423,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.485434"
+  } ]
+}, {
+  "id" : 2339,
+  "nsuid" : "70010000095927",
+  "name" : "Brain Challenge Spot the Real One!",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000095927/168b6a03bc1e22916240f5065af69723e3b001a5c4d628a5e031b5b69d4a6432",
+  "prices" : [ {
+    "id" : 2424,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.487382"
+  } ]
+}, {
+  "id" : 2340,
+  "nsuid" : "70010000095847",
+  "name" : "Spot the Difference Detective",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000095847/c53dfcacefd12dcf2c3ec529da5389c72c8a838a16b24d671db4a97e4f4f1f6e",
+  "prices" : [ {
+    "id" : 2425,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.489141"
+  } ]
+}, {
+  "id" : 2341,
+  "nsuid" : "70010000094897",
+  "name" : "Spot the Difference with Masterpieces",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000094897/1b2aa9b482d4f7e82004b27d0d3cf8c0040e94ab9ce6e80cb87fc0b05bd20e31",
+  "prices" : [ {
+    "id" : 2426,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.492822"
+  } ]
+}, {
+  "id" : 2342,
+  "nsuid" : "70010000094708",
+  "name" : "Cozy Stitch Puzzle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000094708/1f6dc9472e45ef24a75f6c2cbbbc5f445214c0d983dde77cdbec8813bff82dd1",
+  "prices" : [ {
+    "id" : 2427,
+    "regularPrice" : 39.50,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.498928"
+  } ]
+}, {
+  "id" : 2343,
+  "nsuid" : "70010000092743",
+  "name" : "Sneaky All-Nighter",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092743/5b1d9f7eba3003d39876b4c8fd7ff991a4827833396ae40f59a721038a71f4f1",
+  "prices" : [ {
+    "id" : 2428,
+    "regularPrice" : 19.92,
+    "salePrice" : 13.94,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.501414"
+  } ]
+}, {
+  "id" : 2344,
+  "nsuid" : "70010000092657",
+  "name" : "ReMix",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092657/6fba67d187437378d1000d763eb11040bcce954baa08709c294cbf3ecab57c86",
+  "prices" : [ {
+    "id" : 2429,
+    "regularPrice" : 70.00,
+    "salePrice" : 14.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.508356"
+  } ]
+}, {
+  "id" : 2345,
+  "nsuid" : "70010000095143",
+  "name" : "CYBERSLAYER: No Time to Regret",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000095143/f88421eb4c8182060a8f2fe63d1e5c46d672a5ed26a3674e42592e061b445012",
+  "prices" : [ {
+    "id" : 2430,
+    "regularPrice" : 45.43,
+    "salePrice" : 13.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.514575"
+  } ]
+}, {
+  "id" : 2346,
+  "nsuid" : "70010000092748",
+  "name" : "Make it! Okonomiyaki",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092748/5254850e59fefa9ebd1e821995644ab0e37516e3ca4380a89c3880e89698dc91",
+  "prices" : [ {
+    "id" : 2431,
+    "regularPrice" : 19.32,
+    "salePrice" : 13.52,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.515921"
+  } ]
+}, {
+  "id" : 2347,
+  "nsuid" : "70010000089438",
+  "name" : "Bubble Wizard Saga",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000089438/7dfb05ca254efcce3768d60626e128818e5813b20621a181910407bef671a032",
+  "prices" : [ {
+    "id" : 2432,
+    "regularPrice" : 22.99,
+    "salePrice" : 17.24,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.523905"
+  } ]
+}, {
+  "id" : 2348,
+  "nsuid" : "70010000092600",
+  "name" : "Mine Clicker - Base Craft Building Game",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092600/49048e1bbed41b09361d0f9ef212b3b8b68b17e5d678da16767ebc8cb0df3d41",
+  "prices" : [ {
+    "id" : 2433,
+    "regularPrice" : 39.99,
+    "salePrice" : 17.11,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.527415"
+  } ]
+}, {
+  "id" : 2349,
+  "nsuid" : "70010000091743",
+  "name" : "Desktop GOLF",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091743/e250b86a80c3a64646f8e3579f51f7ad9cadf7b610117701ae9a67b78332da70",
+  "prices" : [ {
+    "id" : 2434,
+    "regularPrice" : 37.28,
+    "salePrice" : 26.09,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.528342"
+  } ]
+}, {
+  "id" : 2350,
+  "nsuid" : "70010000094286",
+  "name" : "The Exorcist: Gravebound Horror",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000094286/89c3049377f1145956e4194464da3ce444625fab7732870101952b57db71e36d",
+  "prices" : [ {
+    "id" : 2435,
+    "regularPrice" : 57.86,
+    "salePrice" : 17.35,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.530129"
+  } ]
+}, {
+  "id" : 2351,
+  "nsuid" : "70010000093331",
+  "name" : "Fast Food 2025 Simulator",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000093331/6ddfb850a36a0ee866ee755dbbeb63a4b6261d220772c6194d33584414630b13",
+  "prices" : [ {
+    "id" : 2436,
+    "regularPrice" : 46.99,
+    "salePrice" : 17.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.531114"
+  } ]
+}, {
+  "id" : 2352,
+  "nsuid" : "70010000090717",
+  "name" : "Forest Ranger Life Simulator",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000090717/920b682cf3aff86bbab3a8985d9a2af0cd6998b5039ab2e9f5a9e127cde0b8bb",
+  "prices" : [ {
+    "id" : 2437,
+    "regularPrice" : 59.99,
+    "salePrice" : 19.95,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.534258"
+  } ]
+}, {
+  "id" : 2353,
+  "nsuid" : "70010000094026",
+  "name" : "Attack Hole",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000094026/832f4af1e60e416c76b63c72aff489dae21ce3020edb6e9e17789e1c1b31716b",
+  "prices" : [ {
+    "id" : 2438,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.535564"
+  } ]
+}, {
+  "id" : 2354,
+  "nsuid" : "70010000092992",
+  "name" : "QUIZ 50 Ways to Read the KANJI 生",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092992/6bd7654069fc75815b7742a76b24a6e78adc1347cf081ba3c62480aa8ca454c5",
+  "prices" : [ {
+    "id" : 2439,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.538147"
+  } ]
+}, {
+  "id" : 2355,
+  "nsuid" : "70010000092469",
+  "name" : "Grab it! Crane Game",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092469/7e24de83c8b3fccf0d7360e702bbde5d4ca05a9e4571af825742cb2d31e4b953",
+  "prices" : [ {
+    "id" : 2440,
+    "regularPrice" : 18.96,
+    "salePrice" : 13.27,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.544311"
+  } ]
+}, {
+  "id" : 2356,
+  "nsuid" : "70010000091668",
+  "name" : "Blackbeard's Treasure",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091668/500fc75a30e6a517129649525bd8b60944cf44c396f76e654776c6e08e60201b",
+  "prices" : [ {
+    "id" : 2441,
+    "regularPrice" : 42.23,
+    "salePrice" : 29.56,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.756952"
+  } ]
+}, {
+  "id" : 2357,
+  "nsuid" : "70010000079809",
+  "name" : "I See Red",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079809/7c078123ceda2738dde1fc534824c77cf48d723ee2d4322fe6a3d175420e71d4",
+  "prices" : [ {
+    "id" : 2442,
+    "regularPrice" : 65.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.763459"
+  } ]
+}, {
+  "id" : 2358,
+  "nsuid" : "70070000026758",
+  "name" : "15 in 1 Family Games Mega Collection",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000026758/b416391b264b5446becf0e38018a17b1c52aa4964d5990d61de748ccf8aeb256",
+  "prices" : [ {
+    "id" : 2443,
+    "regularPrice" : 254.95,
+    "salePrice" : 20.39,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.772294"
+  } ]
+}, {
+  "id" : 2359,
+  "nsuid" : "70010000090642",
+  "name" : "DAMN",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000090642/cd8bd885dc827fc7ea1e8f66d1722e43dc173cdaafa6241471d0f712211f52c6",
+  "prices" : [ {
+    "id" : 2444,
+    "regularPrice" : 41.00,
+    "salePrice" : 20.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.777773"
+  } ]
+}, {
+  "id" : 2360,
+  "nsuid" : "70070000026548",
+  "name" : "Learn & Play Collection",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000026548/8a9a1a56fe18ec856ae3dbffcaf4dd5a376baa17ed946d97595f64af9f01ae9b",
+  "prices" : [ {
+    "id" : 2445,
+    "regularPrice" : 66.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.789993"
+  } ]
+}, {
+  "id" : 2361,
+  "nsuid" : "70010000093329",
+  "name" : "West Escape",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000093329/e2af163322ac51dc0b1171279bf0a34cab296ee4aeab5c2ba98896c974658529",
+  "prices" : [ {
+    "id" : 2446,
+    "regularPrice" : 30.00,
+    "salePrice" : 12.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.796416"
+  } ]
+}, {
+  "id" : 2362,
+  "nsuid" : "70010000086532",
+  "name" : "Tiny Terry's Turbo Trip",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086532/e73e2a0828a1e05e61de36b159d3226519481d07c5621110dbe04b397da9e82d",
+  "prices" : [ {
+    "id" : 2447,
+    "regularPrice" : 54.99,
+    "salePrice" : 21.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.804205"
+  } ]
+}, {
+  "id" : 2363,
+  "nsuid" : "70010000092617",
+  "name" : "Stacky Dash",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092617/610c5ee6c189af752ab4e7cd550e12c7b0491a46fa56a64b24b8afc4164dfda1",
+  "prices" : [ {
+    "id" : 2448,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.808664"
+  } ]
+}, {
+  "id" : 2364,
+  "nsuid" : "70010000090891",
+  "name" : "Beef Cat Ultra",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000090891/a24f72d644a8079c174e657428ebd8c2b52b2086e86fb1c993e5bdbd6dbf1a89",
+  "prices" : [ {
+    "id" : 2449,
+    "regularPrice" : 41.00,
+    "salePrice" : 20.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.810563"
+  } ]
+}, {
+  "id" : 2365,
+  "nsuid" : "70010000088632",
+  "name" : "Skyline Bowling",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088632/ec0b0435230d00f3fe057c29cfcb3eec1aa66e7372a4dac319e305800174e498",
+  "prices" : [ {
+    "id" : 2450,
+    "regularPrice" : 25.00,
+    "salePrice" : 12.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.813559"
+  } ]
+}, {
+  "id" : 2366,
+  "nsuid" : "70010000091436",
+  "name" : "Heist Simulator 2025",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091436/b536a8ba7916a2486105f1833023d2620736c86a3af2de139db08262a678bcbf",
+  "prices" : [ {
+    "id" : 2451,
+    "regularPrice" : 59.99,
+    "salePrice" : 17.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.822347"
+  } ]
+}, {
+  "id" : 2367,
+  "nsuid" : "70070000026546",
+  "name" : "Purrfect Collection",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000026546/90d910270ff058acbcfad08beb388128db79bae8b374cb167ff3c188218b7507",
+  "prices" : [ {
+    "id" : 2452,
+    "regularPrice" : 120.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.825439"
+  } ]
+}, {
+  "id" : 2368,
+  "nsuid" : "70010000090557",
+  "name" : "Bubble Shooter World",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000090557/1dcb8edc3b787ca2ab4848963d887d922c9d0dda4f2a08847f480e8503f0137d",
+  "prices" : [ {
+    "id" : 2453,
+    "regularPrice" : 16.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.828868"
+  } ]
+}, {
+  "id" : 2369,
+  "nsuid" : "70010000074860",
+  "name" : "Wander Hero",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000074860/e6d8bd4a36b5d15c206fb240cbff49d11ae19b43b05bafd60429a659f261d175",
+  "prices" : [ {
+    "id" : 2454,
+    "regularPrice" : 34.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.833387"
+  } ]
+}, {
+  "id" : 2370,
+  "nsuid" : "70010000091465",
+  "name" : "There's No Monsters",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091465/5ec0287ad73d54f713efcd90481fcc3e3566f883f80307d790594a7652584a9a",
+  "prices" : [ {
+    "id" : 2455,
+    "regularPrice" : 42.70,
+    "salePrice" : 21.35,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.835802"
+  } ]
+}, {
+  "id" : 2371,
+  "nsuid" : "70010000090245",
+  "name" : "Hunter Simulator : Wild Hunting",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000090245/a1c351eabeb1b11f35b0cf054e9b12ebe1f357b653643038bcbd0a8ea6de5c1a",
+  "prices" : [ {
+    "id" : 2456,
+    "regularPrice" : 59.99,
+    "salePrice" : 17.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.841411"
+  } ]
+}, {
+  "id" : 2372,
+  "nsuid" : "70010000091236",
+  "name" : "Mini Market Design",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091236/fcb64b5c745230c2643cd0ea8bf183707a8ad378df140ecec44fbb9283a8ed32",
+  "prices" : [ {
+    "id" : 2457,
+    "regularPrice" : 55.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.861741"
+  } ]
+}, {
+  "id" : 2373,
+  "nsuid" : "70010000091214",
+  "name" : "Let's Aim! Ring Toss",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000091214/379650081d9e9034691511783215dffc11a8111842dd979c1dd0f375d0eaa5bf",
+  "prices" : [ {
+    "id" : 2458,
+    "regularPrice" : 19.66,
+    "salePrice" : 13.76,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.867024"
+  } ]
+}, {
+  "id" : 2374,
+  "nsuid" : "70010000089240",
+  "name" : "Warfront Tactics: Battlefield Chronicles Battle Simulator",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000089240/4e671098798b00a32252273f6aa4a7308012c2cbc83466ade6b504f72d7a3cbb",
+  "prices" : [ {
+    "id" : 2459,
+    "regularPrice" : 45.99,
+    "salePrice" : 17.22,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.871218"
+  } ]
+}, {
+  "id" : 2375,
+  "nsuid" : "70010000087534",
+  "name" : "BURGER RACE",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000087534/4a5712d387267b108fa20412406254396e17f076cd06473059fccf6b655e77a8",
+  "prices" : [ {
+    "id" : 2460,
+    "regularPrice" : 38.04,
+    "salePrice" : 26.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.874457"
+  } ]
+}, {
+  "id" : 2376,
+  "nsuid" : "70010000087064",
+  "name" : "Critical Strike Shooter: SWAT Rescue Missions",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000087064/fc099ca98c60263c2e255ac54e8427f2b88ae2552d1ca0b5fea5489080957e85",
+  "prices" : [ {
+    "id" : 2461,
+    "regularPrice" : 69.99,
+    "salePrice" : 17.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.876071"
+  } ]
+}, {
+  "id" : 2377,
+  "nsuid" : "70010000088811",
+  "name" : "Block Jam",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088811/04b636f33a63e7bac4f77bbe71096b54721d43163a8e578d1f47dea357413bfe",
+  "prices" : [ {
+    "id" : 2462,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.886756"
+  } ]
+}, {
+  "id" : 2378,
+  "nsuid" : "70010000087058",
+  "name" : "Float Survival Simulator - Ocean Survivor",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000087058/4cec76e56a4bae5f3d78260de104cbbb6a98da86362c62328f6787319b1aacf7",
+  "prices" : [ {
+    "id" : 2463,
+    "regularPrice" : 74.99,
+    "salePrice" : 17.26,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.888217"
+  } ]
+}, {
+  "id" : 2379,
+  "nsuid" : "70010000089235",
+  "name" : "Cop Officers: Police Simulator of NYPD City",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000089235/167f1a82add0b73701a07f429103feee092b905831f61837987a6da3b3ffa4d8",
+  "prices" : [ {
+    "id" : 2464,
+    "regularPrice" : 69.99,
+    "salePrice" : 17.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.889158"
+  } ]
+}, {
+  "id" : 2380,
+  "nsuid" : "70070000025556",
+  "name" : "SteamWorld Heist II & SteamWorld Build Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000025556/eb42325f07010bbd47e9f5eaedb2ff2c55d995be74b55ffb7818226affd9f9e8",
+  "prices" : [ {
+    "id" : 2465,
+    "regularPrice" : 252.90,
+    "salePrice" : 63.22,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.89302"
+  } ]
+}, {
+  "id" : 2381,
+  "nsuid" : "70010000088206",
+  "name" : "Hidden Cats in Santa's Realm",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088206/4d994949dbcdf86c4869901994e81a287d4c2aa68624806f13e70d6a662befb6",
+  "prices" : [ {
+    "id" : 2466,
+    "regularPrice" : 19.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.89635"
+  } ]
+}, {
+  "id" : 2382,
+  "nsuid" : "70010000087489",
+  "name" : "SUGOROKU CASINO PARTY",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000087489/e3ac9f9c26ec1ea7c2e08d3465815ef5685aefd78f3476bde123994bdf9c51d5",
+  "prices" : [ {
+    "id" : 2467,
+    "regularPrice" : 44.78,
+    "salePrice" : 31.34,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.897218"
+  } ]
+}, {
+  "id" : 2383,
+  "nsuid" : "70010000086453",
+  "name" : "I am an Air Traffic Controller AIRPORT HERO Centrair 20TH ANNIVERSARY",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086453/47a86ff76838340de63ee3870179ee014f55bf5fc242dd6dd27e35f99887c938",
+  "prices" : [ {
+    "id" : 2468,
+    "regularPrice" : 257.34,
+    "salePrice" : 205.87,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.898049"
+  } ]
+}, {
+  "id" : 2384,
+  "nsuid" : "70010000085671",
+  "name" : "Cowboy Duel: Red Wild West Massacre ",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000085671/4f138e0dbf877a813a7976566a8bd00a14ad7bdbfb6803e26e6eae043a1d4b87",
+  "prices" : [ {
+    "id" : 2469,
+    "regularPrice" : 74.99,
+    "salePrice" : 17.26,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.899744"
+  } ]
+}, {
+  "id" : 2385,
+  "nsuid" : "70010000089499",
+  "name" : "Leo's Fortune",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000089499/49a053c308fb3e6cb7a8b2815bf4b49cb3a6092c242377508b0486d3adb3fba9",
+  "prices" : [ {
+    "id" : 2470,
+    "regularPrice" : 35.00,
+    "salePrice" : 13.30,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.907866"
+  } ]
+}, {
+  "id" : 2386,
+  "nsuid" : "70010000088768",
+  "name" : "Om Nom: Run 2",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088768/c0d4ee31e61b2049c2c7edb1ab714a2b790b43e9a8cca39c71f5274c7c428892",
+  "prices" : [ {
+    "id" : 2471,
+    "regularPrice" : 25.00,
+    "salePrice" : 12.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:45.909013"
+  } ]
+}, {
+  "id" : 2387,
+  "nsuid" : "70010000088394",
+  "name" : "Rage Swarm",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088394/913ffe461e16df46e6c68a4238519c753470dc65056ba7dcdbba051b186155c5",
+  "prices" : [ {
+    "id" : 2472,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.14081"
+  } ]
+}, {
+  "id" : 2388,
+  "nsuid" : "70010000087124",
+  "name" : "Eraser VS Ruler",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000087124/e427170cbba52bb0f129c4cd2fc68abecc2d1b5092d4cfd5b08685a8e0e58b38",
+  "prices" : [ {
+    "id" : 2473,
+    "regularPrice" : 26.60,
+    "salePrice" : 18.62,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.176712"
+  } ]
+}, {
+  "id" : 2389,
+  "nsuid" : "70010000088721",
+  "name" : "Mounted Knights Battle : Medieval Warrior Honor Simulator",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088721/b7ad41eb04f163ef11b15a6a14f35ee4c43c6610407ab89fe2be8bc7ddd61c49",
+  "prices" : [ {
+    "id" : 2474,
+    "regularPrice" : 59.99,
+    "salePrice" : 17.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.181414"
+  } ]
+}, {
+  "id" : 2390,
+  "nsuid" : "70010000087122",
+  "name" : "Bridge Race",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000087122/829712303414a3081b79fddc1c871ca69240345349cb338fbeb2943b7b431ea5",
+  "prices" : [ {
+    "id" : 2475,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.185441"
+  } ]
+}, {
+  "id" : 2391,
+  "nsuid" : "70010000088871",
+  "name" : "Neko Bento",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088871/d6d402eca490e75d6b158c32c000c075fe7de556337eec434ef0c57438b74d75",
+  "prices" : [ {
+    "id" : 2476,
+    "regularPrice" : 40.00,
+    "salePrice" : 16.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.1878"
+  } ]
+}, {
+  "id" : 2392,
+  "nsuid" : "70010000089138",
+  "name" : "Sweet Survivors",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000089138/ac97b44ee7c7d0622c87862ed26202b6d1321a0e45b08526275fdb12f46b957f",
+  "prices" : [ {
+    "id" : 2477,
+    "regularPrice" : 15.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.191654"
+  } ]
+}, {
+  "id" : 2393,
+  "nsuid" : "70010000082814",
+  "name" : "Candivity",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082814/4db6222b0a01f19ff5a6d723472a1eca2bba0b4232719d9565efa86b60483842",
+  "prices" : [ {
+    "id" : 2478,
+    "regularPrice" : 15.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.194117"
+  } ]
+}, {
+  "id" : 2394,
+  "nsuid" : "70010000088252",
+  "name" : "Coffee Pack",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088252/894d8b7e71046adf6814145c6833ccca2e808fc11188a4db7838e97e568e2fe6",
+  "prices" : [ {
+    "id" : 2479,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.198404"
+  } ]
+}, {
+  "id" : 2395,
+  "nsuid" : "70010000087996",
+  "name" : "Giant Rush",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000087996/7086518e78b57e20417f0ab7e13a65fdf04d80ebff466d505a0a998d817598d7",
+  "prices" : [ {
+    "id" : 2480,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.199652"
+  } ]
+}, {
+  "id" : 2396,
+  "nsuid" : "70010000086507",
+  "name" : "Space Planet Invader - Cosmic Power",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086507/babffb04c0553b39d0659c4d1d634f5c06f3cf0055bbc909bd95bfa91d99e9f9",
+  "prices" : [ {
+    "id" : 2481,
+    "regularPrice" : 45.99,
+    "salePrice" : 17.24,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.201853"
+  } ]
+}, {
+  "id" : 2397,
+  "nsuid" : "70010000086324",
+  "name" : "Mars Survivor",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086324/6a835fb4c29c9e1137900c5c285528a0b6cfa56df9c24eddbeb8e9eedf5b39af",
+  "prices" : [ {
+    "id" : 2482,
+    "regularPrice" : 30.00,
+    "salePrice" : 12.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.203141"
+  } ]
+}, {
+  "id" : 2398,
+  "nsuid" : "70070000024697",
+  "name" : "SteamWorld Build & Dig Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000024697/71a7e45920c3f836a6106b4df23af8ef0c945613c2bc0cf567494d6cbaa4dfc4",
+  "prices" : [ {
+    "id" : 2483,
+    "regularPrice" : 183.60,
+    "salePrice" : 45.90,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.206797"
+  } ]
+}, {
+  "id" : 2399,
+  "nsuid" : "70010000077967",
+  "name" : "Police Simulator: Patrol Officers: Nintendo Switch™ Edition ",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000077967/d3b8ae0ed4675c3370bf6d774f668707f9fe50a28bcd6ee2e27dc934339d3882",
+  "prices" : [ {
+    "id" : 2484,
+    "regularPrice" : 115.00,
+    "salePrice" : 57.50,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.212044"
+  } ]
+}, {
+  "id" : 2400,
+  "nsuid" : "70010000077934",
+  "name" : "Miraculous: Paris Under Siege",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000077934/3b5063e6471d0ac8645a7c40cfa274e85171bea7bffcac0f5048b0ac1ebd3454",
+  "prices" : [ {
+    "id" : 2485,
+    "regularPrice" : 273.00,
+    "salePrice" : 68.25,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.215282"
+  } ]
+}, {
+  "id" : 2401,
+  "nsuid" : "70010000088729",
+  "name" : "Princess Rapunzel: The Kingdom's Legacy",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088729/ffbd1b0eebf68544fb5e184178d01862faf050b2654d61fbad17821ae1809aa3",
+  "prices" : [ {
+    "id" : 2486,
+    "regularPrice" : 27.00,
+    "salePrice" : 18.90,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.221449"
+  } ]
+}, {
+  "id" : 2402,
+  "nsuid" : "70010000087038",
+  "name" : "Pharaoh's Riches",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000087038/68d3e7acb673d2dd3e007aad42ee89746b78ebe4d2bdf447ce43177d63d4d8c4",
+  "prices" : [ {
+    "id" : 2487,
+    "regularPrice" : 42.23,
+    "salePrice" : 29.56,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.225346"
+  } ]
+}, {
+  "id" : 2403,
+  "nsuid" : "70010000088069",
+  "name" : "Alice's Adventures in Wonderland",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088069/7c39749b154e670820f92c2a5d5100bcc92bbe5bff7fab2687304ce689d1bc80",
+  "prices" : [ {
+    "id" : 2488,
+    "regularPrice" : 27.00,
+    "salePrice" : 18.90,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.234686"
+  } ]
+}, {
+  "id" : 2404,
+  "nsuid" : "70010000086322",
+  "name" : "Hide 'N Seek!",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086322/d375eb3de6f25c20f50e9836bdc522c5cfb415362ac7ff0ee011eec48f5d631b",
+  "prices" : [ {
+    "id" : 2489,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.236567"
+  } ]
+}, {
+  "id" : 2405,
+  "nsuid" : "70010000086027",
+  "name" : "Urban Skater - Skateboard Delivery City Challenge",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086027/b31cca14e62c28b982ef35d8f7621b50ee6d140b7352dfc403602cdd3f1f3b47",
+  "prices" : [ {
+    "id" : 2490,
+    "regularPrice" : 59.99,
+    "salePrice" : 17.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.237547"
+  } ]
+}, {
+  "id" : 2406,
+  "nsuid" : "70010000085412",
+  "name" : "Gallop Glory: Obstacle Racing & Horse Simulator",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000085412/473ee90c94989d5e7777b6201ac7a327a239545898c0140f5caeb28cf8b8d06a",
+  "prices" : [ {
+    "id" : 2491,
+    "regularPrice" : 59.99,
+    "salePrice" : 17.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.24357"
+  } ]
+}, {
+  "id" : 2407,
+  "nsuid" : "70010000086751",
+  "name" : "Doll Dress Up",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086751/d560ed80f9bf3ee9d189e071af16ecd3d682e534f6d848936cfc3ff492e481c4",
+  "prices" : [ {
+    "id" : 2492,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.244827"
+  } ]
+}, {
+  "id" : 2408,
+  "nsuid" : "70010000086401",
+  "name" : "Dreamland Farm",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086401/5793f7e079f9ed4da502cddf1bc801595ef3bcb7d93f54c68b6bccac86648cff",
+  "prices" : [ {
+    "id" : 2493,
+    "regularPrice" : 60.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.245715"
+  } ]
+}, {
+  "id" : 2409,
+  "nsuid" : "70010000086153",
+  "name" : "Spinning Puzzle　Compare the Universe",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086153/a48c0e7e19621954a69bbd3215e6d40f32ac31e66e5cc805ffec333b8eb3fa66",
+  "prices" : [ {
+    "id" : 2494,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.247769"
+  } ]
+}, {
+  "id" : 2410,
+  "nsuid" : "70010000068857",
+  "name" : "Go Mecha Ball",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000068857/47a9c9b8c49418ca46f7269da37f414ffcab9a2dc8c7a55b8735c66415a9a3ce",
+  "prices" : [ {
+    "id" : 2495,
+    "regularPrice" : 59.99,
+    "salePrice" : 23.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.251511"
+  } ]
+}, {
+  "id" : 2411,
+  "nsuid" : "70010000084089",
+  "name" : "Farm It",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000084089/97b2a1910ef2ba6140c0e20d0a2776431166555c49c2c37cf6cb41aba57763ad",
+  "prices" : [ {
+    "id" : 2496,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.462318"
+  } ]
+}, {
+  "id" : 2412,
+  "nsuid" : "70010000083777",
+  "name" : "Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083777/2e7b6342575084368ecc839a4fca69fe0b69d1f764d36b89d034175dcf5b712c",
+  "prices" : [ {
+    "id" : 2497,
+    "regularPrice" : 273.55,
+    "salePrice" : 136.77,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.477222"
+  } ]
+}, {
+  "id" : 2413,
+  "nsuid" : "70010000081775",
+  "name" : "Hidden Cats in Berlin",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000081775/1b943798c53c2ff24c90b0ff1dbad4d3ee78a87de20ee10dd565e379545e4b35",
+  "prices" : [ {
+    "id" : 2498,
+    "regularPrice" : 19.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.489433"
+  } ]
+}, {
+  "id" : 2414,
+  "nsuid" : "70010000086124",
+  "name" : "Real Cake Maker",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086124/a31d2ff6f52a2b747aad1cfd33957f27c9a3e008a3191d741bfb47b80da63565",
+  "prices" : [ {
+    "id" : 2499,
+    "regularPrice" : 40.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.49845"
+  } ]
+}, {
+  "id" : 2415,
+  "nsuid" : "70010000085862",
+  "name" : "Aidan In Danger",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000085862/7882858a740c6074ae68b979a623bc209fea89a7face4e9f4ff6c494281acfe6",
+  "prices" : [ {
+    "id" : 2500,
+    "regularPrice" : 43.99,
+    "salePrice" : 21.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.504309"
+  } ]
+}, {
+  "id" : 2416,
+  "nsuid" : "70010000079243",
+  "name" : "Grapple Dogs: Cosmic Canines",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079243/20f9fda7e5e0312133fb07226cb6003f3a9e8d9c493aca21e48a3923e76e3d4a",
+  "prices" : [ {
+    "id" : 2501,
+    "regularPrice" : 46.99,
+    "salePrice" : 18.79,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.510107"
+  } ]
+}, {
+  "id" : 2417,
+  "nsuid" : "70010000067924",
+  "name" : "Elsie",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000067924/9c4efab4b82c6271e1d9a2814b746f88bf43e075fa0597d8798fa41194eb68d7",
+  "prices" : [ {
+    "id" : 2502,
+    "regularPrice" : 79.99,
+    "salePrice" : 39.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.517014"
+  } ]
+}, {
+  "id" : 2418,
+  "nsuid" : "70010000086126",
+  "name" : "Buffet Boss",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086126/8d73a69da2d0442fd2761e41aafa594a1695ff9667992e38f40455c15fa7956a",
+  "prices" : [ {
+    "id" : 2503,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.51925"
+  } ]
+}, {
+  "id" : 2419,
+  "nsuid" : "70010000075809",
+  "name" : "Uboat Attack",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000075809/4307a585f4254c9b6f54de1e9ea31afe2a9bbc20d03bd017addf111091003574",
+  "prices" : [ {
+    "id" : 2504,
+    "regularPrice" : 40.00,
+    "salePrice" : 12.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.52658"
+  } ]
+}, {
+  "id" : 2420,
+  "nsuid" : "70010000038686",
+  "name" : "Nour: Play With Your Food",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000038686/7ac21f5e854136440441b5b16d9a9df00d969fb20f87ce9c87b30c9a24fa78f7",
+  "prices" : [ {
+    "id" : 2505,
+    "regularPrice" : 29.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.531601"
+  } ]
+}, {
+  "id" : 2421,
+  "nsuid" : "70010000081046",
+  "name" : "Verne - The Shape of Fantasy",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000081046/518fca035ac11d665f4428e425fe6817cef1c90c557036af356c9bd63917a18d",
+  "prices" : [ {
+    "id" : 2506,
+    "regularPrice" : 49.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.541073"
+  } ]
+}, {
+  "id" : 2422,
+  "nsuid" : "70010000085187",
+  "name" : "Thief Puzzle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000085187/2a3ac697c34c172e42ce9ca60c54346c8b633975aa86bb03d6e47870849f3af9",
+  "prices" : [ {
+    "id" : 2507,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.54464"
+  } ]
+}, {
+  "id" : 2423,
+  "nsuid" : "70010000083298",
+  "name" : "Parking Jam",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083298/9ebbb5981c5b6403395c0c1dd4ced360bf8798bed5fd23bca5a2c23e40984195",
+  "prices" : [ {
+    "id" : 2508,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.549384"
+  } ]
+}, {
+  "id" : 2424,
+  "nsuid" : "70070000022190",
+  "name" : "SteamWorld Heist Complete Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000022190/5a375ac08d51e0fc32facfef6fc8981f8d5d6e9333aa20e14adc1f51404831af",
+  "prices" : [ {
+    "id" : 2509,
+    "regularPrice" : 235.00,
+    "salePrice" : 58.75,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.557019"
+  } ]
+}, {
+  "id" : 2425,
+  "nsuid" : "70010000083905",
+  "name" : "SUSHI Drop",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083905/185933f28a4db57e12c9b652dc20ecc36743bf9677ad44d2782e6f9e73e9f923",
+  "prices" : [ {
+    "id" : 2510,
+    "regularPrice" : 24.54,
+    "salePrice" : 17.17,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.560598"
+  } ]
+}, {
+  "id" : 2426,
+  "nsuid" : "70010000084038",
+  "name" : "Shopping Mall Girl",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000084038/f3b420453a5a3092b0d765c2c7e56d3fd09b56c0bd2fd439f9ae60b24a5d1f04",
+  "prices" : [ {
+    "id" : 2511,
+    "regularPrice" : 40.00,
+    "salePrice" : 12.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.564234"
+  } ]
+}, {
+  "id" : 2427,
+  "nsuid" : "70010000083464",
+  "name" : "EvoMon",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083464/82662411b7eadb38e834eaede8fdf50dc186d2e405f672f5f46e1e7ebef61774",
+  "prices" : [ {
+    "id" : 2512,
+    "regularPrice" : 56.50,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.565416"
+  } ]
+}, {
+  "id" : 2428,
+  "nsuid" : "70010000084710",
+  "name" : "Treasure Hunt on a World Trip",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000084710/84b03c5cb0c409323e7d9af279cdd66525218a85e02c1c3e6a729e6aeaeb48b9",
+  "prices" : [ {
+    "id" : 2513,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.566371"
+  } ]
+}, {
+  "id" : 2429,
+  "nsuid" : "70010000083177",
+  "name" : "City Takeover",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083177/93706875082ca634ebbb856cc57340d6da24355239cef88eb934c938e8c6a30e",
+  "prices" : [ {
+    "id" : 2514,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.569117"
+  } ]
+}, {
+  "id" : 2430,
+  "nsuid" : "70010000082441",
+  "name" : "Fit My Dog",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082441/9e06972006c1b4bcf889b74791d98c4b11f0b1e9f63180b59bc7948bf87da198",
+  "prices" : [ {
+    "id" : 2515,
+    "regularPrice" : 38.59,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.570317"
+  } ]
+}, {
+  "id" : 2431,
+  "nsuid" : "70010000082643",
+  "name" : "Pair Horror",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082643/a0fc4a6dbcc7ed3c292b79a2bfe7da2f9ae9705949d7ea96386e32195fcfeebf",
+  "prices" : [ {
+    "id" : 2516,
+    "regularPrice" : 41.33,
+    "salePrice" : 12.39,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.573808"
+  } ]
+}, {
+  "id" : 2432,
+  "nsuid" : "70010000083913",
+  "name" : "Stylist Girl",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083913/52a4f31f7cef1bc0c3b27c06fb3d133a3c37c173effae9f874c2c72d93e2c586",
+  "prices" : [ {
+    "id" : 2517,
+    "regularPrice" : 40.00,
+    "salePrice" : 12.00,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.579742"
+  } ]
+}, {
+  "id" : 2433,
+  "nsuid" : "70010000083520",
+  "name" : "Diamond Painting ASMR",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083520/969a764c2ecf739ef9ad78ea90cabc920809a388d1ed5bf7b28ead359d36f275",
+  "prices" : [ {
+    "id" : 2518,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.581374"
+  } ]
+}, {
+  "id" : 2434,
+  "nsuid" : "70010000069466",
+  "name" : "Darkest Dungeon II",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000069466/031ec81a27d0f56878a150f28c7d53daa2f0f40080dd3923c7c791036cc55fe1",
+  "prices" : [ {
+    "id" : 2519,
+    "regularPrice" : 107.99,
+    "salePrice" : 33.47,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.58378"
+  } ]
+}, {
+  "id" : 2435,
+  "nsuid" : "70010000083889",
+  "name" : "Lunch Box Ready",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083889/4f58435c06003e8e0cb8709b24d61fe03a4aef9645200e15d96059cabde7e37a",
+  "prices" : [ {
+    "id" : 2520,
+    "regularPrice" : 25.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.586499"
+  } ]
+}, {
+  "id" : 2436,
+  "nsuid" : "70010000077019",
+  "name" : "DROS",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000077019/4dc0aecdcd7133988d4dd9a623f26c0736f38a2e8d512cb6115eb922ea0fbaf9",
+  "prices" : [ {
+    "id" : 2521,
+    "regularPrice" : 131.00,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.589405"
+  } ]
+}, {
+  "id" : 2437,
+  "nsuid" : "70010000082800",
+  "name" : "Let's Aim! Shooting Gallery",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082800/70c668a2c11f32d79bdbfe35271a7fb14bdc88bb56b7f75a22d4ed32c09a311b",
+  "prices" : [ {
+    "id" : 2522,
+    "regularPrice" : 17.24,
+    "salePrice" : 12.06,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.59107"
+  } ]
+}, {
+  "id" : 2438,
+  "nsuid" : "70010000055276",
+  "name" : "Moonshine Inc.",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000055276/c3f99e5c6f50eee557cfdaa9216341ced001a47708fd63ee58c9779206529428",
+  "prices" : [ {
+    "id" : 2523,
+    "regularPrice" : 59.99,
+    "salePrice" : 26.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.592296"
+  } ]
+}, {
+  "id" : 2439,
+  "nsuid" : "70010000082158",
+  "name" : "Brain Training!! Number Search",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082158/c7260d47f232ab5010a6239e199a587745c4b5cb28d79ba53d685792603b9b75",
+  "prices" : [ {
+    "id" : 2524,
+    "regularPrice" : 19.99,
+    "salePrice" : 11.99,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.595498"
+  } ]
+}, {
+  "id" : 2440,
+  "nsuid" : "70010000081600",
+  "name" : "Choose and Easy NUMBER IQ QUIZ",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000081600/840f46d73090a441c7496a9dcde9eb3d1db5dae4ac0b0a9e01fbae23e725a691",
+  "prices" : [ {
+    "id" : 2525,
+    "regularPrice" : 44.99,
+    "salePrice" : 22.49,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:46.596671"
+  } ]
+}, {
+  "id" : 2441,
+  "nsuid" : "70010000112820",
+  "name" : "Onimusha: Way of the Sword",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000112820/ccd6309cf2c73ce948f5c342b7352fea9df3fe7ef41e489df2bca1226b502bb5",
+  "prices" : [ {
+    "id" : 2526,
+    "regularPrice" : 339.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:47.914675"
+  } ]
+}, {
+  "id" : 2442,
+  "nsuid" : "70010000093177",
+  "name" : "Mega City Force",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000093177/45e75b26dfc13a81299433ef4c95ede17e700dfaad1a8d23f01164434ad91b71",
+  "prices" : [ {
+    "id" : 2527,
+    "regularPrice" : 46.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:47.937647"
+  } ]
+}, {
+  "id" : 2443,
+  "nsuid" : "70010000126741",
+  "name" : "Handyman Flipper: House Stories",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000126741/4670a5877b08884a7ff4f253ece7935445035f9149764b9fa4557d4244a473f3",
+  "prices" : [ {
+    "id" : 2528,
+    "regularPrice" : 67.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:47.942705"
+  } ]
+}, {
+  "id" : 2444,
+  "nsuid" : "70010000131302",
+  "name" : "WildTrax & Hypercar Bundle",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000131302/db859d746d83872e0652d450c73375e2af86002a26ad9cd9873f3335db1291e9",
+  "prices" : [ {
+    "id" : 2529,
+    "regularPrice" : 79.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:47.956985"
+  } ]
+}, {
+  "id" : 2445,
+  "nsuid" : "70010000116240",
+  "name" : "Aooni2",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000116240/a12e7a9af8513f3cea647b5331e2f003e34ec4ebff3f2fc6647f5d95563aa2db",
+  "prices" : [ {
+    "id" : 2530,
+    "regularPrice" : 40.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.005634"
+  } ]
+}, {
+  "id" : 2446,
+  "nsuid" : "70010000124347",
+  "name" : "Jogo de fuga R00M15",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000124347/07257f7c42734bffd106d680c5dc9c99081e580b2fd057e288587bbb5be41550",
+  "prices" : [ {
+    "id" : 2531,
+    "regularPrice" : 5.15,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.054446"
+  } ]
+}, {
+  "id" : 2447,
+  "nsuid" : "70010000117406",
+  "name" : "Cento",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000117406/267bc4bce9a7aa0cd138d61a4a1d91e7aa11c015d229b60f76d8c4f70acda731",
+  "prices" : [ {
+    "id" : 2532,
+    "regularPrice" : 32.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.073784"
+  } ]
+}, {
+  "id" : 2448,
+  "nsuid" : "70010000113596",
+  "name" : "Volcano Princess",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000113596/4e8101233b8c507cc7607e7f96de1a7fb86c18991c9670a0026f67c5c9c916dd",
+  "prices" : [ {
+    "id" : 2533,
+    "regularPrice" : 35.79,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.077428"
+  } ]
+}, {
+  "id" : 2449,
+  "nsuid" : "70010000117891",
+  "name" : "Sizeable",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000117891/5fdca6508d737c5bae7b0d27ea37dc276c5d5d4c8a3c5f3b72cab0c76e9a29d7",
+  "prices" : [ {
+    "id" : 2534,
+    "regularPrice" : 18.59,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.086174"
+  } ]
+}, {
+  "id" : 2450,
+  "nsuid" : "70010000125933",
+  "name" : "Truck Parking Simulator 2026",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000125933/a25d06aa69d2f0d9597c0d40eec6741624cea9d13f7072163bf9099cf5e34b72",
+  "prices" : [ {
+    "id" : 2535,
+    "regularPrice" : 51.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.08851"
+  } ]
+}, {
+  "id" : 2451,
+  "nsuid" : "70010000122247",
+  "name" : "Drive Horizon Story",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000122247/f0152eb2f8775e51c7a132f4f6d789c927cad2c7954db0ef746efb242bd18061",
+  "prices" : [ {
+    "id" : 2536,
+    "regularPrice" : 51.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.08924"
+  } ]
+}, {
+  "id" : 2452,
+  "nsuid" : "70010000122274",
+  "name" : "UNBEATABLE - Breakout Edition",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000122274/eaa55323aef43fd953e7c0b72f91081188ad179bb2f4c6a2b3a1d4ca3d10cbd0",
+  "prices" : [ {
+    "id" : 2537,
+    "regularPrice" : 99.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.090062"
+  } ]
+}, {
+  "id" : 2453,
+  "nsuid" : "70010000123114",
+  "name" : "Driving School Sim",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000123114/1a77dca0fe19dfbf3290c508616be00e113ad377292e8d989e5d1a9c3b633ff2",
+  "prices" : [ {
+    "id" : 2538,
+    "regularPrice" : 51.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.0927"
+  } ]
+}, {
+  "id" : 2454,
+  "nsuid" : "70010000131704",
+  "name" : "Cave Looters",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000131704/bc5095f55261f6f2b1d7dc77b53220466ae2a29859fcd7cca0a287bc834754b5",
+  "prices" : [ {
+    "id" : 2539,
+    "regularPrice" : 27.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.093747"
+  } ]
+}, {
+  "id" : 2455,
+  "nsuid" : "70010000131830",
+  "name" : "Bone Marrow 2",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000131830/ceb9c75ceeaa2853f9accf63a78b2aebd812f67e7081ee1ff141634c8850e34e",
+  "prices" : [ {
+    "id" : 2540,
+    "regularPrice" : 42.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.098284"
+  } ]
+}, {
+  "id" : 2456,
+  "nsuid" : "70010000131578",
+  "name" : "To the Basement: Before",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000131578/b9b42d397770de6b70bf1df47b52ae86f5246da7426a080447c27bd72aeaff96",
+  "prices" : [ {
+    "id" : 2541,
+    "regularPrice" : 36.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.099139"
+  } ]
+}, {
+  "id" : 2457,
+  "nsuid" : "70010000130332",
+  "name" : "Silent Cleaning",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000130332/642d3b4e8f76eb5b5f4f3ad5f8f2759524ca6430d9847d410eb82a7c0814801d",
+  "prices" : [ {
+    "id" : 2542,
+    "regularPrice" : 6.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.102568"
+  } ]
+}, {
+  "id" : 2458,
+  "nsuid" : "70010000128041",
+  "name" : "Momoka (wo) Wasshoi",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000128041/1d98de2ac1cc829228d3974e027ae17d08a4e8617ea6f93b78426ab79abc53f4",
+  "prices" : [ {
+    "id" : 2543,
+    "regularPrice" : 38.40,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.385779"
+  } ]
+}, {
+  "id" : 2459,
+  "nsuid" : "70010000127561",
+  "name" : "Super Goldfish Scooping",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000127561/fef98a5cfba5b38a0e18ec5a5c092c11bebe3ebcd76d3495eddf825e39595d79",
+  "prices" : [ {
+    "id" : 2544,
+    "regularPrice" : 38.04,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.391554"
+  } ]
+}, {
+  "id" : 2460,
+  "nsuid" : "70010000116774",
+  "name" : "You All Know! Arm Tank Volley",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000116774/13b36273c272f6f9d1156aea86bd9ee9f6e2ff62b8b4d2d1db73e92e5208b303",
+  "prices" : [ {
+    "id" : 2545,
+    "regularPrice" : 14.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.414081"
+  } ]
+}, {
+  "id" : 2461,
+  "nsuid" : "70070000038386",
+  "name" : "Spot THEM all!",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000038386/e4c4ae03911342c7415e11cac49e4a96b7068bd7fad9f421f1943a294e026124",
+  "prices" : [ {
+    "id" : 2546,
+    "regularPrice" : 74.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.432725"
+  } ]
+}, {
+  "id" : 2462,
+  "nsuid" : "70010000131080",
+  "name" : "Scary Shawarma Shop",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000131080/9e43eb3ab7ca4b37fbe6e889a0a62669063a5e9f707aa37157f7e49fdfec1d67",
+  "prices" : [ {
+    "id" : 2547,
+    "regularPrice" : 25.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.437014"
+  } ]
+}, {
+  "id" : 2463,
+  "nsuid" : "70010000130590",
+  "name" : "Bad Capybara",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000130590/5dfdcba53e4c139bfee42e50ac55263da5aebf8f5b64852f1bc35f6cdce649c8",
+  "prices" : [ {
+    "id" : 2548,
+    "regularPrice" : 36.09,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.439489"
+  } ]
+}, {
+  "id" : 2464,
+  "nsuid" : "70010000129822",
+  "name" : "Romy & Max and the Hidden Rainforest",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000129822/84c0da98a4dcafe42c35669106d01b20c7c353e2fc9e6a33897fe3b1eea3ccb6",
+  "prices" : [ {
+    "id" : 2549,
+    "regularPrice" : 24.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.44192"
+  } ]
+}, {
+  "id" : 2465,
+  "nsuid" : "70070000038380",
+  "name" : "Solid Void - Nonogram Triple Pack",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000038380/027c291a2e04a37f53c41775e4da3823b9a1f01d428405833bbb02402908ca79",
+  "prices" : [ {
+    "id" : 2550,
+    "regularPrice" : 59.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.448712"
+  } ]
+}, {
+  "id" : 2466,
+  "nsuid" : "70070000036503",
+  "name" : "Pacote da Trilogia Amanda the Adventurer",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000036503/22189a60bd553a32e213f68d606d9fae949de9a81722b3799bd9c0a18e02f9e9",
+  "prices" : [ {
+    "id" : 2551,
+    "regularPrice" : 99.95,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.452983"
+  } ]
+}, {
+  "id" : 2467,
+  "nsuid" : "70010000131868",
+  "name" : "The Unwoven Unicorn",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000131868/37d2e9306462c30864cf3d46b50455be2fb927541065d7d165cfff2b5489eb2e",
+  "prices" : [ {
+    "id" : 2552,
+    "regularPrice" : 29.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.456682"
+  } ]
+}, {
+  "id" : 2468,
+  "nsuid" : "70010000131837",
+  "name" : "Doria & the Tide Song",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000131837/abc3159f25ab19badeff047a4dc6f08ff3999b195d50e3d88c1cdf87f25c37b3",
+  "prices" : [ {
+    "id" : 2553,
+    "regularPrice" : 29.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.457563"
+  } ]
+}, {
+  "id" : 2469,
+  "nsuid" : "70010000130837",
+  "name" : "Sir, You Are Being Hunted",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000130837/c7081c531895bd45c40b8b1d17d9b05bb20701e05fd1b4692786f3fe753da84e",
+  "prices" : [ {
+    "id" : 2554,
+    "regularPrice" : 120.99,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.458361"
+  } ]
+}, {
+  "id" : 2470,
+  "nsuid" : "70010000119877",
+  "name" : "Console Archives Hercules no eikou II Taitan no metsubou",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000119877/c3a30ff1ce6ec6094a3d951af449cccf6694e94524445f29318207334998aaf7",
+  "prices" : [ {
+    "id" : 2555,
+    "regularPrice" : 43.13,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.477162"
+  } ]
+}, {
+  "id" : 2471,
+  "nsuid" : "70010000116844",
+  "name" : "US Conflict - Tank Battles",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000116844/08e596349e4a3252b107416ddf3c55379fc858e5e2b8cf53cd39653ae3b4faee",
+  "prices" : [ {
+    "id" : 2556,
+    "regularPrice" : 0.00,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.47823"
+  } ]
+}, {
+  "id" : 2472,
+  "nsuid" : "70010000107567",
+  "name" : "Arcade Archives 2 SYVALION",
+  "platform" : "switch 2",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000107567/fd3bf390f33cfafa4cb20fda5fcc6d9c0756abb67b07fec1367ef44dff259df7",
+  "prices" : [ {
+    "id" : 2557,
+    "regularPrice" : 54.54,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.480505"
+  } ]
+}, {
+  "id" : 2473,
+  "nsuid" : "70010000107557",
+  "name" : "Arcade Archives SYVALION",
+  "platform" : "switch",
+  "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000107557/8fd106a79f035a2dda225501ce08b78355417d55b56878aa13b20e3d4c7a823a",
+  "prices" : [ {
+    "id" : 2558,
+    "regularPrice" : 42.90,
+    "salePrice" : null,
+    "currency" : "BRL",
+    "recordedAt" : "2026-07-20T16:07:48.481438"
   } ]
 } ]
