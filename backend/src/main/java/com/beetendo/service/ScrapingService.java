@@ -8,8 +8,6 @@ import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import org.jboss.logging.Logger;
 import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
@@ -19,10 +17,9 @@ import java.util.*;
 public class ScrapingService {
 
     private static final Logger LOG = Logger.getLogger(ScrapingService.class);
-    private static final String DEALS_URL = "https://www.nintendo.com/pt-br/store/sales-and-deals/#sort=df&show=1";
-    private static final String BEST_SELLERS_URL = "https://www.nintendo.com/pt-br/store/sales-and-deals/best-sellers/";
-    private static final String GAMES_BEST_SELLERS_URL = "https://www.nintendo.com/pt-br/store/games/best-sellers/";
     private static final String ALL_GAMES_URL = "https://u3b6gr4ua3-dsn.algolia.net/1/indexes/store_game_pt_br/query?x-algolia-agent=Algolia%20for%20JavaScript%20(4.26.0)%3B%20Browser";
+    private static final String NINTENDO_PRICE_API_URL = "https://api.ec.nintendo.com/v1/price?country=BR&lang=pt&ids=";
+
     @Inject
     ObjectMapper objectMapper;
 
@@ -32,11 +29,14 @@ public class ScrapingService {
     public void runScraping() {
         LOG.info("Iniciando rotina de scraping...");
 
-        // Scraping de todas as promoções via Algolia API (limite de 50 páginas)
-        scrapeFromAlgolia("topLevelFilters:Promoções", "Promoções", 50);
-        scrapeFromAlgolia("", "Todos", 50);
+        // 1. Scraping de promoções e catálogo via Algolia API
+        scrapeFromAlgolia("topLevelFilters:Promoções", "Promoções", 100);
+        scrapeFromAlgolia("", "Todos", 100);
 
-        // Exporta banco de dados para JSON para consumo pelo frontend
+        // 2. Sincronização individual dos preços dos jogos existentes no banco de dados
+        syncExistingGamePrices();
+
+        // 3. Exporta banco de dados para JSON para consumo pelo frontend
         exportDatabaseToJson();
     }
 
@@ -266,6 +266,117 @@ public class ScrapingService {
         }
 
         return false;
+    }
+
+    public void syncExistingGamePrices() {
+        LOG.info("Iniciando verificação individual de preços dos jogos existentes no banco de dados...");
+        
+        List<Game> existingGames = io.quarkus.narayana.jta.QuarkusTransaction.requiringNew()
+                .call(() -> Game.list("nsuid is not null"));
+
+        if (existingGames == null || existingGames.isEmpty()) {
+            LOG.info("Nenhum jogo com NSUID encontrado para verificar.");
+            return;
+        }
+
+        LOG.infof("Total de jogos no banco de dados para verificação de preço: %d", existingGames.size());
+
+        int batchSize = 50;
+        int updatedPricesCount = 0;
+        int totalGames = existingGames.size();
+        int processedGamesCount = 0;
+
+        for (int i = 0; i < existingGames.size(); i += batchSize) {
+            int end = Math.min(i + batchSize, existingGames.size());
+            List<Game> batchGames = existingGames.subList(i, end);
+
+            Map<String, Game> gameMapByNsuid = new HashMap<>();
+            List<String> nsuids = new ArrayList<>();
+            for (Game g : batchGames) {
+                if (g.nsuid != null && !g.nsuid.trim().isEmpty()) {
+                    nsuids.add(g.nsuid.trim());
+                    gameMapByNsuid.put(g.nsuid.trim(), g);
+                }
+            }
+
+            if (nsuids.isEmpty()) {
+                continue;
+            }
+
+            String idsParam = String.join(",", nsuids);
+            String requestUrl = NINTENDO_PRICE_API_URL + idsParam;
+
+            try {
+                String responseBody = Jsoup.connect(requestUrl)
+                        .method(org.jsoup.Connection.Method.GET)
+                        .header("Accept", "application/json")
+                        .header("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36")
+                        .ignoreContentType(true)
+                        .timeout(30000)
+                        .execute()
+                        .body();
+
+                JsonNode rootNode = objectMapper.readTree(responseBody);
+                JsonNode pricesNode = rootNode.get("prices");
+
+                if (pricesNode != null && pricesNode.isArray()) {
+                    for (JsonNode priceItem : pricesNode) {
+                        if (!priceItem.hasNonNull("title_id")) {
+                            continue;
+                        }
+
+                        processedGamesCount++;
+                        final int currentProgress = processedGamesCount;
+                        final double percent = ((double) currentProgress / totalGames) * 100;
+
+                        String titleIdStr = priceItem.get("title_id").asText();
+                        Game game = gameMapByNsuid.get(titleIdStr);
+
+                        if (game == null) {
+                            continue;
+                        }
+
+                        BigDecimal regularPrice = BigDecimal.ZERO;
+                        BigDecimal salePrice = null;
+
+                        if (priceItem.hasNonNull("regular_price") && priceItem.get("regular_price").hasNonNull("raw_value")) {
+                            regularPrice = new BigDecimal(priceItem.get("regular_price").get("raw_value").asText());
+                        }
+
+                        if (priceItem.hasNonNull("discount_price") && priceItem.get("discount_price").hasNonNull("raw_value")) {
+                            salePrice = new BigDecimal(priceItem.get("discount_price").get("raw_value").asText());
+                        }
+
+                        final BigDecimal finalRegPrice = regularPrice;
+                        final BigDecimal finalSalePrice = salePrice;
+
+                        Boolean updated = io.quarkus.narayana.jta.QuarkusTransaction.requiringNew().call(() -> {
+                            Game loadedGame = Game.findById(game.id);
+                            if (loadedGame == null) return false;
+
+                            PriceRecord lastRecord = PriceRecord.find("game = ?1 and currency = ?2 order by recordedAt desc", loadedGame, "BRL").firstResult();
+
+                            if (lastRecord == null || hasPriceChanged(lastRecord, finalRegPrice, finalSalePrice)) {
+                                saveNewPrice(loadedGame, finalRegPrice, finalSalePrice, "BRL", LocalDateTime.now());
+                                LOG.infof("[VERIFICACAO INDIVIDUAL] [%d de %d (%.1f%%)] Atualização de preço (NSUID %s): Normal: %s | Promocional: %s",
+                                        currentProgress, totalGames, percent, loadedGame.nsuid, finalRegPrice, finalSalePrice != null ? finalSalePrice : "N/A (Sem Promoção)");
+                                return true;
+                            }
+                            return false;
+                        });
+
+                        if (Boolean.TRUE.equals(updated)) {
+                            updatedPricesCount++;
+                        }
+                    }
+                }
+
+            } catch (Exception e) {
+                LOG.errorf("Erro ao consultar API de preços da Nintendo para lote de jogos: %s", e.getMessage(), e);
+            }
+        }
+
+        LOG.infof("Sincronização de preços finalizada. Registros de preço atualizados/inseridos: %d", updatedPricesCount);
     }
 
     private void exportDatabaseToJson() {
