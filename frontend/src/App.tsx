@@ -1,13 +1,31 @@
 import { useEffect, useState } from 'react';
-import type { Game } from './types';
+import type { Game, GamesResponse } from './types';
 import { GameCard } from './components/GameCard';
 import { GameModal } from './components/GameModal';
 
 const DATA_SOURCE = import.meta.env.VITE_DATA_SOURCE || 'json';
 const API_URL = DATA_SOURCE === 'json' ? './games.json' : 'http://localhost:8080/games';
 
+const formatUpdateDate = (dateStr: string | null) => {
+  if (!dateStr) return null;
+  try {
+    const date = new Date(dateStr);
+    if (isNaN(date.getTime())) return dateStr;
+    return new Intl.DateTimeFormat('pt-BR', {
+      day: '2-digit',
+      month: '2-digit',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+    }).format(date);
+  } catch {
+    return dateStr;
+  }
+};
+
 function App() {
   const [games, setGames] = useState<Game[]>([]);
+  const [updateDate, setUpdateDate] = useState<string | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   
@@ -32,8 +50,17 @@ function App() {
       if (!response.ok) {
         throw new Error('Falha ao carregar a lista de jogos do servidor.');
       }
-      const data = await response.json();
-      setGames(data);
+      const data: Game[] | GamesResponse = await response.json();
+      if (Array.isArray(data)) {
+        setGames(data);
+        setUpdateDate(null);
+      } else if (data && Array.isArray(data.games)) {
+        setGames(data.games);
+        setUpdateDate(data.updateDate || null);
+      } else {
+        setGames([]);
+        setUpdateDate(null);
+      }
     } catch (err: any) {
       setError(err.message || 'Ocorreu um erro desconectado do servidor.');
     } finally {
@@ -193,6 +220,15 @@ function App() {
                   🗑️ Limpar Filtros
                 </button>
               )}
+
+              {updateDate && (
+                <div className="update-date-badge">
+                  <span className="update-date-icon">🕒</span>
+                  <span className="update-date-text">
+                    Atualizado em <strong>{formatUpdateDate(updateDate)}</strong>
+                  </span>
+                </div>
+              )}
             </div>
           </aside>
 
@@ -239,6 +275,16 @@ function App() {
             onClose={() => setSelectedGame(null)} 
           />
         )}
+
+        {/* Rodapé da Aplicação */}
+        <footer className="app-footer">
+          {updateDate && (
+            <p className="footer-update-info">
+              🕒 Última atualização da listagem: <strong>{formatUpdateDate(updateDate)}</strong>
+            </p>
+          )}
+          <p className="footer-copyright">Beetendo Prices &copy; {new Date().getFullYear()} - Dados da Nintendo eShop</p>
+        </footer>
       </div>
     </>
   );

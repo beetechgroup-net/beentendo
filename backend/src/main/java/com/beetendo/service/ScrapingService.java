@@ -277,7 +277,10 @@ public class ScrapingService {
             if (parentFile != null && !parentFile.exists()) {
                 parentFile.mkdirs();
             }
-            objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, games);
+            Map<String, Object> output = new LinkedHashMap<>();
+            output.put("updateDate", LocalDateTime.now().toString());
+            output.put("games", games);
+            objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, output);
             LOG.infof("Exportação concluída com sucesso! Total de jogos exportados: %d", games.size());
         } catch (Exception e) {
             LOG.error("Erro ao exportar banco de dados para JSON: " + e.getMessage(), e);

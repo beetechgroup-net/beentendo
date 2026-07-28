@@ -14,3 +14,8 @@ export interface Game {
   coverImage: string | null;
   prices: PriceRecord[];
 }
+
+export interface GamesResponse {
+  updateDate?: string;
+  games: Game[];
+}
