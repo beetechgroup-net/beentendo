@@ -1,5 +1,5 @@
 {
-  "updateDate" : "2026-08-01T16:03:09.393656",
+  "updateDate" : "2026-08-03T08:19:06.876052",
   "games" : [ {
     "id" : 1,
     "nsuid" : "70010000096640",
@@ -2582,6 +2582,12 @@
       "salePrice" : 14.39,
       "currency" : "BRL",
       "recordedAt" : "2026-07-15T18:55:00.715117"
+    }, {
+      "id" : 4661,
+      "regularPrice" : 17.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:30.923486"
     } ]
   }, {
     "id" : 210,
@@ -2705,6 +2711,12 @@
       "salePrice" : 61.18,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T09:56:48.944768"
+    }, {
+      "id" : 4673,
+      "regularPrice" : 203.95,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:34.634905"
     } ]
   }, {
     "id" : 253,
@@ -3922,6 +3934,12 @@
       "salePrice" : 12.50,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:19.416639"
+    }, {
+      "id" : 4659,
+      "regularPrice" : 25.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:30.868644"
     } ]
   }, {
     "id" : 383,
@@ -4279,6 +4297,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:19.718251"
+    }, {
+      "id" : 4660,
+      "regularPrice" : 19.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:30.910414"
     } ]
   }, {
     "id" : 404,
@@ -4578,6 +4602,12 @@
       "salePrice" : 25.55,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:19.756828"
+    }, {
+      "id" : 4662,
+      "regularPrice" : 36.50,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:30.936512"
     } ]
   }, {
     "id" : 421,
@@ -6748,6 +6778,12 @@
       "salePrice" : 20.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:20.892375"
+    }, {
+      "id" : 4674,
+      "regularPrice" : 29.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:37.008632"
     } ]
   }, {
     "id" : 539,
@@ -7344,6 +7380,12 @@
       "salePrice" : 12.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:21.137655"
+    }, {
+      "id" : 4675,
+      "regularPrice" : 25.98,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:37.595771"
     } ]
   }, {
     "id" : 571,
@@ -7928,6 +7970,12 @@
       "salePrice" : 16.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:21.604978"
+    }, {
+      "id" : 4676,
+      "regularPrice" : 99.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:38.14737"
     } ]
   }, {
     "id" : 603,
@@ -8208,6 +8256,12 @@
       "salePrice" : 46.89,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:21.649542"
+    }, {
+      "id" : 4677,
+      "regularPrice" : 66.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:38.210716"
     } ]
   }, {
     "id" : 619,
@@ -8905,6 +8959,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:21.885068"
+    }, {
+      "id" : 4678,
+      "regularPrice" : 19.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:38.643576"
     } ]
   }, {
     "id" : 656,
@@ -9463,6 +9523,12 @@
       "salePrice" : 12.50,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:22.127786"
+    }, {
+      "id" : 4679,
+      "regularPrice" : 25.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:38.72139"
     } ]
   }, {
     "id" : 686,
@@ -9476,6 +9542,12 @@
       "salePrice" : 21.00,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:22.130139"
+    }, {
+      "id" : 4680,
+      "regularPrice" : 42.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:38.723552"
     } ]
   }, {
     "id" : 687,
@@ -9844,6 +9916,12 @@
       "salePrice" : 27.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:22.177287"
+    }, {
+      "id" : 4681,
+      "regularPrice" : 39.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:39.177295"
     } ]
   }, {
     "id" : 707,
@@ -10009,6 +10087,12 @@
       "salePrice" : 17.49,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:22.392991"
+    }, {
+      "id" : 4682,
+      "regularPrice" : 34.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:39.212596"
     } ]
   }, {
     "id" : 716,
@@ -10808,6 +10892,12 @@
       "salePrice" : 56.28,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:22.749857"
+    }, {
+      "id" : 4683,
+      "regularPrice" : 84.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:39.781489"
     } ]
   }, {
     "id" : 759,
@@ -11087,6 +11177,12 @@
       "salePrice" : 36.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:22.791795"
+    }, {
+      "id" : 4684,
+      "regularPrice" : 73.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:39.830464"
     } ]
   }, {
     "id" : 774,
@@ -11804,6 +11900,12 @@
       "salePrice" : 47.45,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:23.032512"
+    }, {
+      "id" : 4685,
+      "regularPrice" : 73.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:40.400219"
     } ]
   }, {
     "id" : 813,
@@ -12261,6 +12363,12 @@
       "salePrice" : 21.90,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:23.320071"
+    }, {
+      "id" : 4686,
+      "regularPrice" : 73.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:40.460988"
     } ]
   }, {
     "id" : 838,
@@ -12781,6 +12889,12 @@
       "salePrice" : 22.22,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:23.589826"
+    }, {
+      "id" : 4687,
+      "regularPrice" : 44.44,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:40.986576"
     } ]
   }, {
     "id" : 866,
@@ -12997,6 +13111,12 @@
       "salePrice" : 23.07,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:24.031973"
+    }, {
+      "id" : 4688,
+      "regularPrice" : 46.15,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:41.009615"
     } ]
   }, {
     "id" : 877,
@@ -13105,6 +13225,12 @@
       "salePrice" : 46.77,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:23.656445"
+    }, {
+      "id" : 4689,
+      "regularPrice" : 77.95,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:41.015673"
     } ]
   }, {
     "id" : 883,
@@ -13213,6 +13339,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:23.672458"
+    }, {
+      "id" : 4690,
+      "regularPrice" : 27.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:41.020854"
     } ]
   }, {
     "id" : 889,
@@ -13315,6 +13447,12 @@
       "salePrice" : 22.49,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:23.68757"
+    }, {
+      "id" : 4691,
+      "regularPrice" : 44.98,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:41.025758"
     } ]
   }, {
     "id" : 895,
@@ -13347,6 +13485,12 @@
       "salePrice" : 29.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:23.695926"
+    }, {
+      "id" : 4692,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:41.027852"
     } ]
   }, {
     "id" : 897,
@@ -13924,6 +14068,12 @@
       "salePrice" : 16.44,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:24.10099"
+    }, {
+      "id" : 4693,
+      "regularPrice" : 46.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:41.6685"
     } ]
   }, {
     "id" : 929,
@@ -14818,6 +14968,12 @@
       "salePrice" : 12.16,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:24.515569"
+    }, {
+      "id" : 4694,
+      "regularPrice" : 24.33,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:42.242292"
     } ]
   }, {
     "id" : 977,
@@ -15477,6 +15633,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:24.845414"
+    }, {
+      "id" : 4695,
+      "regularPrice" : 34.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:42.814117"
     } ]
   }, {
     "id" : 1012,
@@ -16301,6 +16463,12 @@
       "salePrice" : 22.10,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:25.078647"
+    }, {
+      "id" : 4696,
+      "regularPrice" : 32.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:43.407466"
     } ]
   }, {
     "id" : 1056,
@@ -16638,6 +16806,12 @@
       "salePrice" : 18.39,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:26.101687"
+    }, {
+      "id" : 4697,
+      "regularPrice" : 45.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:43.492168"
     } ]
   }, {
     "id" : 1075,
@@ -16670,6 +16844,12 @@
       "salePrice" : 21.35,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:26.106811"
+    }, {
+      "id" : 4698,
+      "regularPrice" : 42.70,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:43.498551"
     } ]
   }, {
     "id" : 1077,
@@ -17038,6 +17218,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:26.143821"
+    }, {
+      "id" : 4699,
+      "regularPrice" : 28.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:43.53948"
     } ]
   }, {
     "id" : 1097,
@@ -17070,6 +17256,12 @@
       "salePrice" : 29.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:26.148072"
+    }, {
+      "id" : 4700,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:43.545199"
     } ]
   }, {
     "id" : 1099,
@@ -17121,6 +17313,12 @@
       "salePrice" : 22.49,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:26.153071"
+    }, {
+      "id" : 4701,
+      "regularPrice" : 49.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:43.974254"
     } ]
   }, {
     "id" : 1102,
@@ -17242,6 +17440,12 @@
       "salePrice" : 13.10,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:26.326694"
+    }, {
+      "id" : 4702,
+      "regularPrice" : 26.20,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:44.010175"
     } ]
   }, {
     "id" : 1109,
@@ -17743,6 +17947,12 @@
       "salePrice" : 17.49,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:26.376"
+    }, {
+      "id" : 4703,
+      "regularPrice" : 34.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:44.083351"
     } ]
   }, {
     "id" : 1136,
@@ -17826,6 +18036,12 @@
       "salePrice" : 20.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:26.382114"
+    }, {
+      "id" : 4704,
+      "regularPrice" : 29.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:44.094198"
     } ]
   }, {
     "id" : 1141,
@@ -17972,6 +18188,12 @@
       "salePrice" : 18.25,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:26.752216"
+    }, {
+      "id" : 4705,
+      "regularPrice" : 36.51,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:44.114788"
     } ]
   }, {
     "id" : 1149,
@@ -19101,6 +19323,12 @@
       "salePrice" : 17.39,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:27.08535"
+    }, {
+      "id" : 4706,
+      "regularPrice" : 34.79,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:45.174326"
     } ]
   }, {
     "id" : 1210,
@@ -19222,6 +19450,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:27.097022"
+    }, {
+      "id" : 4707,
+      "regularPrice" : 25.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:45.195622"
     } ]
   }, {
     "id" : 1217,
@@ -19273,6 +19507,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:27.102836"
+    }, {
+      "id" : 4708,
+      "regularPrice" : 27.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:45.204517"
     } ]
   }, {
     "id" : 1220,
@@ -19921,6 +20161,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:27.349436"
+    }, {
+      "id" : 4709,
+      "regularPrice" : 20.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:45.764668"
     } ]
   }, {
     "id" : 1256,
@@ -20975,6 +21221,12 @@
       "salePrice" : 13.10,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:01:27.828505"
+    }, {
+      "id" : 4710,
+      "regularPrice" : 26.20,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:46.354638"
     } ]
   }, {
     "id" : 1314,
@@ -25723,6 +25975,12 @@
       "salePrice" : 30.78,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:32.711146"
+    }, {
+      "id" : 4663,
+      "regularPrice" : 38.48,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:30.944529"
     } ]
   }, {
     "id" : 1655,
@@ -27296,6 +27554,12 @@
       "salePrice" : null,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:16:30.077022"
+    }, {
+      "id" : 4551,
+      "regularPrice" : 39.99,
+      "salePrice" : 14.96,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:25.739692"
     } ]
   }, {
     "id" : 1770,
@@ -29075,6 +29339,12 @@
       "salePrice" : 14.96,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:43.320421"
+    }, {
+      "id" : 4664,
+      "regularPrice" : 39.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:31.953001"
     } ]
   }, {
     "id" : 1899,
@@ -29171,6 +29441,12 @@
       "salePrice" : 15.59,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:43.325079"
+    }, {
+      "id" : 4665,
+      "regularPrice" : 25.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:31.95934"
     } ]
   }, {
     "id" : 1905,
@@ -29203,6 +29479,12 @@
       "salePrice" : 14.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:43.329905"
+    }, {
+      "id" : 4666,
+      "regularPrice" : 49.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:31.961719"
     } ]
   }, {
     "id" : 1907,
@@ -29735,6 +30017,12 @@
       "salePrice" : 91.92,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.064724"
+    }, {
+      "id" : 4667,
+      "regularPrice" : 114.90,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:32.226394"
     } ]
   }, {
     "id" : 1941,
@@ -30222,6 +30510,12 @@
       "salePrice" : 69.00,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:43.415961"
+    }, {
+      "id" : 4668,
+      "regularPrice" : 92.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:32.272727"
     } ]
   }, {
     "id" : 1972,
@@ -30299,6 +30593,12 @@
       "salePrice" : 37.59,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.123517"
+    }, {
+      "id" : 4669,
+      "regularPrice" : 46.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:32.278024"
     } ]
   }, {
     "id" : 1977,
@@ -30318,6 +30618,12 @@
       "salePrice" : 37.59,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.127341"
+    }, {
+      "id" : 4670,
+      "regularPrice" : 46.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:32.279448"
     } ]
   }, {
     "id" : 1978,
@@ -30512,6 +30818,12 @@
       "salePrice" : 36.71,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:43.424555"
+    }, {
+      "id" : 4671,
+      "regularPrice" : 48.95,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:32.291231"
     } ]
   }, {
     "id" : 1992,
@@ -30531,6 +30843,12 @@
       "salePrice" : 74.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:43.42879"
+    }, {
+      "id" : 4672,
+      "regularPrice" : 99.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:32.292665"
     } ]
   }, {
     "id" : 1993,
@@ -31055,6 +31373,12 @@
       "salePrice" : null,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:16:31.992607"
+    }, {
+      "id" : 4552,
+      "regularPrice" : 74.19,
+      "salePrice" : 39.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:25.901348"
     } ]
   }, {
     "id" : 2031,
@@ -31203,6 +31527,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:43.452789"
+    }, {
+      "id" : 4711,
+      "regularPrice" : 15.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:53.779422"
     } ]
   }, {
     "id" : 2041,
@@ -31960,6 +32290,12 @@
       "salePrice" : 18.40,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.18387"
+    }, {
+      "id" : 4712,
+      "regularPrice" : 23.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:54.362196"
     } ]
   }, {
     "id" : 2096,
@@ -32743,6 +33079,12 @@
       "salePrice" : null,
       "currency" : "BRL",
       "recordedAt" : "2026-07-16T15:16:32.587838"
+    }, {
+      "id" : 4553,
+      "regularPrice" : 65.99,
+      "salePrice" : 15.19,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:25.935871"
     } ]
   }, {
     "id" : 2153,
@@ -33316,6 +33658,12 @@
       "salePrice" : 17.11,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:43.908213"
+    }, {
+      "id" : 4713,
+      "regularPrice" : 39.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:55.451471"
     } ]
   }, {
     "id" : 2234,
@@ -33503,6 +33851,12 @@
       "salePrice" : 13.00,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:44.202948"
+    }, {
+      "id" : 4714,
+      "regularPrice" : 19.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:55.476714"
     } ]
   }, {
     "id" : 2247,
@@ -33663,6 +34017,12 @@
       "salePrice" : 26.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:44.271496"
+    }, {
+      "id" : 4715,
+      "regularPrice" : 69.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:55.902803"
     } ]
   }, {
     "id" : 2257,
@@ -33702,6 +34062,12 @@
       "salePrice" : 16.11,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:44.300386"
+    }, {
+      "id" : 4716,
+      "regularPrice" : 69.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:55.909318"
     } ]
   }, {
     "id" : 2260,
@@ -33831,6 +34197,12 @@
       "salePrice" : 12.50,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:44.321088"
+    }, {
+      "id" : 4717,
+      "regularPrice" : 25.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:55.927345"
     } ]
   }, {
     "id" : 2269,
@@ -33915,6 +34287,12 @@
       "salePrice" : 21.25,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:44.34127"
+    }, {
+      "id" : 4718,
+      "regularPrice" : 69.50,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:55.935722"
     } ]
   }, {
     "id" : 2275,
@@ -34108,6 +34486,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:44.7182"
+    }, {
+      "id" : 4719,
+      "regularPrice" : 15.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:55.946227"
     } ]
   }, {
     "id" : 2288,
@@ -34134,6 +34518,12 @@
       "salePrice" : 15.89,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:44.726687"
+    }, {
+      "id" : 4720,
+      "regularPrice" : 52.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:55.948875"
     } ]
   }, {
     "id" : 2290,
@@ -34523,6 +34913,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.169282"
+    }, {
+      "id" : 4721,
+      "regularPrice" : 33.90,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:56.471881"
     } ]
   }, {
     "id" : 2319,
@@ -34684,6 +35080,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.448335"
+    }, {
+      "id" : 4722,
+      "regularPrice" : 16.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:56.489573"
     } ]
   }, {
     "id" : 2330,
@@ -34723,6 +35125,12 @@
       "salePrice" : 17.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.462717"
+    }, {
+      "id" : 4723,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:56.494976"
     } ]
   }, {
     "id" : 2333,
@@ -34859,6 +35267,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.498928"
+    }, {
+      "id" : 4724,
+      "regularPrice" : 39.50,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:56.507564"
     } ]
   }, {
     "id" : 2343,
@@ -34943,6 +35357,12 @@
       "salePrice" : 17.11,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.527415"
+    }, {
+      "id" : 4725,
+      "regularPrice" : 39.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:56.514101"
     } ]
   }, {
     "id" : 2349,
@@ -34988,6 +35408,12 @@
       "salePrice" : 17.62,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.531114"
+    }, {
+      "id" : 4726,
+      "regularPrice" : 46.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:56.967353"
     } ]
   }, {
     "id" : 2352,
@@ -35001,6 +35427,12 @@
       "salePrice" : 19.95,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.534258"
+    }, {
+      "id" : 4727,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:56.972279"
     } ]
   }, {
     "id" : 2353,
@@ -35111,6 +35543,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.789993"
+    }, {
+      "id" : 4728,
+      "regularPrice" : 66.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.00362"
     } ]
   }, {
     "id" : 2361,
@@ -35189,6 +35627,12 @@
       "salePrice" : 17.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.822347"
+    }, {
+      "id" : 4729,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.028151"
     } ]
   }, {
     "id" : 2367,
@@ -35221,6 +35665,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.828868"
+    }, {
+      "id" : 4730,
+      "regularPrice" : 16.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.039033"
     } ]
   }, {
     "id" : 2369,
@@ -35260,6 +35710,12 @@
       "salePrice" : 17.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.841411"
+    }, {
+      "id" : 4731,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.051732"
     } ]
   }, {
     "id" : 2372,
@@ -35305,6 +35761,12 @@
       "salePrice" : 17.22,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.871218"
+    }, {
+      "id" : 4732,
+      "regularPrice" : 45.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.066888"
     } ]
   }, {
     "id" : 2375,
@@ -35363,6 +35825,12 @@
       "salePrice" : 17.26,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.888217"
+    }, {
+      "id" : 4733,
+      "regularPrice" : 74.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.078158"
     } ]
   }, {
     "id" : 2379,
@@ -35408,6 +35876,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:45.89635"
+    }, {
+      "id" : 4734,
+      "regularPrice" : 19.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.088361"
     } ]
   }, {
     "id" : 2382,
@@ -35550,6 +36024,12 @@
       "salePrice" : 16.50,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:46.1878"
+    }, {
+      "id" : 4735,
+      "regularPrice" : 40.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.116179"
     } ]
   }, {
     "id" : 2392,
@@ -35801,6 +36281,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:46.245715"
+    }, {
+      "id" : 4736,
+      "regularPrice" : 60.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.604148"
     } ]
   }, {
     "id" : 2409,
@@ -35866,6 +36352,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-20T16:07:46.489433"
+    }, {
+      "id" : 4737,
+      "regularPrice" : 19.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:57.625258"
     } ]
   }, {
     "id" : 2414,
@@ -36863,6 +37355,12 @@
       "salePrice" : 32.89,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.216051"
+    }, {
+      "id" : 4738,
+      "regularPrice" : 46.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:58.163269"
     } ]
   }, {
     "id" : 2514,
@@ -36967,6 +37465,12 @@
       "salePrice" : 59.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.240262"
+    }, {
+      "id" : 4739,
+      "regularPrice" : 79.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:58.175023"
     } ]
   }, {
     "id" : 2522,
@@ -37110,6 +37614,12 @@
       "salePrice" : 47.40,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.572778"
+    }, {
+      "id" : 4740,
+      "regularPrice" : 79.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:58.573696"
     } ]
   }, {
     "id" : 2533,
@@ -37214,6 +37724,12 @@
       "salePrice" : 47.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.607281"
+    }, {
+      "id" : 4741,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:58.61031"
     } ]
   }, {
     "id" : 2541,
@@ -37227,6 +37743,12 @@
       "salePrice" : 13.24,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.612784"
+    }, {
+      "id" : 4742,
+      "regularPrice" : 26.49,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:58.616809"
     } ]
   }, {
     "id" : 2543,
@@ -37506,6 +38028,12 @@
       "salePrice" : 35.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.698232"
+    }, {
+      "id" : 4743,
+      "regularPrice" : 44.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:58.681441"
     } ]
   }, {
     "id" : 2564,
@@ -37688,6 +38216,12 @@
       "salePrice" : 55.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:33.989549"
+    }, {
+      "id" : 4744,
+      "regularPrice" : 79.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:58.707945"
     } ]
   }, {
     "id" : 2578,
@@ -38260,6 +38794,12 @@
       "salePrice" : 126.00,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.205114"
+    }, {
+      "id" : 4745,
+      "regularPrice" : 210.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.235012"
     } ]
   }, {
     "id" : 2622,
@@ -38312,6 +38852,12 @@
       "salePrice" : 23.09,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.226547"
+    }, {
+      "id" : 4746,
+      "regularPrice" : 32.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.244487"
     } ]
   }, {
     "id" : 2626,
@@ -38325,6 +38871,12 @@
       "salePrice" : 21.49,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.230603"
+    }, {
+      "id" : 4747,
+      "regularPrice" : 42.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.247323"
     } ]
   }, {
     "id" : 2627,
@@ -38377,6 +38929,12 @@
       "salePrice" : 73.20,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.256003"
+    }, {
+      "id" : 4748,
+      "regularPrice" : 122.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.646993"
     } ]
   }, {
     "id" : 2631,
@@ -38403,6 +38961,12 @@
       "salePrice" : 25.14,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.265529"
+    }, {
+      "id" : 4749,
+      "regularPrice" : 41.90,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.657375"
     } ]
   }, {
     "id" : 2633,
@@ -38572,6 +39136,12 @@
       "salePrice" : 26.59,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.307603"
+    }, {
+      "id" : 4750,
+      "regularPrice" : 37.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.702563"
     } ]
   }, {
     "id" : 2646,
@@ -38611,6 +39181,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.31216"
+    }, {
+      "id" : 4751,
+      "regularPrice" : 49.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.71084"
     } ]
   }, {
     "id" : 2649,
@@ -38676,6 +39252,12 @@
       "salePrice" : 41.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.321883"
+    }, {
+      "id" : 4752,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.722753"
     } ]
   }, {
     "id" : 2654,
@@ -38806,6 +39388,12 @@
       "salePrice" : 25.19,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.609626"
+    }, {
+      "id" : 4753,
+      "regularPrice" : 41.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.739259"
     } ]
   }, {
     "id" : 2664,
@@ -38910,6 +39498,12 @@
       "salePrice" : 32.85,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.649149"
+    }, {
+      "id" : 4754,
+      "regularPrice" : 54.75,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.749837"
     } ]
   }, {
     "id" : 2672,
@@ -38923,6 +39517,12 @@
       "salePrice" : 65.40,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.65278"
+    }, {
+      "id" : 4755,
+      "regularPrice" : 109.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:59.751939"
     } ]
   }, {
     "id" : 2673,
@@ -39059,6 +39659,12 @@
       "salePrice" : 12.70,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.691833"
+    }, {
+      "id" : 4756,
+      "regularPrice" : 31.75,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.154415"
     } ]
   }, {
     "id" : 2683,
@@ -39072,6 +39678,12 @@
       "salePrice" : 44.97,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:36.69438"
+    }, {
+      "id" : 4757,
+      "regularPrice" : 74.95,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.162275"
     } ]
   }, {
     "id" : 2684,
@@ -39449,6 +40061,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.068337"
+    }, {
+      "id" : 4758,
+      "regularPrice" : 49.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.240694"
     } ]
   }, {
     "id" : 2714,
@@ -39462,6 +40080,12 @@
       "salePrice" : 36.97,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.083506"
+    }, {
+      "id" : 4759,
+      "regularPrice" : 73.95,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.244373"
     } ]
   }, {
     "id" : 2715,
@@ -39475,6 +40099,12 @@
       "salePrice" : 25.98,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.085553"
+    }, {
+      "id" : 4760,
+      "regularPrice" : 64.95,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.24718"
     } ]
   }, {
     "id" : 2716,
@@ -39689,6 +40319,12 @@
       "salePrice" : 26.39,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.122619"
+    }, {
+      "id" : 4761,
+      "regularPrice" : 32.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.712752"
     } ]
   }, {
     "id" : 2732,
@@ -39754,6 +40390,12 @@
       "salePrice" : 39.59,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.135627"
+    }, {
+      "id" : 4762,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.737086"
     } ]
   }, {
     "id" : 2737,
@@ -40092,6 +40734,12 @@
       "salePrice" : 58.80,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.38508"
+    }, {
+      "id" : 4763,
+      "regularPrice" : 147.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.834299"
     } ]
   }, {
     "id" : 2763,
@@ -40105,6 +40753,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.387671"
+    }, {
+      "id" : 4764,
+      "regularPrice" : 59.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.841486"
     } ]
   }, {
     "id" : 2764,
@@ -40209,6 +40863,12 @@
       "salePrice" : 23.49,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.403048"
+    }, {
+      "id" : 4765,
+      "regularPrice" : 46.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.860579"
     } ]
   }, {
     "id" : 2772,
@@ -40261,6 +40921,12 @@
       "salePrice" : 45.84,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.409838"
+    }, {
+      "id" : 4766,
+      "regularPrice" : 91.69,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:00.869687"
     } ]
   }, {
     "id" : 2776,
@@ -40612,6 +41278,12 @@
       "salePrice" : 11.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.749447"
+    }, {
+      "id" : 4767,
+      "regularPrice" : 23.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:01.37624"
     } ]
   }, {
     "id" : 2803,
@@ -40638,6 +41310,12 @@
       "salePrice" : 47.99,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.762316"
+    }, {
+      "id" : 4768,
+      "regularPrice" : 59.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:01.382621"
     } ]
   }, {
     "id" : 2805,
@@ -40794,6 +41472,12 @@
       "salePrice" : 65.39,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:37.790692"
+    }, {
+      "id" : 4769,
+      "regularPrice" : 108.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:01.406036"
     } ]
   }, {
     "id" : 2817,
@@ -40963,6 +41647,12 @@
       "salePrice" : 40.50,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:38.105865"
+    }, {
+      "id" : 4770,
+      "regularPrice" : 81.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:01.425218"
     } ]
   }, {
     "id" : 2830,
@@ -41015,6 +41705,12 @@
       "salePrice" : 64.79,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:38.134736"
+    }, {
+      "id" : 4771,
+      "regularPrice" : 80.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:01.82837"
     } ]
   }, {
     "id" : 2834,
@@ -41158,6 +41854,12 @@
       "salePrice" : 43.60,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:38.209591"
+    }, {
+      "id" : 4772,
+      "regularPrice" : 109.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:01.84973"
     } ]
   }, {
     "id" : 2845,
@@ -41171,6 +41873,12 @@
       "salePrice" : 23.09,
       "currency" : "BRL",
       "recordedAt" : "2026-07-28T08:27:38.224851"
+    }, {
+      "id" : 4773,
+      "regularPrice" : 32.99,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:01.851681"
     } ]
   }, {
     "id" : 2846,
@@ -45029,6 +45737,12 @@
       "salePrice" : 20.00,
       "currency" : "BRL",
       "recordedAt" : "2026-08-01T16:01:08.085716"
+    }, {
+      "id" : 4774,
+      "regularPrice" : 80.00,
+      "salePrice" : null,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:19:05.121021"
     } ]
   }, {
     "id" : 3267,
@@ -45939,6 +46653,1371 @@
       "salePrice" : null,
       "currency" : "BRL",
       "recordedAt" : "2026-08-01T16:02:14.756143"
+    } ]
+  }, {
+    "id" : 3351,
+    "nsuid" : "70070000036012",
+    "name" : "Hidden in my Paradise + Hidden around the World Bundle",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000036012/f205d71d5ff7bf753636343693a55c99eb5fdd779b68e68393d9e2e0cfb21e1f",
+    "prices" : [ {
+      "id" : 4554,
+      "regularPrice" : 77.00,
+      "salePrice" : 50.05,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:25.956624"
+    } ]
+  }, {
+    "id" : 3352,
+    "nsuid" : "70010000112502",
+    "name" : "Football Cup 2026",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000112502/21b0bf169e3df7d8860963fd9bcb6a2d314ceb1979f66d7ca00626df50aca119",
+    "prices" : [ {
+      "id" : 4555,
+      "regularPrice" : 77.00,
+      "salePrice" : 51.59,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.217061"
+    } ]
+  }, {
+    "id" : 3353,
+    "nsuid" : "70070000033480",
+    "name" : "AirStrike Command: Tactical Assault Operation & Helicopter Battle Arena Simulator",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000033480/a72f35e6e3e102131b4da9d7aff5c71d4a16cf67432263d609de9ccbc5b62298",
+    "prices" : [ {
+      "id" : 4556,
+      "regularPrice" : 114.99,
+      "salePrice" : 21.85,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.287372"
+    } ]
+  }, {
+    "id" : 3354,
+    "nsuid" : "70010000114956",
+    "name" : "Legendary Tales V. Price of Power",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000114956/43305975365e5e45b791e448b95d0e5983e901b196c1671315ca863bcaee361f",
+    "prices" : [ {
+      "id" : 4557,
+      "regularPrice" : 76.49,
+      "salePrice" : 61.19,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.337133"
+    } ]
+  }, {
+    "id" : 3355,
+    "nsuid" : "70070000032791",
+    "name" : "Achilles Bundle: Legends Untold & Survivor",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000032791/112e53c1422aae08a4e10a92046deb6effcd4156feb9abb9b0c7290ca634473c",
+    "prices" : [ {
+      "id" : 4558,
+      "regularPrice" : 149.99,
+      "salePrice" : 37.49,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.393822"
+    } ]
+  }, {
+    "id" : 3356,
+    "nsuid" : "70010000113757",
+    "name" : "Crime Thief Simulator",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000113757/e3d9e46b22b8f8c58959b41079ec440ba101aa0da2e5f8fc0c25ca6567e48478",
+    "prices" : [ {
+      "id" : 4559,
+      "regularPrice" : 51.79,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.415828"
+    } ]
+  }, {
+    "id" : 3357,
+    "nsuid" : "70010000115520",
+    "name" : "Escape from Tarkan",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000115520/300a29edb8fc056648d64822f71900bf3574d7821913bd01ff761d269a7215a5",
+    "prices" : [ {
+      "id" : 4560,
+      "regularPrice" : 53.99,
+      "salePrice" : 16.19,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.420683"
+    } ]
+  }, {
+    "id" : 3358,
+    "nsuid" : "70010000103264",
+    "name" : "My Little Haven",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000103264/2a0a7a78263984d1670cde57b2f8a9a39d2b9c8f02f4440e59f19e89910706ca",
+    "prices" : [ {
+      "id" : 4561,
+      "regularPrice" : 48.38,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.680865"
+    } ]
+  }, {
+    "id" : 3359,
+    "nsuid" : "70010000104983",
+    "name" : "Pursuit",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104983/9a3d1f358e5ff28faf4d5b4132198af0df5fa713fe29e218c93f2374ff14cbea",
+    "prices" : [ {
+      "id" : 4562,
+      "regularPrice" : 53.79,
+      "salePrice" : 20.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.696497"
+    } ]
+  }, {
+    "id" : 3360,
+    "nsuid" : "70070000032039",
+    "name" : "Need for Race Street King & Formula Auto Sport Racing Pack",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000032039/367448604b773c2226d43532a12ca81d61a77ea50c19f7c3800b8dd3aed36b83",
+    "prices" : [ {
+      "id" : 4563,
+      "regularPrice" : 63.99,
+      "salePrice" : 26.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.708683"
+    } ]
+  }, {
+    "id" : 3361,
+    "nsuid" : "70010000101765",
+    "name" : "TRALALERO TRALALA ELEPHANT RUNNER",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000101765/e8e0b47817560230b756fc7cd805bb922b19b7ce8af9d55c8cf4adc26f29ea6f",
+    "prices" : [ {
+      "id" : 4564,
+      "regularPrice" : 26.99,
+      "salePrice" : 15.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.71343"
+    } ]
+  }, {
+    "id" : 3362,
+    "nsuid" : "70010000109910",
+    "name" : "Gameshop Tycoon",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000109910/510f79faf170490a5e3d54dff5f182e539e9f2d4a0a65b03fb42b46ae36e2866",
+    "prices" : [ {
+      "id" : 4565,
+      "regularPrice" : 89.99,
+      "salePrice" : 53.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.731807"
+    } ]
+  }, {
+    "id" : 3363,
+    "nsuid" : "70010000112083",
+    "name" : "Supermart Tycoon",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000112083/b949b85f74134c0e9a7c604f2f3897035afc0aa6df0b7fb58487ea9d21162fb1",
+    "prices" : [ {
+      "id" : 4566,
+      "regularPrice" : 89.99,
+      "salePrice" : 53.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.733811"
+    } ]
+  }, {
+    "id" : 3364,
+    "nsuid" : "70010000061465",
+    "name" : "Moorhuhn Winter Edition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000061465/4fb888ae8946d0b55ac135a868de474d4e807b797dacb993dcd0b798d3efc780",
+    "prices" : [ {
+      "id" : 4567,
+      "regularPrice" : 34.99,
+      "salePrice" : 17.49,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.75467"
+    } ]
+  }, {
+    "id" : 3365,
+    "nsuid" : "70010000106455",
+    "name" : "RippleIsland Kyle and Cal’s Restaurant",
+    "platform" : "switch 2",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000106455/41e6a691e57692f037f50a43875fa664438156347844cfe5de3829fc879efc61",
+    "prices" : [ {
+      "id" : 4568,
+      "regularPrice" : 149.00,
+      "salePrice" : 74.50,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.769105"
+    } ]
+  }, {
+    "id" : 3366,
+    "nsuid" : "70010000097131",
+    "name" : "Hymer 2000",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097131/3f104c344a407045c4fa47c816d31748af5884ef1c1eab69138d82c996dc499a",
+    "prices" : [ {
+      "id" : 4569,
+      "regularPrice" : 16.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.788829"
+    } ]
+  }, {
+    "id" : 3367,
+    "nsuid" : "70010000111805",
+    "name" : "Broken Sword - Sombra dos Templários: Reforged - Nintendo Switch 2 Edition",
+    "platform" : "switch 2",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch2/70010000111805/1ea6968ee8d94675993b54076c986421e3a2a86f0cf79d09f92147615dacedbe",
+    "prices" : [ {
+      "id" : 4570,
+      "regularPrice" : 109.99,
+      "salePrice" : 65.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.790581"
+    } ]
+  }, {
+    "id" : 3368,
+    "nsuid" : "70070000031729",
+    "name" : "Cozy Gardener Simulator & House Renovator Simulator",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000031729/e1d61015f0172b7d85e99f88c590a667f00f4cc516b80dd25bc25b32459c5705",
+    "prices" : [ {
+      "id" : 4571,
+      "regularPrice" : 69.99,
+      "salePrice" : 26.89,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.792768"
+    } ]
+  }, {
+    "id" : 3369,
+    "nsuid" : "70010000106101",
+    "name" : "Baseball Card Shop Simulator",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000106101/e995f4746cd03b0974896f8c2dcc05581b89b9cee7f8057ea50db7b9775194e3",
+    "prices" : [ {
+      "id" : 4572,
+      "regularPrice" : 42.99,
+      "salePrice" : 16.09,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:26.793871"
+    } ]
+  }, {
+    "id" : 3370,
+    "nsuid" : "70010000092543",
+    "name" : "Lucky Hunter",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092543/9ce4ada0bc992810b51f7a329d9fda74a0df1444ea9067cee92a5c9b29d259e5",
+    "prices" : [ {
+      "id" : 4573,
+      "regularPrice" : 20.49,
+      "salePrice" : 14.34,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.019719"
+    } ]
+  }, {
+    "id" : 3371,
+    "nsuid" : "70010000100395",
+    "name" : "Viking Colony Builder Valhalla",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000100395/feb06886dbbdc7d8fd19382b42f6e1bfff526d4d2580a1413365cf7d953263f6",
+    "prices" : [ {
+      "id" : 4574,
+      "regularPrice" : 59.99,
+      "salePrice" : 17.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.054467"
+    } ]
+  }, {
+    "id" : 3372,
+    "nsuid" : "70010000094036",
+    "name" : "Car Stunt Hero Simulator 2025",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000094036/6c2b3638b32d65cd8a73102aca149747da2815321256eae8852063a7717c9305",
+    "prices" : [ {
+      "id" : 4575,
+      "regularPrice" : 43.99,
+      "salePrice" : 16.44,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.057458"
+    } ]
+  }, {
+    "id" : 3373,
+    "nsuid" : "70010000092255",
+    "name" : "Meteorfall: Krumit's Tale",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000092255/bafcebe8fe1f983ec6f2e7ebf65905541bd105d1fdb45f5adc8dc0f970bcf81a",
+    "prices" : [ {
+      "id" : 4576,
+      "regularPrice" : 80.00,
+      "salePrice" : 56.00,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.058869"
+    } ]
+  }, {
+    "id" : 3374,
+    "nsuid" : "70010000104038",
+    "name" : "Neko Ramen",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104038/4de77ed173b8f0a2f67a153c470501d85da1a6ddc1fa2a4e1a56d5a489c0c26b",
+    "prices" : [ {
+      "id" : 4577,
+      "regularPrice" : 32.50,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.064574"
+    } ]
+  }, {
+    "id" : 3375,
+    "nsuid" : "70010000104699",
+    "name" : "Legendary Tales: Map of Hope",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000104699/2c9dec4a336f7f8e4dab9ad19d212abe3a833c63ee8c32efd78f934837bfc833",
+    "prices" : [ {
+      "id" : 4578,
+      "regularPrice" : 76.49,
+      "salePrice" : 53.54,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.083073"
+    } ]
+  }, {
+    "id" : 3376,
+    "nsuid" : "70010000097851",
+    "name" : "Lost Lands X",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097851/c673e1f322d10ffa7d3b8ed5e6bc7daa9be0a142d56c04f4183fa9c5d3e80697",
+    "prices" : [ {
+      "id" : 4579,
+      "regularPrice" : 69.29,
+      "salePrice" : 48.50,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.102386"
+    } ]
+  }, {
+    "id" : 3377,
+    "nsuid" : "70010000102429",
+    "name" : "ULTRASHOT: Kill Protocol",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000102429/4c1c80dbd057914e8d817c20c3850e4b9e5547fe22e883be6cfacb3b39094845",
+    "prices" : [ {
+      "id" : 4580,
+      "regularPrice" : 49.99,
+      "salePrice" : 16.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.327414"
+    } ]
+  }, {
+    "id" : 3378,
+    "nsuid" : "70010000099273",
+    "name" : "Rocket Strike: Deep Space",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000099273/a928526801c59575707484a65df09ec2e1dc87a16fa2b148bfcec2220bae7c92",
+    "prices" : [ {
+      "id" : 4581,
+      "regularPrice" : 43.99,
+      "salePrice" : 15.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.338371"
+    } ]
+  }, {
+    "id" : 3379,
+    "nsuid" : "70010000096555",
+    "name" : "ONLY UP! REMASTER",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000096555/ba2d0ad6dab46a1c6a4f370c467e7d379dae65abc0dd0c79bcd687a858c652ca",
+    "prices" : [ {
+      "id" : 4582,
+      "regularPrice" : 33.99,
+      "salePrice" : 16.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.424682"
+    } ]
+  }, {
+    "id" : 3380,
+    "nsuid" : "70010000097612",
+    "name" : "Tavern Owner Simulator",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000097612/a8a67e04ffab0141fd5ba19439d3fcb0bba645d1494f0d67b83710920569cbaf",
+    "prices" : [ {
+      "id" : 4583,
+      "regularPrice" : 73.99,
+      "salePrice" : 17.03,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.64738"
+    } ]
+  }, {
+    "id" : 3381,
+    "nsuid" : "70010000088686",
+    "name" : "Food Truck Business Simulator",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088686/4281624b0a1f086f75b648d6b3e12172f20d40537422f467bf3db2ea0c5c42ce",
+    "prices" : [ {
+      "id" : 4584,
+      "regularPrice" : 39.99,
+      "salePrice" : 17.11,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.659998"
+    } ]
+  }, {
+    "id" : 3382,
+    "nsuid" : "70010000088853",
+    "name" : "MotoGP™25",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088853/f8cb22e1ce38d4ffedf9d79a2ff57ad6be6b00878edc6f365ad8f02134c4a999",
+    "prices" : [ {
+      "id" : 4585,
+      "regularPrice" : 229.90,
+      "salePrice" : 57.47,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.700674"
+    } ]
+  }, {
+    "id" : 3383,
+    "nsuid" : "70070000026899",
+    "name" : "SIMULATORS MEGA BUNDLE - Truck, Construction, Farming, Offroad, Bus",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000026899/25cf13c1e9837d635271500129c9447d2d295564221b50c4f51fe62a71b88a81",
+    "prices" : [ {
+      "id" : 4586,
+      "regularPrice" : 399.99,
+      "salePrice" : 34.27,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.752985"
+    } ]
+  }, {
+    "id" : 3384,
+    "nsuid" : "70070000026547",
+    "name" : "Tell Me Your Story Games Collection",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000026547/3f25f2bb956c7cc53de81771ed6ed8cca97d90bf1d74d0484829eccecc2f4bba",
+    "prices" : [ {
+      "id" : 4587,
+      "regularPrice" : 180.00,
+      "salePrice" : 16.50,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.754518"
+    } ]
+  }, {
+    "id" : 3385,
+    "nsuid" : "70010000075116",
+    "name" : "Bing in Wonderland Power Up Edition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000075116/6edb4210067fa2981c01131699cbd9696517f34af8751ea10ae3048c4e028345",
+    "prices" : [ {
+      "id" : 4588,
+      "regularPrice" : 59.00,
+      "salePrice" : 41.30,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:27.768381"
+    } ]
+  }, {
+    "id" : 3386,
+    "nsuid" : "70010000089357",
+    "name" : "Whittingham Asylum: The Investigation",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000089357/cb47784f0943a7738fc59e314e157865ed9bc17b42a35e3853b2b9e72c87b967",
+    "prices" : [ {
+      "id" : 4589,
+      "regularPrice" : 29.99,
+      "salePrice" : 17.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.018019"
+    } ]
+  }, {
+    "id" : 3387,
+    "nsuid" : "70010000088514",
+    "name" : "Grand Rush: Highway Car Traffic Racing Simulator",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088514/79d85e3fd5d5c77b844acc9220e1a832640bd39259926fb1965f7926e9c00940",
+    "prices" : [ {
+      "id" : 4590,
+      "regularPrice" : 59.99,
+      "salePrice" : 17.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.073564"
+    } ]
+  }, {
+    "id" : 3388,
+    "nsuid" : "70010000086242",
+    "name" : "Water Blast Shooter - Wet Gun",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086242/1c453b3ea134043037da8142a797ef629008eeb5627851ffc809ff446f69aeee",
+    "prices" : [ {
+      "id" : 4591,
+      "regularPrice" : 46.99,
+      "salePrice" : 17.58,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.076699"
+    } ]
+  }, {
+    "id" : 3389,
+    "nsuid" : "70010000088509",
+    "name" : "Drag Racing Professionals: Dirt Mechanic Simulator",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000088509/4c0ccb2fa9a7465ce9b9fde45f366570da3c04b9ba64bfc0b90092c141e7d54e",
+    "prices" : [ {
+      "id" : 4592,
+      "regularPrice" : 59.99,
+      "salePrice" : 17.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.079221"
+    } ]
+  }, {
+    "id" : 3390,
+    "nsuid" : "70010000084681",
+    "name" : "Cook For Love",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000084681/4a65c99fb87737bf9a1fc7ddb0d162177f533c11ff8666e4e2e47617bb875774",
+    "prices" : [ {
+      "id" : 4593,
+      "regularPrice" : 74.00,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.084281"
+    } ]
+  }, {
+    "id" : 3391,
+    "nsuid" : "70010000056966",
+    "name" : "Smoothcade",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000056966/e37f2664a0c625ec1d93800256170c752b0322585794930478058a76160e8b3e",
+    "prices" : [ {
+      "id" : 4594,
+      "regularPrice" : 43.74,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.0915"
+    } ]
+  }, {
+    "id" : 3392,
+    "nsuid" : "70010000086075",
+    "name" : "Magic Cats Pots",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000086075/224643dc6bdfcb75263cd34c57105db2d95af22457c5a0ab01dd1449a69db01e",
+    "prices" : [ {
+      "id" : 4595,
+      "regularPrice" : 55.00,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.103856"
+    } ]
+  }, {
+    "id" : 3393,
+    "nsuid" : "70010000083111",
+    "name" : "What Happened - Through Worlds",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083111/2349516522a0781cfbc7fd9705fd49782c7770c946f95d44f9c996d90b68f896",
+    "prices" : [ {
+      "id" : 4596,
+      "regularPrice" : 29.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.403482"
+    } ]
+  }, {
+    "id" : 3394,
+    "nsuid" : "70010000085556",
+    "name" : "Cooking",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000085556/9006f70ba2fd1ea94e885333002106243f613eca40d1183451eb1bbea9d81796",
+    "prices" : [ {
+      "id" : 4597,
+      "regularPrice" : 66.50,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.42332"
+    } ]
+  }, {
+    "id" : 3395,
+    "nsuid" : "70010000083375",
+    "name" : "The Sirena Expedition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083375/0b0fd4093f18945e50956f4374327c5f28e72f40276e8c3d245bba0d236b94e3",
+    "prices" : [ {
+      "id" : 4598,
+      "regularPrice" : 20.49,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.426257"
+    } ]
+  }, {
+    "id" : 3396,
+    "nsuid" : "70010000080949",
+    "name" : " HELLPIT 3D PLATFORMER",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080949/f73fe17c3314c87078bfaa3ccf27e992b2574977cedef37092890ac40cf2c94d",
+    "prices" : [ {
+      "id" : 4599,
+      "regularPrice" : 24.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.650211"
+    } ]
+  }, {
+    "id" : 3397,
+    "nsuid" : "70010000083880",
+    "name" : "Mystery Detective Adventure",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083880/c8463c8b8608b359cb577cf96ccc595ff02bcb85bfe5e7a655c316df319d5802",
+    "prices" : [ {
+      "id" : 4600,
+      "regularPrice" : 69.29,
+      "salePrice" : 48.50,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.69959"
+    } ]
+  }, {
+    "id" : 3398,
+    "nsuid" : "70010000082169",
+    "name" : "The Alpha Wolf",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082169/91dd5770974c03f2bbc9406440f41c6bbbc417d35cef9de9140c0b8eb13eeb59",
+    "prices" : [ {
+      "id" : 4601,
+      "regularPrice" : 39.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.706219"
+    } ]
+  }, {
+    "id" : 3399,
+    "nsuid" : "70010000081799",
+    "name" : "Coach Bus Driving Simulator",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000081799/0da18926ea1278e238b9ffc26b1c80aa8d56dcdd236f2e83a5229c58c7aa0f3e",
+    "prices" : [ {
+      "id" : 4602,
+      "regularPrice" : 59.00,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.709903"
+    } ]
+  }, {
+    "id" : 3400,
+    "nsuid" : "70010000077672",
+    "name" : "Fortress Challenge - Fort Boyard",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000077672/cb806a78ac28354806dd1c16f8206d22d75338faf6d770e6bd6bab5b442bd245",
+    "prices" : [ {
+      "id" : 4603,
+      "regularPrice" : 214.90,
+      "salePrice" : 85.96,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.712895"
+    } ]
+  }, {
+    "id" : 3401,
+    "nsuid" : "70010000069350",
+    "name" : "3 minutes Mystery",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000069350/cbbd84da7c691c2e913accd87a2f3a3740ef6062982ee1ed9b915c28ff21b959",
+    "prices" : [ {
+      "id" : 4604,
+      "regularPrice" : 44.99,
+      "salePrice" : 22.49,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.714512"
+    } ]
+  }, {
+    "id" : 3402,
+    "nsuid" : "70010000068301",
+    "name" : "NeoSprint",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000068301/042ba64b1a678a3fac9075b234e5c0145410a8c752347582e6549764c7e5fd9d",
+    "prices" : [ {
+      "id" : 4605,
+      "regularPrice" : 94.95,
+      "salePrice" : 33.23,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.716374"
+    } ]
+  }, {
+    "id" : 3403,
+    "nsuid" : "70010000083382",
+    "name" : "I Love Finding Cats and Pups Collector's Edition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000083382/fd55de552385726f1c7c9d372a36b2bcca785a9cc21e1bda7b8c635d5ca73fe5",
+    "prices" : [ {
+      "id" : 4606,
+      "regularPrice" : 52.49,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.717583"
+    } ]
+  }, {
+    "id" : 3404,
+    "nsuid" : "70010000082687",
+    "name" : "So Much Stuff 3: Odds & Ends Collector's Edition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082687/3ad89c069e0457ae75cb9b71df311dd7aa1a40d265ad9dc08e76f714ba99a4fb",
+    "prices" : [ {
+      "id" : 4607,
+      "regularPrice" : 52.49,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.718905"
+    } ]
+  }, {
+    "id" : 3405,
+    "nsuid" : "70010000082683",
+    "name" : "Jewel Match Atlantis Solitaire Collector's Edition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082683/84f8eba593c8f635a2579b0d5dbb174d7154193077c8b61072926341aa9f5daf",
+    "prices" : [ {
+      "id" : 4608,
+      "regularPrice" : 52.49,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.72043"
+    } ]
+  }, {
+    "id" : 3406,
+    "nsuid" : "70010000079447",
+    "name" : "Spirits Chronicles: Born in Flames Collector's Edition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079447/dfaa0736578ef0dd99080c83f1ec2bd8d2fd6b8323b68667c18d38a496931a23",
+    "prices" : [ {
+      "id" : 4609,
+      "regularPrice" : 29.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.721703"
+    } ]
+  }, {
+    "id" : 3407,
+    "nsuid" : "70010000076635",
+    "name" : "Pogo Stick Champion",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000076635/7fbfaad0e8ba4737c8bfef788995e1d9f48ef4dd0c20c0bd856b009395d5dbf0",
+    "prices" : [ {
+      "id" : 4610,
+      "regularPrice" : 25.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.723899"
+    } ]
+  }, {
+    "id" : 3408,
+    "nsuid" : "70010000081905",
+    "name" : "Clasherball",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000081905/cdc51a6931cd4b41c6cb8318f77c64ecad99cbba1ddc940e1a932ae9f9c380a1",
+    "prices" : [ {
+      "id" : 4611,
+      "regularPrice" : 27.99,
+      "salePrice" : 18.19,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.725149"
+    } ]
+  }, {
+    "id" : 3409,
+    "nsuid" : "70010000081053",
+    "name" : "Tavern Talk",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000081053/05b395ef3f9a80f55768312f3deebc2edbe36bb3a4815cb3a3df306621e294c2",
+    "prices" : [ {
+      "id" : 4612,
+      "regularPrice" : 115.99,
+      "salePrice" : 63.79,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.726288"
+    } ]
+  }, {
+    "id" : 3410,
+    "nsuid" : "70010000079704",
+    "name" : "Operation STEEL",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079704/5b2b494f54675cbc0cef64fa58358b70b00da3e5513413ad194c19cb584b4279",
+    "prices" : [ {
+      "id" : 4613,
+      "regularPrice" : 32.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.727387"
+    } ]
+  }, {
+    "id" : 3411,
+    "nsuid" : "70010000076773",
+    "name" : "DarkStar One – Nintendo Switch™ Edition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000076773/dd34a87c707c955fdd69340919a7e03b390c57015443e5b0dee193de947b1d55",
+    "prices" : [ {
+      "id" : 4614,
+      "regularPrice" : 139.00,
+      "salePrice" : 76.39,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.728464"
+    } ]
+  }, {
+    "id" : 3412,
+    "nsuid" : "70010000081098",
+    "name" : "Glyphs of Gitzan",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000081098/98038305503ab230949f7004ae46d09e6d4f348cb1b4a68444bc810afcef67c1",
+    "prices" : [ {
+      "id" : 4615,
+      "regularPrice" : 22.49,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.729741"
+    } ]
+  }, {
+    "id" : 3413,
+    "nsuid" : "70010000064226",
+    "name" : "Fireside",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000064226/3f3c546fbd80835ef416dba504b0e9d8bae6a5975b7ff327b7e1c5a292ace074",
+    "prices" : [ {
+      "id" : 4616,
+      "regularPrice" : 51.99,
+      "salePrice" : 25.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.730862"
+    } ]
+  }, {
+    "id" : 3414,
+    "nsuid" : "70070000021423",
+    "name" : "Monster Hunter Stories Collection",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000021423/a7942d1d2e37354670fc9c2b5bdadaea17fea1dafcf974ac88d612a1bd594ed4",
+    "prices" : [ {
+      "id" : 4617,
+      "regularPrice" : 340.00,
+      "salePrice" : 113.32,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.732941"
+    } ]
+  }, {
+    "id" : 3415,
+    "nsuid" : "70010000080893",
+    "name" : "Neon Noir",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080893/cf229403a754e4cf770ca3668916a975086fbf4b76b9365094cd90cf6ecd7290",
+    "prices" : [ {
+      "id" : 4618,
+      "regularPrice" : 39.99,
+      "salePrice" : 17.11,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.734166"
+    } ]
+  }, {
+    "id" : 3416,
+    "nsuid" : "70010000076857",
+    "name" : "Monster Hunter Stories",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000076857/4fd7e53dbe85a51800342e51df4915a4df3e74164d3b3bf12d39f1ff690b51e4",
+    "prices" : [ {
+      "id" : 4619,
+      "regularPrice" : 170.00,
+      "salePrice" : 56.66,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.735247"
+    } ]
+  }, {
+    "id" : 3417,
+    "nsuid" : "70010000076207",
+    "name" : "Froggy Bouncing Adventures",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000076207/583ea87720cc65925f7c326d843d87fbb8cc932f6359809b8dae19d7ee3e73a5",
+    "prices" : [ {
+      "id" : 4620,
+      "regularPrice" : 25.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.73632"
+    } ]
+  }, {
+    "id" : 3418,
+    "nsuid" : "70010000079778",
+    "name" : "Monolith",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079778/2437e0b184862d7d730ec01f90204d1552b94700885a03de75347f0a4d9542f0",
+    "prices" : [ {
+      "id" : 4621,
+      "regularPrice" : 46.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.737355"
+    } ]
+  }, {
+    "id" : 3419,
+    "nsuid" : "70010000079575",
+    "name" : "Aery - Peace of Mind",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079575/bc2dcaf4d4206c29e0884f44fbf5a3c29d367459ebcc73678254b6c28e5b47a4",
+    "prices" : [ {
+      "id" : 4622,
+      "regularPrice" : 65.00,
+      "salePrice" : 32.50,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.738425"
+    } ]
+  }, {
+    "id" : 3420,
+    "nsuid" : "70010000074210",
+    "name" : "Forbidden Ghost Photo",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000074210/ad8e431677a0b078cd967d8a09ad7205a415d31b1d409b1a90fc685b9eab646d",
+    "prices" : [ {
+      "id" : 4623,
+      "regularPrice" : 19.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.73944"
+    } ]
+  }, {
+    "id" : 3421,
+    "nsuid" : "70010000082755",
+    "name" : "Just Find It 3 Collector's Edition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082755/900ee3405e9ffedf96b7ffd28227c54e1e3dc324c779ee9abf4f27fbda9eb963",
+    "prices" : [ {
+      "id" : 4624,
+      "regularPrice" : 49.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.740584"
+    } ]
+  }, {
+    "id" : 3422,
+    "nsuid" : "70010000082016",
+    "name" : "Color Water Sort",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000082016/8a5f6fcd8bf4334347d04076d34a42c96ea09bcc9a738f6821a3a873710d38cc",
+    "prices" : [ {
+      "id" : 4625,
+      "regularPrice" : 25.00,
+      "salePrice" : 12.50,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.741634"
+    } ]
+  }, {
+    "id" : 3423,
+    "nsuid" : "70010000079044",
+    "name" : "Nine Nights - Martial Ci Lang Story",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079044/af4b362c6e1d6de59fc01d648d9a333ef7a342b8510f5ad882e47d8a3fa7d05f",
+    "prices" : [ {
+      "id" : 4626,
+      "regularPrice" : 49.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.743353"
+    } ]
+  }, {
+    "id" : 3424,
+    "nsuid" : "70070000021968",
+    "name" : "Ultimate Children Fun Pack Games Collection 6 in 1",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000021968/a6880eb280c977b17103c869f781c2ff952a5f314603712cadc2c7a502f2b8e1",
+    "prices" : [ {
+      "id" : 4627,
+      "regularPrice" : 198.00,
+      "salePrice" : 158.40,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.74462"
+    } ]
+  }, {
+    "id" : 3425,
+    "nsuid" : "70010000080031",
+    "name" : "A Cat & His Boy",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080031/fb72fbe85a511472f70e3062979979560754e52a7f5ea30c049e07df055bfb79",
+    "prices" : [ {
+      "id" : 4628,
+      "regularPrice" : 13.79,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.745901"
+    } ]
+  }, {
+    "id" : 3426,
+    "nsuid" : "70010000079630",
+    "name" : "Ginger - The Tooth Fairy",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079630/7df488f94cb28daf1c2b24140586bc8c7dc6d9c21c84f368cb4e42c49ad8c2b5",
+    "prices" : [ {
+      "id" : 4629,
+      "regularPrice" : 36.99,
+      "salePrice" : 18.49,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.751156"
+    } ]
+  }, {
+    "id" : 3427,
+    "nsuid" : "70070000021969",
+    "name" : "Big Top Best Kids Games Bundle",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000021969/ff850e4877e4275d20e0c42daf1b05cae66c84deddc9568f2d6d92aba7553ecc",
+    "prices" : [ {
+      "id" : 4630,
+      "regularPrice" : 500.00,
+      "salePrice" : 400.00,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.754858"
+    } ]
+  }, {
+    "id" : 3428,
+    "nsuid" : "70010000081825",
+    "name" : "Animal Farm Jigsaw Games for Toddlers, Babies and Kids",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000081825/2d0bc2bee88ed8353dd399465e230cb413eff80d69cb82fba2b283721cb37c83",
+    "prices" : [ {
+      "id" : 4631,
+      "regularPrice" : 50.00,
+      "salePrice" : 45.00,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.756333"
+    } ]
+  }, {
+    "id" : 3429,
+    "nsuid" : "70010000067102",
+    "name" : "Construction Simulator 4",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000067102/b28a72fc178c6eba9fe854047d92fc489141b1ee921637b4b0fd027f6fbca38a",
+    "prices" : [ {
+      "id" : 4632,
+      "regularPrice" : 135.00,
+      "salePrice" : 67.50,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.757424"
+    } ]
+  }, {
+    "id" : 3430,
+    "nsuid" : "70070000021967",
+    "name" : "Jogos de Carros para Crianças e Bebês - Pacote 3 em 1",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70070000021967/fdcfcd1b5bdc609817002dfe0209381e9cd14944a8af30365edaf9cc1bab11a4",
+    "prices" : [ {
+      "id" : 4633,
+      "regularPrice" : 169.96,
+      "salePrice" : 135.96,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.758469"
+    } ]
+  }, {
+    "id" : 3431,
+    "nsuid" : "70010000079039",
+    "name" : "Highlaundry Overwashed - Play with your friends!",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079039/83fc65128da8a40cec23870a869b74116716e8d5aa2cad024181e37f733a8abd",
+    "prices" : [ {
+      "id" : 4634,
+      "regularPrice" : 39.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.759504"
+    } ]
+  }, {
+    "id" : 3432,
+    "nsuid" : "70010000081830",
+    "name" : "Early Learning Games for Kids, Toddlers & Babies",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000081830/abf5c7f9acd87407cca988c3df8d4ea49fafe84ef4d176b1d0b6ffce1579b4ad",
+    "prices" : [ {
+      "id" : 4635,
+      "regularPrice" : 50.00,
+      "salePrice" : 45.00,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.760481"
+    } ]
+  }, {
+    "id" : 3433,
+    "nsuid" : "70010000074804",
+    "name" : "Soul Link",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000074804/42f51c82bd10cad43f026b343a432287d5e3bd4d94f5dc8de5b90170a7e13aeb",
+    "prices" : [ {
+      "id" : 4636,
+      "regularPrice" : 20.49,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.76225"
+    } ]
+  }, {
+    "id" : 3434,
+    "nsuid" : "70010000065095",
+    "name" : "Wizardry: Proving Grounds of the Mad Overlord",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000065095/d4cc33eed2cbfd921bb85eaae09281acb72bfb588d7d7eebf42073a2390b3b85",
+    "prices" : [ {
+      "id" : 4637,
+      "regularPrice" : 107.99,
+      "salePrice" : 37.79,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.763588"
+    } ]
+  }, {
+    "id" : 3435,
+    "nsuid" : "70010000080420",
+    "name" : "50 Pinch Barrage!!",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080420/d31c2664558fd42336ed3cad8ec8f85073fda710ebf3014043c12be3d2b60282",
+    "prices" : [ {
+      "id" : 4638,
+      "regularPrice" : 16.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.764626"
+    } ]
+  }, {
+    "id" : 3436,
+    "nsuid" : "70010000065433",
+    "name" : "Paper Trail",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000065433/e07c0c208a62983c4f8525d7c5db72d5e9a69900f1d078d0b4598e0cd38da1fc",
+    "prices" : [ {
+      "id" : 4639,
+      "regularPrice" : 59.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.76559"
+    } ]
+  }, {
+    "id" : 3437,
+    "nsuid" : "70010000080562",
+    "name" : "Toon Toon Racing",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080562/5160c87008454bb325b1a161cf7c7c641329bbbb320ef3c29604b3d8117dc39d",
+    "prices" : [ {
+      "id" : 4640,
+      "regularPrice" : 39.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.766501"
+    } ]
+  }, {
+    "id" : 3438,
+    "nsuid" : "70010000080117",
+    "name" : "Adrenaline Rush: Highway Extreme Traffic Racer",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080117/9c3fb3a6afe1c8c60fa9eefebb3b5d01c9452109872f893cfb10bf21140e23ec",
+    "prices" : [ {
+      "id" : 4641,
+      "regularPrice" : 39.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.767472"
+    } ]
+  }, {
+    "id" : 3439,
+    "nsuid" : "70010000076929",
+    "name" : "Truck Simulator City Delivery",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000076929/af739b054022224eb653a3bd4be5715688b9f246f538d71ceb5475b23db9ea16",
+    "prices" : [ {
+      "id" : 4642,
+      "regularPrice" : 69.00,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.768643"
+    } ]
+  }, {
+    "id" : 3440,
+    "nsuid" : "70010000080520",
+    "name" : "3 minutes Mystery 2",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080520/a83343f286adeab3cb5feb364f99710b1e9bdccb9a57874e43bba3813d266a5d",
+    "prices" : [ {
+      "id" : 4643,
+      "regularPrice" : 44.99,
+      "salePrice" : 22.49,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.771745"
+    } ]
+  }, {
+    "id" : 3441,
+    "nsuid" : "70010000080169",
+    "name" : "Mutant Express",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080169/3f1ea6dcde80b2128deae44c284198fb62d3d7f4d4b929bd4b339f0d6aaed6f5",
+    "prices" : [ {
+      "id" : 4644,
+      "regularPrice" : 59.99,
+      "salePrice" : 17.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.772946"
+    } ]
+  }, {
+    "id" : 3442,
+    "nsuid" : "70010000079625",
+    "name" : "Dungeon Arsenal",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079625/c9beb278e95bcbdbfbfb70d311fd0d3b2cdf461974af47736a5476fdb7daeb59",
+    "prices" : [ {
+      "id" : 4645,
+      "regularPrice" : 36.99,
+      "salePrice" : 18.49,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.773968"
+    } ]
+  }, {
+    "id" : 3443,
+    "nsuid" : "70010000076716",
+    "name" : "PO’ed: Definitive Edition",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000076716/8e4a5ea736bb6616d75a87ae35c5dbb3a544c7ef5b3b5cc9047db0a4fa1c84a2",
+    "prices" : [ {
+      "id" : 4646,
+      "regularPrice" : 99.00,
+      "salePrice" : 34.65,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.775207"
+    } ]
+  }, {
+    "id" : 3444,
+    "nsuid" : "70010000075253",
+    "name" : "Please Fix The Road",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000075253/7f69ad50397b440dffa82d1a3bfba04ce3fc497139c30067bebb8228441ff0a1",
+    "prices" : [ {
+      "id" : 4647,
+      "regularPrice" : 49.00,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.776214"
+    } ]
+  }, {
+    "id" : 3445,
+    "nsuid" : "70010000054304",
+    "name" : "Lorelei and the Laser Eyes",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000054304/219b0daf83bddba18b0e44daa8902b97ab1ce0969675c462d5a198e8498e525a",
+    "prices" : [ {
+      "id" : 4648,
+      "regularPrice" : 99.99,
+      "salePrice" : 49.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.777025"
+    } ]
+  }, {
+    "id" : 3446,
+    "nsuid" : "70010000080542",
+    "name" : "Crab Digger TROPICAL ISLAND",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080542/58552e60fd040637d77403e10592e555900144e9d5c5967314d296cfc261599b",
+    "prices" : [ {
+      "id" : 4649,
+      "regularPrice" : 29.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.777904"
+    } ]
+  }, {
+    "id" : 3447,
+    "nsuid" : "70010000079134",
+    "name" : "Gearhead Karting Simulator - Mechanic & Racing",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079134/1269b207488f812229972b65c9f10b6ba3af12de380822d434503e1d67c47afd",
+    "prices" : [ {
+      "id" : 4650,
+      "regularPrice" : 59.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.778759"
+    } ]
+  }, {
+    "id" : 3448,
+    "nsuid" : "70010000067931",
+    "name" : "CorpoNation: The Sorting Process",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000067931/990159a73c65bb93e2d6cfae0e6cf793a9c1865d432f76d5753c4ad86423571c",
+    "prices" : [ {
+      "id" : 4651,
+      "regularPrice" : 74.00,
+      "salePrice" : 40.70,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.779709"
+    } ]
+  }, {
+    "id" : 3449,
+    "nsuid" : "70010000078937",
+    "name" : "Ninja Shuriken Master",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000078937/804595d1cdcf963bb76044750842fe9f05bced05e5eda5614085e2ec98e8fd3d",
+    "prices" : [ {
+      "id" : 4652,
+      "regularPrice" : 29.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.781346"
+    } ]
+  }, {
+    "id" : 3450,
+    "nsuid" : "70010000079029",
+    "name" : "DungeonSmash - Medieval Dungeons",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079029/f7f9789f7bdb057fb038f8777bbe743a5578f473226d9de019c775f564b6c25f",
+    "prices" : [ {
+      "id" : 4653,
+      "regularPrice" : 29.99,
+      "salePrice" : 14.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.782611"
+    } ]
+  }, {
+    "id" : 3451,
+    "nsuid" : "70010000076957",
+    "name" : "Corgi´s Travel",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000076957/c265957e3cc2f4de5a1455fa8d7d1093fb6a45b8fb761a72819b9b6b36c8b296",
+    "prices" : [ {
+      "id" : 4654,
+      "regularPrice" : 29.99,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.783542"
+    } ]
+  }, {
+    "id" : 3452,
+    "nsuid" : "70010000080500",
+    "name" : "Blood Lines : Magicians' Chase2",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080500/00f3e2014b7f58befac773c4f9a87bf4b86e38ce1beea93308853935fd2bf304",
+    "prices" : [ {
+      "id" : 4655,
+      "regularPrice" : 55.99,
+      "salePrice" : 30.79,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.78477"
+    } ]
+  }, {
+    "id" : 3453,
+    "nsuid" : "70010000080298",
+    "name" : "Baking Time",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000080298/221781d63a04f808a527c40f4ff64db2ad10c9b4ce11e85136ca834ee4351943",
+    "prices" : [ {
+      "id" : 4656,
+      "regularPrice" : 25.00,
+      "salePrice" : 11.99,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.785637"
+    } ]
+  }, {
+    "id" : 3454,
+    "nsuid" : "70010000079054",
+    "name" : "All Noobs must die - Craft, Survival, Mine",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000079054/bd08883eb970f8bd555ab0910d8351ed5d46db8a15577982a09728484a038bf6",
+    "prices" : [ {
+      "id" : 4657,
+      "regularPrice" : 69.99,
+      "salePrice" : 16.11,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.786495"
+    } ]
+  }, {
+    "id" : 3455,
+    "nsuid" : "70010000078634",
+    "name" : "My Horse Stories",
+    "platform" : "switch",
+    "coverImage" : "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_400/store/software/switch/70010000078634/899e6644ed9df428d8111326e14dc7814e6f6414d1743f0c825be19cb0c3f73b",
+    "prices" : [ {
+      "id" : 4658,
+      "regularPrice" : 40.00,
+      "salePrice" : 12.00,
+      "currency" : "BRL",
+      "recordedAt" : "2026-08-03T08:18:28.78731"
     } ]
   } ]
 }
