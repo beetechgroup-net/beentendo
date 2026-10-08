@@ -358,11 +358,14 @@ public class ScrapingService {
 
                             if (lastRecord == null || hasPriceChanged(lastRecord, finalRegPrice, finalSalePrice)) {
                                 saveNewPrice(loadedGame, finalRegPrice, finalSalePrice, "BRL", LocalDateTime.now());
-                                LOG.infof("[VERIFICACAO INDIVIDUAL] [%d de %d (%.1f%%)] Atualização de preço (NSUID %s): Normal: %s | Promocional: %s",
+                                LOG.infof("[VERIFICACAO INDIVIDUAL] [%d de %d (%.1f%%)] [ATUALIZADO] NSUID %s: Normal: %s | Promocional: %s",
                                         currentProgress, totalGames, percent, loadedGame.nsuid, finalRegPrice, finalSalePrice != null ? finalSalePrice : "N/A (Sem Promoção)");
                                 return true;
+                            } else {
+                                LOG.infof("[VERIFICACAO INDIVIDUAL] [%d de %d (%.1f%%)] [SEM ALTERACAO] NSUID %s",
+                                        currentProgress, totalGames, percent, loadedGame.nsuid);
+                                return false;
                             }
-                            return false;
                         });
 
                         if (Boolean.TRUE.equals(updated)) {
