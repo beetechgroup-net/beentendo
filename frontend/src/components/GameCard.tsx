@@ -2,10 +2,12 @@ import type { Game } from '../types';
 
 interface GameCardProps {
   game: Game;
+  isFavorite: boolean;
+  onToggleFavorite: (e: React.MouseEvent) => void;
   onClick: () => void;
 }
 
-export const GameCard = ({ game, onClick }: GameCardProps) => {
+export const GameCard = ({ game, isFavorite, onToggleFavorite, onClick }: GameCardProps) => {
   // O último preço da lista (mais recente)
   const latestPrice = game.prices && game.prices.length > 0
     ? game.prices[game.prices.length - 1]
@@ -34,6 +36,21 @@ export const GameCard = ({ game, onClick }: GameCardProps) => {
   return (
     <div className="game-card" onClick={onClick}>
       <div className="card-image-container">
+        <button 
+          type="button"
+          className={`card-favorite-btn ${isFavorite ? 'active' : ''}`}
+          onClick={(e) => {
+            e.stopPropagation();
+            onToggleFavorite(e);
+          }}
+          aria-label={isFavorite ? "Remover dos favoritos" : "Adicionar aos favoritos"}
+          title={isFavorite ? "Remover dos favoritos" : "Adicionar aos favoritos"}
+        >
+          <svg viewBox="0 0 24 24" className="star-icon">
+            <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" />
+          </svg>
+        </button>
+
         {game.coverImage ? (
           <img src={game.coverImage} alt={game.name} className="card-image" loading="lazy" />
         ) : (

@@ -3,10 +3,12 @@ import { PriceChart } from './PriceChart';
 
 interface GameModalProps {
   game: Game;
+  isFavorite: boolean;
+  onToggleFavorite: () => void;
   onClose: () => void;
 }
 
-export const GameModal = ({ game, onClose }: GameModalProps) => {
+export const GameModal = ({ game, isFavorite, onToggleFavorite, onClose }: GameModalProps) => {
   const latestPrice = game.prices && game.prices.length > 0
     ? game.prices[game.prices.length - 1]
     : null;
@@ -58,9 +60,24 @@ export const GameModal = ({ game, onClose }: GameModalProps) => {
             </div>
             
             <div className="modal-meta">
-              <span className={`platform-badge ${isSwitch2 ? 'platform-switch2' : 'platform-switch'}`}>
-                {isSwitch2 ? 'Switch 2' : 'Switch'}
-              </span>
+              <div className="modal-meta-header">
+                <span className={`platform-badge ${isSwitch2 ? 'platform-switch2' : 'platform-switch'}`}>
+                  {isSwitch2 ? 'Switch 2' : 'Switch'}
+                </span>
+                <button
+                  type="button"
+                  className={`modal-favorite-btn ${isFavorite ? 'active' : ''}`}
+                  onClick={onToggleFavorite}
+                  aria-label={isFavorite ? "Remover dos favoritos" : "Adicionar aos favoritos"}
+                  title={isFavorite ? "Remover dos favoritos" : "Adicionar aos favoritos"}
+                >
+                  <svg viewBox="0 0 24 24" className="star-icon">
+                    <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" />
+                  </svg>
+                  <span>{isFavorite ? 'Favoritado' : 'Favoritar'}</span>
+                </button>
+              </div>
+
               <h2 className="modal-game-title">{game.name}</h2>
               {game.nsuid && <div className="modal-nsuid">NSUID: {game.nsuid}</div>}
 

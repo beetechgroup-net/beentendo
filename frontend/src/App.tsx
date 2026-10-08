@@ -29,10 +29,21 @@ function App() {
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   
+  // Favoritos
+  const [favorites, setFavorites] = useState<number[]>(() => {
+    try {
+      const stored = localStorage.getItem('beetendo_favorites');
+      return stored ? JSON.parse(stored) : [];
+    } catch {
+      return [];
+    }
+  });
+
   // Filtros
   const [searchTerm, setSearchTerm] = useState<string>('');
   const [selectedPlatforms, setSelectedPlatforms] = useState<string[]>([]);
   const [onlyPromo, setOnlyPromo] = useState<boolean>(false);
+  const [onlyFavorites, setOnlyFavorites] = useState<boolean>(false);
   const [showMobileFilters, setShowMobileFilters] = useState<boolean>(false);
   
   // Controle de Modal
@@ -41,6 +52,14 @@ function App() {
   useEffect(() => {
     fetchGames();
   }, []);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem('beetendo_favorites', JSON.stringify(favorites));
+    } catch (err) {
+      console.error('Erro ao salvar favoritos no localStorage:', err);
+    }
+  }, [favorites]);
 
   const fetchGames = async () => {
     setLoading(true);
@@ -76,10 +95,19 @@ function App() {
     );
   };
 
+  const toggleFavorite = (gameId: number) => {
+    setFavorites(prev =>
+      prev.includes(gameId)
+        ? prev.filter(id => id !== gameId)
+        : [...prev, gameId]
+    );
+  };
+
   const clearAllFilters = () => {
     setSearchTerm('');
     setSelectedPlatforms([]);
     setOnlyPromo(false);
+    setOnlyFavorites(false);
   };
 
   // Filtragem dos jogos
@@ -97,8 +125,9 @@ function App() {
     const isPromo = latestPrice ? latestPrice.salePrice !== null : false;
     
     const matchesPromo = !onlyPromo || isPromo;
+    const matchesFavorites = !onlyFavorites || favorites.includes(game.id);
     
-    return matchesSearch && matchesPlatform && matchesPromo;
+    return matchesSearch && matchesPlatform && matchesPromo && matchesFavorites;
   });
 
   // Estatísticas Rápidas
@@ -135,6 +164,10 @@ function App() {
             <div className="stat-card border-promo">
               <span className="stat-value text-promo">{promoGamesCount}</span>
               <span className="stat-label">Em Promoção</span>
+            </div>
+            <div className="stat-card border-favorite">
+              <span className="stat-value text-favorite">{favorites.length}</span>
+              <span className="stat-label">Favoritos</span>
             </div>
           </div>
         </header>
@@ -193,10 +226,20 @@ function App() {
               </div>
             </div>
 
-            {/* Grupo de Promoções */}
+            {/* Grupo de Filtros Especiais */}
             <div className="filter-group">
-              <h3 className="filter-group-title">Ofertas</h3>
+              <h3 className="filter-group-title">Filtros Especiais</h3>
               <div className="filter-options">
+                <label className="filter-checkbox-label favorite-checkbox-label">
+                  <input 
+                    type="checkbox" 
+                    checked={onlyFavorites}
+                    onChange={() => setOnlyFavorites(!onlyFavorites)}
+                  />
+                  <span className="custom-checkbox favorite-custom-checkbox"></span>
+                  <span className="text-favorite">⭐ Favoritos ({favorites.length})</span>
+                </label>
+
                 <label className="filter-checkbox-label promo-checkbox">
                   <input 
                     type="checkbox" 
@@ -215,7 +258,7 @@ function App() {
                 {filteredGames.length} {filteredGames.length === 1 ? 'jogo encontrado' : 'jogos encontrados'}
               </div>
               
-              {(searchTerm || selectedPlatforms.length > 0 || onlyPromo) && (
+              {(searchTerm || selectedPlatforms.length > 0 || onlyPromo || onlyFavorites) && (
                 <button className="clear-filters-btn" onClick={clearAllFilters}>
                   🗑️ Limpar Filtros
                 </button>
@@ -248,7 +291,7 @@ function App() {
             ) : filteredGames.length === 0 ? (
               <div className="empty-state">
                 <p>Nenhum jogo encontrado para os filtros selecionados.</p>
-                {(searchTerm || selectedPlatforms.length > 0 || onlyPromo) && (
+                {(searchTerm || selectedPlatforms.length > 0 || onlyPromo || onlyFavorites) && (
                   <button className="retry-btn" style={{ marginTop: '15px' }} onClick={clearAllFilters}>
                     Limpar Filtros
                   </button>
@@ -260,6 +303,8 @@ function App() {
                   <GameCard 
                     key={game.id} 
                     game={game} 
+                    isFavorite={favorites.includes(game.id)}
+                    onToggleFavorite={() => toggleFavorite(game.id)}
                     onClick={() => setSelectedGame(game)} 
                   />
                 ))}
@@ -272,6 +317,8 @@ function App() {
         {selectedGame && (
           <GameModal 
             game={selectedGame} 
+            isFavorite={favorites.includes(selectedGame.id)}
+            onToggleFavorite={() => toggleFavorite(selectedGame.id)}
             onClose={() => setSelectedGame(null)} 
           />
         )}

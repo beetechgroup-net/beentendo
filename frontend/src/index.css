@@ -167,6 +167,51 @@ body {
   z-index: 2;
 }
 
+.card-favorite-btn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 3;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: rgba(15, 23, 42, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.4);
+  transition: all var(--transition-fast);
+}
+
+.card-favorite-btn:hover {
+  background: rgba(30, 41, 59, 0.9);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  transform: scale(1.1);
+}
+
+.card-favorite-btn.active {
+  background: rgba(245, 158, 11, 0.25);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  box-shadow: 0 0 12px rgba(245, 158, 11, 0.4);
+}
+
+.star-icon {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+  transition: transform var(--transition-fast);
+}
+
+.card-favorite-btn:active .star-icon,
+.modal-favorite-btn:active .star-icon {
+  transform: scale(1.25);
+}
+
 .card-content {
   padding: 16px;
   display: flex;
@@ -579,6 +624,16 @@ body {
   background: rgba(16, 185, 129, 0.02);
 }
 
+.border-favorite {
+  border-color: rgba(245, 158, 11, 0.3);
+  background: rgba(245, 158, 11, 0.02);
+}
+
+.text-favorite {
+  color: var(--accent-gold);
+  font-weight: 600;
+}
+
 .stat-value {
   font-family: var(--font-heading);
   font-size: 1.5rem;
@@ -730,6 +785,57 @@ body {
   letter-spacing: 0.8px;
 }
 
+.modal-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.modal-meta-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.modal-meta-header .platform-badge {
+  margin-bottom: 0;
+}
+
+.modal-favorite-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-color);
+  color: var(--color-text-secondary);
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.modal-favorite-btn:hover {
+  background: rgba(245, 158, 11, 0.1);
+  border-color: rgba(245, 158, 11, 0.4);
+  color: var(--accent-gold);
+  transform: translateY(-1px);
+}
+
+.modal-favorite-btn.active {
+  background: rgba(245, 158, 11, 0.2);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  box-shadow: 0 0 10px rgba(245, 158, 11, 0.3);
+}
+
+.modal-favorite-btn.active .star-icon {
+  fill: var(--accent-gold);
+}
+
 .filter-options {
   display: flex;
   flex-direction: column;
@@ -802,6 +908,11 @@ body {
 
 .filter-checkbox-label input:checked + .custom-checkbox::after {
   transform: rotate(45deg) scale(1);
+}
+
+.filter-checkbox-label.favorite-checkbox-label input:checked + .custom-checkbox {
+  background-color: var(--accent-gold);
+  border-color: var(--accent-gold);
 }
 
 /* Sidebar Footer & Limpar Filtros */
