@@ -33,7 +33,7 @@ services:
       DB_NAME: ${DB_NAME:-beentendo}
       DB_HOST: postgres
       DB_PORT: 5432
-      ALLOWED_URL: https://beentendo.beetech.dev
+      ALLOWED_URL: https://beentendo.beetech.dev,https://beetendo.beetech.dev
     depends_on:
       postgres:
         condition: service_healthy
@@ -43,7 +43,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.docker.network=proxy"
-      - "traefik.http.routers.beentendo-backend.rule=Host(`api.beetendo.beetech.dev`)"
+      - "traefik.http.routers.beentendo-backend.rule=Host(`api-beetendo.beetech.dev`) || Host(`api-beentendo.beetech.dev`)"
       - "traefik.http.routers.beentendo-backend.entrypoints=web"
       - "traefik.http.services.beentendo-backend.loadbalancer.server.port=8080"
 
@@ -52,7 +52,7 @@ services:
       context: ./frontend
       dockerfile: Dockerfile
       args:
-        VITE_API_URL: ${VITE_API_URL:-https://api.beetendo.beetech.dev}
+        VITE_API_URL: ${VITE_API_URL:-https://api-beetendo.beetech.dev}
     container_name: beentendo-frontend
     restart: unless-stopped
     expose:
@@ -65,7 +65,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.docker.network=proxy"
-      - "traefik.http.routers.beentendo-frontend.rule=Host(`beentendo.beetech.dev`)"
+      - "traefik.http.routers.beentendo-frontend.rule=Host(`beentendo.beetech.dev`) || Host(`beetendo.beetech.dev`)"
       - "traefik.http.routers.beentendo-frontend.entrypoints=web"
       - "traefik.http.services.beentendo-frontend.loadbalancer.server.port=80"
 
