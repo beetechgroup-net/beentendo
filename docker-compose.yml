@@ -1,0 +1,79 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: beentendo-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${DB_USER:-beentendo}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-beentendo}
+      POSTGRES_DB: ${DB_NAME:-beentendo}
+    ports:
+      - "5435:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-beentendo}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - internal
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: beentendo-backend
+    restart: unless-stopped
+    expose:
+      - "8080"
+    environment:
+      DB_USER: ${DB_USER:-beentendo}
+      DB_PASSWORD: ${DB_PASSWORD:-beentendo}
+      DB_NAME: ${DB_NAME:-beentendo}
+      DB_HOST: postgres
+      DB_PORT: 5432
+      ALLOWED_URL: https://beentendo.beetech.dev
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - proxy
+      - internal
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=proxy"
+      - "traefik.http.routers.beentendo-backend.rule=Host(`api.beetendo.beetech.dev`)"
+      - "traefik.http.routers.beentendo-backend.entrypoints=web"
+      - "traefik.http.services.beentendo-backend.loadbalancer.server.port=8080"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        VITE_API_URL: ${VITE_API_URL:-https://api.beetendo.beetech.dev}
+    container_name: beentendo-frontend
+    restart: unless-stopped
+    expose:
+      - "80"
+    depends_on:
+      - backend
+    networks:
+      - proxy
+      - internal
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=proxy"
+      - "traefik.http.routers.beentendo-frontend.rule=Host(`beentendo.beetech.dev`)"
+      - "traefik.http.routers.beentendo-frontend.entrypoints=web"
+      - "traefik.http.services.beentendo-frontend.loadbalancer.server.port=80"
+
+volumes:
+  postgres_data:
+
+networks:
+  proxy:
+    external: true
+  internal:
+    driver: bridge
