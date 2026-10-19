@@ -135,6 +135,13 @@ function App() {
     }
   };
 
+  const toggleSortOrder = () => {
+    setSortOrder((prev) => (prev === 'asc' ? 'desc' : 'asc'));
+    if (sortBy === 'none') {
+      setSortBy('price');
+    }
+  };
+
   const clearAllFilters = () => {
     setSearchTerm('');
     setSelectedPlatforms([]);
@@ -270,40 +277,31 @@ function App() {
             <div className="filter-group">
               <h3 className="filter-group-title">Ordenar</h3>
               <div className="sidebar-sort-container">
-                <div className="custom-select-wrapper">
-                  <select
-                    className="custom-select"
-                    value={sortBy}
-                    onChange={(e) => handleSortByChange(e.target.value as SortField)}
-                    aria-label="Critério de ordenação"
-                  >
-                    <option value="none">Padrão</option>
-                    <option value="price">Preço</option>
-                    <option value="discountPercent">% de Desconto</option>
-                    <option value="discountValue">Valor do Desconto</option>
-                  </select>
-                </div>
-
-                {sortBy !== 'none' && (
-                  <div className="sort-segmented-control">
-                    <button
-                      type="button"
-                      className={`segmented-btn ${sortOrder === 'asc' ? 'active' : ''}`}
-                      onClick={() => setSortOrder('asc')}
-                      title="Ordem Crescente (Menor primeiro)"
+                <div className="sort-input-row">
+                  <div className="custom-select-wrapper">
+                    <select
+                      className="custom-select"
+                      value={sortBy}
+                      onChange={(e) => handleSortByChange(e.target.value as SortField)}
+                      aria-label="Critério de ordenação"
                     >
-                      <span>↑ Crescente</span>
-                    </button>
-                    <button
-                      type="button"
-                      className={`segmented-btn ${sortOrder === 'desc' ? 'active' : ''}`}
-                      onClick={() => setSortOrder('desc')}
-                      title="Ordem Decrescente (Maior primeiro)"
-                    >
-                      <span>↓ Decrescente</span>
-                    </button>
+                      <option value="none">Padrão</option>
+                      <option value="price">Preço</option>
+                      <option value="discountPercent">% de Desconto</option>
+                      <option value="discountValue">Valor do Desconto</option>
+                    </select>
                   </div>
-                )}
+                  <button
+                    type="button"
+                    className="sort-direction-btn-green"
+                    onClick={toggleSortOrder}
+                    title={sortOrder === 'asc' ? 'Ordem: Crescente (Clique para mudar para Decrescente)' : 'Ordem: Decrescente (Clique para mudar para Crescente)'}
+                    aria-label={`Ordem atual: ${sortOrder === 'asc' ? 'Ascendente' : 'Descendente'}. Clique para alternar.`}
+                  >
+                    <span className="sort-direction-icon">{sortOrder === 'asc' ? '↑' : '↓'}</span>
+                    <span>{sortOrder === 'asc' ? 'ASC' : 'DESC'}</span>
+                  </button>
+                </div>
               </div>
             </div>
 
@@ -412,37 +410,32 @@ function App() {
                   </div>
                   <div className="toolbar-sort-group">
                     <label htmlFor="toolbar-sort-select" className="toolbar-sort-label">Ordenar:</label>
-                    <div className="custom-select-wrapper">
-                      <select
-                        id="toolbar-sort-select"
-                        className="custom-select"
-                        value={sortBy}
-                        onChange={(e) => handleSortByChange(e.target.value as SortField)}
-                        aria-label="Ordenar jogos rapidamente"
-                      >
-                        <option value="none">Padrão</option>
-                        <option value="price">Preço</option>
-                        <option value="discountPercent">% de Desconto</option>
-                        <option value="discountValue">Valor do Desconto</option>
-                      </select>
-                    </div>
-                    {sortBy !== 'none' && (
+                    <div className="sort-input-row">
+                      <div className="custom-select-wrapper">
+                        <select
+                          id="toolbar-sort-select"
+                          className="custom-select"
+                          value={sortBy}
+                          onChange={(e) => handleSortByChange(e.target.value as SortField)}
+                          aria-label="Ordenar jogos rapidamente"
+                        >
+                          <option value="none">Padrão</option>
+                          <option value="price">Preço</option>
+                          <option value="discountPercent">% de Desconto</option>
+                          <option value="discountValue">Valor do Desconto</option>
+                        </select>
+                      </div>
                       <button
                         type="button"
-                        className="sort-direction-toggle-btn"
-                        onClick={() => setSortOrder(prev => prev === 'asc' ? 'desc' : 'asc')}
-                        title={sortOrder === 'asc' ? 'Alternar para Descendente (Maior primeiro)' : 'Alternar para Crescente (Menor primeiro)'}
+                        className="sort-direction-btn-green"
+                        onClick={toggleSortOrder}
+                        title={sortOrder === 'asc' ? 'Ordem: Crescente (Clique para mudar para Decrescente)' : 'Ordem: Decrescente (Clique para mudar para Crescente)'}
+                        aria-label={`Ordem atual: ${sortOrder === 'asc' ? 'Ascendente' : 'Descendente'}. Clique para alternar.`}
                       >
                         <span className="sort-direction-icon">{sortOrder === 'asc' ? '↑' : '↓'}</span>
-                        <span className="sort-direction-label">
-                          {sortBy === 'price'
-                            ? sortOrder === 'asc' ? 'Menor Preço' : 'Maior Preço'
-                            : sortBy === 'discountPercent'
-                            ? sortOrder === 'asc' ? 'Menor %' : 'Maior %'
-                            : sortOrder === 'asc' ? 'Menor Desconto' : 'Maior Desconto'}
-                        </span>
+                        <span>{sortOrder === 'asc' ? 'ASC' : 'DESC'}</span>
                       </button>
-                    )}
+                    </div>
                   </div>
                 </div>
 
