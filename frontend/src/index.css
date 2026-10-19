@@ -263,6 +263,13 @@ body {
   align-items: center;
 }
 
+.price-promo-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+}
+
 .price-group {
   display: flex;
   flex-direction: column;
@@ -287,6 +294,37 @@ body {
   font-weight: 700;
   color: var(--color-text-primary);
   font-family: var(--font-heading);
+}
+
+.discount-savings-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: rgba(16, 185, 129, 0.12);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  border-radius: 6px;
+  padding: 3px 8px;
+  width: fit-content;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.discount-savings-tag .savings-label {
+  color: var(--color-text-secondary);
+  font-size: 0.72rem;
+  font-weight: 500;
+}
+
+.discount-savings-tag .savings-value {
+  color: #10b981;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.modal-discount-value-highlight {
+  color: #10b981;
+  font-weight: 600;
+  margin-left: 4px;
 }
 
 /* Modal Backdrop Overlay */

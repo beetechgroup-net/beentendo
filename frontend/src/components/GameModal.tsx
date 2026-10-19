@@ -24,6 +24,8 @@ export const GameModal = ({ game, isFavorite, onToggleFavorite, onClose }: GameM
     ? Math.round((1 - currentPrice / regularPrice) * 100)
     : 0;
 
+  const discountValue = isPromo ? Math.max(0, regularPrice - currentPrice) : 0;
+
   const formatPrice = (value: number, code: string = 'BRL') => {
     const locale = code === 'USD' ? 'en-US' : 'pt-BR';
     return value.toLocaleString(locale, { style: 'currency', currency: code });
@@ -94,6 +96,7 @@ export const GameModal = ({ game, isFavorite, onToggleFavorite, onClose }: GameM
                 {isPromo && (
                   <div className="modal-regular-price">
                     Preço normal: <span className="strikethrough">{formatPrice(regularPrice, currencyCode)}</span>
+                    <span className="modal-discount-value-highlight"> (Desconto de {formatPrice(discountValue, currencyCode)})</span>
                   </div>
                 )}
               </div>

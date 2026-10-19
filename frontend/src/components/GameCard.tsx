@@ -25,6 +25,9 @@ export const GameCard = ({ game, isFavorite, onToggleFavorite, onClick }: GameCa
     ? Math.round((1 - currentPrice / regularPrice) * 100)
     : 0;
 
+  // Calcula o valor em dinheiro do desconto
+  const discountValue = isPromo ? Math.max(0, regularPrice - currentPrice) : 0;
+
   // Formata o preço em Real Brasileiro ou Dólar Americano
   const formatPrice = (value: number) => {
     const locale = currencyCode === 'USD' ? 'en-US' : 'pt-BR';
@@ -74,9 +77,15 @@ export const GameCard = ({ game, isFavorite, onToggleFavorite, onClick }: GameCa
 
         <div className="price-container">
           {isPromo ? (
-            <div className="price-group">
-              <span className="price-old">{formatPrice(regularPrice)}</span>
-              <span className="price-new">{formatPrice(currentPrice)}</span>
+            <div className="price-promo-wrapper">
+              <div className="price-group">
+                <span className="price-old">{formatPrice(regularPrice)}</span>
+                <span className="price-new">{formatPrice(currentPrice)}</span>
+              </div>
+              <div className="discount-savings-tag" title={`Economia de ${formatPrice(discountValue)}`}>
+                <span className="savings-label">Desconto de</span>
+                <strong className="savings-value">{formatPrice(discountValue)}</strong>
+              </div>
             </div>
           ) : (
             <span className="price-normal">{formatPrice(regularPrice)}</span>
