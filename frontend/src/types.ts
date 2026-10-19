@@ -19,3 +19,6 @@ export interface GamesResponse {
   updateDate?: string;
   games: Game[];
 }
+
+export type SortField = 'none' | 'price' | 'discountPercent' | 'discountValue';
+export type SortOrder = 'asc' | 'desc';

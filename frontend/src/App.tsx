@@ -1,11 +1,29 @@
 import { useEffect, useState } from 'react';
-import type { Game, GamesResponse } from './types';
+import type { Game, GamesResponse, SortField, SortOrder } from './types';
 import { GameCard } from './components/GameCard';
 import { GameModal } from './components/GameModal';
 
 const DATA_SOURCE = import.meta.env.VITE_DATA_SOURCE || 'backend';
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8080';
 const API_URL = DATA_SOURCE === 'json' ? './games.json' : `${API_BASE_URL.replace(/\/$/, '')}/games`;
+
+const getGameCurrentPrice = (game: Game): number => {
+  const latest = game.prices && game.prices.length > 0 ? game.prices[game.prices.length - 1] : null;
+  if (!latest) return 0;
+  return latest.salePrice !== null ? Number(latest.salePrice) : Number(latest.regularPrice);
+};
+
+const getGameDiscountPercent = (game: Game): number => {
+  const latest = game.prices && game.prices.length > 0 ? game.prices[game.prices.length - 1] : null;
+  if (!latest || latest.salePrice === null || !latest.regularPrice || Number(latest.regularPrice) <= 0) return 0;
+  return Math.round((1 - Number(latest.salePrice) / Number(latest.regularPrice)) * 100);
+};
+
+const getGameDiscountValue = (game: Game): number => {
+  const latest = game.prices && game.prices.length > 0 ? game.prices[game.prices.length - 1] : null;
+  if (!latest || latest.salePrice === null || !latest.regularPrice) return 0;
+  return Math.max(0, Number(latest.regularPrice) - Number(latest.salePrice));
+};
 
 const formatUpdateDate = (dateStr: string | null) => {
   if (!dateStr) return null;
@@ -46,6 +64,10 @@ function App() {
   const [onlyPromo, setOnlyPromo] = useState<boolean>(false);
   const [onlyFavorites, setOnlyFavorites] = useState<boolean>(false);
   const [showMobileFilters, setShowMobileFilters] = useState<boolean>(false);
+  
+  // Ordenação
+  const [sortBy, setSortBy] = useState<SortField>('none');
+  const [sortOrder, setSortOrder] = useState<SortOrder>('asc');
   
   // Controle de Modal
   const [selectedGame, setSelectedGame] = useState<Game | null>(null);
@@ -104,12 +126,30 @@ function App() {
     );
   };
 
+  const handleSortByChange = (field: SortField) => {
+    setSortBy(field);
+    if (field === 'price') {
+      setSortOrder('asc');
+    } else if (field === 'discountPercent' || field === 'discountValue') {
+      setSortOrder('desc');
+    }
+  };
+
   const clearAllFilters = () => {
     setSearchTerm('');
     setSelectedPlatforms([]);
     setOnlyPromo(false);
     setOnlyFavorites(false);
+    setSortBy('none');
+    setSortOrder('asc');
   };
+
+  const hasActiveFilters =
+    searchTerm !== '' ||
+    selectedPlatforms.length > 0 ||
+    onlyPromo ||
+    onlyFavorites ||
+    sortBy !== 'none';
 
   // Filtragem dos jogos
   const filteredGames = games.filter(game => {
@@ -129,6 +169,31 @@ function App() {
     const matchesFavorites = !onlyFavorites || favorites.includes(game.id);
     
     return matchesSearch && matchesPlatform && matchesPromo && matchesFavorites;
+  });
+
+  // Ordenação dos jogos filtrados
+  const sortedGames = [...filteredGames].sort((a, b) => {
+    if (sortBy === 'none') return 0;
+
+    let valA = 0;
+    let valB = 0;
+
+    if (sortBy === 'price') {
+      valA = getGameCurrentPrice(a);
+      valB = getGameCurrentPrice(b);
+    } else if (sortBy === 'discountPercent') {
+      valA = getGameDiscountPercent(a);
+      valB = getGameDiscountPercent(b);
+    } else if (sortBy === 'discountValue') {
+      valA = getGameDiscountValue(a);
+      valB = getGameDiscountValue(b);
+    }
+
+    if (valA !== valB) {
+      return sortOrder === 'asc' ? valA - valB : valB - valA;
+    }
+
+    return a.name.localeCompare(b.name, 'pt-BR', { sensitivity: 'base' });
   });
 
   // Estatísticas Rápidas
@@ -201,6 +266,47 @@ function App() {
               </div>
             </div>
 
+            {/* Grupo de Ordenação */}
+            <div className="filter-group">
+              <h3 className="filter-group-title">Ordenar</h3>
+              <div className="sidebar-sort-container">
+                <div className="custom-select-wrapper">
+                  <select
+                    className="custom-select"
+                    value={sortBy}
+                    onChange={(e) => handleSortByChange(e.target.value as SortField)}
+                    aria-label="Critério de ordenação"
+                  >
+                    <option value="none">Padrão</option>
+                    <option value="price">Preço</option>
+                    <option value="discountPercent">% de Desconto</option>
+                    <option value="discountValue">Valor do Desconto</option>
+                  </select>
+                </div>
+
+                {sortBy !== 'none' && (
+                  <div className="sort-segmented-control">
+                    <button
+                      type="button"
+                      className={`segmented-btn ${sortOrder === 'asc' ? 'active' : ''}`}
+                      onClick={() => setSortOrder('asc')}
+                      title="Ordem Crescente (Menor primeiro)"
+                    >
+                      <span>↑ Crescente</span>
+                    </button>
+                    <button
+                      type="button"
+                      className={`segmented-btn ${sortOrder === 'desc' ? 'active' : ''}`}
+                      onClick={() => setSortOrder('desc')}
+                      title="Ordem Decrescente (Maior primeiro)"
+                    >
+                      <span>↓ Decrescente</span>
+                    </button>
+                  </div>
+                )}
+              </div>
+            </div>
+
             {/* Grupo de Plataformas */}
             <div className="filter-group">
               <h3 className="filter-group-title">Plataformas</h3>
@@ -256,10 +362,10 @@ function App() {
             {/* Resumo de resultados e Limpar Filtros */}
             <div className="sidebar-footer">
               <div className="results-count">
-                {filteredGames.length} {filteredGames.length === 1 ? 'jogo encontrado' : 'jogos encontrados'}
+                {sortedGames.length} {sortedGames.length === 1 ? 'jogo encontrado' : 'jogos encontrados'}
               </div>
               
-              {(searchTerm || selectedPlatforms.length > 0 || onlyPromo || onlyFavorites) && (
+              {hasActiveFilters && (
                 <button className="clear-filters-btn" onClick={clearAllFilters}>
                   🗑️ Limpar Filtros
                 </button>
@@ -289,27 +395,69 @@ function App() {
                 <p className="error-message">{error}</p>
                 <button onClick={fetchGames} className="retry-btn">Tentar Novamente</button>
               </div>
-            ) : filteredGames.length === 0 ? (
+            ) : sortedGames.length === 0 ? (
               <div className="empty-state">
                 <p>Nenhum jogo encontrado para os filtros selecionados.</p>
-                {(searchTerm || selectedPlatforms.length > 0 || onlyPromo || onlyFavorites) && (
+                {hasActiveFilters && (
                   <button className="retry-btn" style={{ marginTop: '15px' }} onClick={clearAllFilters}>
                     Limpar Filtros
                   </button>
                 )}
               </div>
             ) : (
-              <main className="games-grid">
-                {filteredGames.map(game => (
-                  <GameCard 
-                    key={game.id} 
-                    game={game} 
-                    isFavorite={favorites.includes(game.id)}
-                    onToggleFavorite={() => toggleFavorite(game.id)}
-                    onClick={() => setSelectedGame(game)} 
-                  />
-                ))}
-              </main>
+              <>
+                <div className="games-toolbar">
+                  <div className="toolbar-count">
+                    Mostrando <strong>{sortedGames.length}</strong> {sortedGames.length === 1 ? 'jogo' : 'jogos'}
+                  </div>
+                  <div className="toolbar-sort-group">
+                    <label htmlFor="toolbar-sort-select" className="toolbar-sort-label">Ordenar:</label>
+                    <div className="custom-select-wrapper">
+                      <select
+                        id="toolbar-sort-select"
+                        className="custom-select"
+                        value={sortBy}
+                        onChange={(e) => handleSortByChange(e.target.value as SortField)}
+                        aria-label="Ordenar jogos rapidamente"
+                      >
+                        <option value="none">Padrão</option>
+                        <option value="price">Preço</option>
+                        <option value="discountPercent">% de Desconto</option>
+                        <option value="discountValue">Valor do Desconto</option>
+                      </select>
+                    </div>
+                    {sortBy !== 'none' && (
+                      <button
+                        type="button"
+                        className="sort-direction-toggle-btn"
+                        onClick={() => setSortOrder(prev => prev === 'asc' ? 'desc' : 'asc')}
+                        title={sortOrder === 'asc' ? 'Alternar para Descendente (Maior primeiro)' : 'Alternar para Crescente (Menor primeiro)'}
+                      >
+                        <span className="sort-direction-icon">{sortOrder === 'asc' ? '↑' : '↓'}</span>
+                        <span className="sort-direction-label">
+                          {sortBy === 'price'
+                            ? sortOrder === 'asc' ? 'Menor Preço' : 'Maior Preço'
+                            : sortBy === 'discountPercent'
+                            ? sortOrder === 'asc' ? 'Menor %' : 'Maior %'
+                            : sortOrder === 'asc' ? 'Menor Desconto' : 'Maior Desconto'}
+                        </span>
+                      </button>
+                    )}
+                  </div>
+                </div>
+
+                <main className="games-grid">
+                  {sortedGames.map(game => (
+                    <GameCard 
+                      key={game.id} 
+                      game={game} 
+                      isFavorite={favorites.includes(game.id)}
+                      onToggleFavorite={() => toggleFavorite(game.id)}
+                      onClick={() => setSelectedGame(game)} 
+                    />
+                  ))}
+                </main>
+              </>
             )}
           </section>
         </div>
