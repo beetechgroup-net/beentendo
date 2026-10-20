@@ -12,6 +12,7 @@ export interface Game {
   name: string;
   platform: string;
   coverImage: string | null;
+  url?: string | null;
   prices: PriceRecord[];
 }
 

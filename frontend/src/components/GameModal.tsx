@@ -100,6 +100,19 @@ export const GameModal = ({ game, isFavorite, onToggleFavorite, onClose }: GameM
                   </div>
                 )}
               </div>
+
+              <a
+                href={game.url || `https://www.nintendo.com/pt-br/search/#q=${encodeURIComponent(game.name)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="modal-eshop-btn"
+                title="Abrir página oficial do jogo na Loja Nintendo"
+              >
+                <span>Ver na Nintendo eShop</span>
+                <svg viewBox="0 0 24 24" className="external-link-icon">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3" />
+                </svg>
+              </a>
             </div>
           </div>
 

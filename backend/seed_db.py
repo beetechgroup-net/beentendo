@@ -39,7 +39,8 @@ CREATE TABLE IF NOT EXISTS game (
     nsuid VARCHAR(255) NOT NULL UNIQUE,
     name VARCHAR(255) NOT NULL,
     platform VARCHAR(255) NOT NULL,
-    cover_image TEXT
+    cover_image TEXT,
+    url TEXT
 );
 
 CREATE TABLE IF NOT EXISTS price_record (
@@ -67,8 +68,9 @@ TRUNCATE TABLE price_record, game RESTART IDENTITY CASCADE;
         name = escape_sql_str(game.get('name'))
         platform = escape_sql_str(game.get('platform'))
         cover_image = escape_sql_str(game.get('coverImage'))
+        url_val = escape_sql_str(game.get('url'))
         
-        game_rows.append(f"({gid}, {nsuid}, {name}, {platform}, {cover_image})")
+        game_rows.append(f"({gid}, {nsuid}, {name}, {platform}, {cover_image}, {url_val})")
 
         for price in game.get('prices', []):
             pid = price['id']
@@ -83,7 +85,7 @@ TRUNCATE TABLE price_record, game RESTART IDENTITY CASCADE;
     batch_size = 500
     for i in range(0, len(game_rows), batch_size):
         batch = game_rows[i:i+batch_size]
-        sql_lines.append(f"INSERT INTO game (id, nsuid, name, platform, cover_image) VALUES\n" + ",\n".join(batch) + ";")
+        sql_lines.append(f"INSERT INTO game (id, nsuid, name, platform, cover_image, url) VALUES\n" + ",\n".join(batch) + ";")
 
     # Batch price inserts
     for i in range(0, len(price_rows), batch_size):

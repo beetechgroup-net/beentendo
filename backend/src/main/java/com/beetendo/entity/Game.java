@@ -21,6 +21,9 @@ public class Game extends PanacheEntity {
     @Column(name = "cover_image")
     public String coverImage;
 
+    @Column(name = "url", columnDefinition = "TEXT")
+    public String url;
+
     @jakarta.persistence.OneToMany(mappedBy = "game", fetch = jakarta.persistence.FetchType.EAGER, cascade = jakarta.persistence.CascadeType.ALL)
     @jakarta.persistence.OrderBy("recordedAt ASC")
     @com.fasterxml.jackson.annotation.JsonIgnoreProperties("game")

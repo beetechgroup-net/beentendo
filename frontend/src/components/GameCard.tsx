@@ -67,9 +67,25 @@ export const GameCard = ({ game, isFavorite, onToggleFavorite, onClick }: GameCa
       </div>
 
       <div className="card-content">
-        <span className={`platform-badge ${isSwitch2 ? 'platform-switch2' : 'platform-switch'}`}>
-          {isSwitch2 ? 'Switch 2' : 'Switch'}
-        </span>
+        <div className="card-header-row">
+          <span className={`platform-badge ${isSwitch2 ? 'platform-switch2' : 'platform-switch'}`}>
+            {isSwitch2 ? 'Switch 2' : 'Switch'}
+          </span>
+          <a
+            href={game.url || `https://www.nintendo.com/pt-br/search/#q=${encodeURIComponent(game.name)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="card-eshop-link"
+            onClick={(e) => e.stopPropagation()}
+            title="Abrir na Nintendo eShop (nova aba)"
+            aria-label="Abrir na Nintendo eShop"
+          >
+            <span>eShop</span>
+            <svg viewBox="0 0 24 24" className="external-link-icon">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3" />
+            </svg>
+          </a>
+        </div>
         
         <h3 className="game-title" title={game.name}>
           {game.name}

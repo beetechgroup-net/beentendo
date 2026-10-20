@@ -201,11 +201,23 @@ public class ScrapingService {
             }
         }
 
+        String url = null;
+        if (item.hasNonNull("url")) {
+            String rawUrl = item.get("url").asText();
+            if (!rawUrl.startsWith("http")) {
+                url = "https://www.nintendo.com" + (rawUrl.startsWith("/") ? rawUrl : "/" + rawUrl);
+            } else {
+                url = rawUrl;
+            }
+        } else if (item.hasNonNull("urlKey")) {
+            url = "https://www.nintendo.com/pt-br/store/products/" + item.get("urlKey").asText() + "/";
+        }
+
         // Itens de Promoção da eShop BR vêm sempre em BRL
-        persistOrUpdateGame(nsuid, name, platform, coverImage, regularPrice, salePrice, "BRL");
+        persistOrUpdateGame(nsuid, name, platform, coverImage, url, regularPrice, salePrice, "BRL");
     }
 
-    private void persistOrUpdateGame(String nsuid, String name, String platform, String coverImage, BigDecimal regularPrice, BigDecimal salePrice, String currency) {
+    private void persistOrUpdateGame(String nsuid, String name, String platform, String coverImage, String url, BigDecimal regularPrice, BigDecimal salePrice, String currency) {
         Game game = null;
         if (nsuid != null && !nsuid.trim().isEmpty()) {
             game = Game.find("nsuid", nsuid).firstResult();
@@ -221,13 +233,22 @@ public class ScrapingService {
             game.name = name;
             game.platform = platform;
             game.coverImage = coverImage;
+            game.url = url;
             game.persist();
 
             saveNewPrice(game, regularPrice, salePrice, currency, now);
             LOG.infof("[NOVO JOGO] %s (%s) cadastrado via catálogo com preço %s %s", name, platform, currency, regularPrice);
         } else {
+            boolean shouldUpdate = false;
             if (coverImage != null && !coverImage.equals(game.coverImage)) {
                 game.coverImage = coverImage;
+                shouldUpdate = true;
+            }
+            if (url != null && !url.equals(game.url)) {
+                game.url = url;
+                shouldUpdate = true;
+            }
+            if (shouldUpdate) {
                 game.persist();
             }
 
